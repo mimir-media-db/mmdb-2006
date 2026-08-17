@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_biggest_loser",
+  "title": "The Biggest Loser",
+  "start_year": 2006,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7717897",
+    "imdb": "tt0818297",
+    "tmdb": 3170
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 496
+}

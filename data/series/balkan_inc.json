@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_balkan_inc",
+  "title": "Balkan Inc.",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q2625907",
+    "imdb": "tt0808010",
+    "tmdb": 83789
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

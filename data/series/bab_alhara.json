@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bab_alhara",
+  "title": "Bab Al-Hara",
+  "start_year": 2006,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q797531",
+    "imdb": "tt1999065",
+    "tmdb": 30695
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 308
+}

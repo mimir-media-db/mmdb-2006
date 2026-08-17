@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_binbir_gece",
+  "title": "Binbir Gece",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q373610",
+    "imdb": "tt0905574",
+    "tmdb": 17915
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 90
+}

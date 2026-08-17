@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_beautiful_minds",
+  "title": "Beautiful Minds",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4877770",
+    "imdb": "tt0982021",
+    "tmdb": 98318
+  },
+  "last_updated": "2026-08-17"
+}

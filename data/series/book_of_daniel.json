@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_book_of_daniel",
+  "title": "The Book of Daniel",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3520056",
+    "imdb": "tt0470642",
+    "tmdb": 2856
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

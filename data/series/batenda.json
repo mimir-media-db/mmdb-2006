@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_batenda",
+  "title": "Bâtendâ",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q128926126",
+    "imdb": "tt0875778",
+    "tmdb": 42860
+  },
+  "last_updated": "2026-08-17"
+}

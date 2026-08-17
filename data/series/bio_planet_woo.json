@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_bio_planet_woo",
+  "title": "Bio Planet WoO",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4914684",
+    "imdb": "tt1048899"
+  },
+  "last_updated": "2026-08-17"
+}
