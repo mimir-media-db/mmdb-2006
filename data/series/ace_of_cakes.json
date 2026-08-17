@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ace_of_cakes",
+  "title": "Ace of Cakes",
+  "start_year": 2006,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3012056",
+    "imdb": "tt0842903",
+    "tmdb": 740
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 115
+}

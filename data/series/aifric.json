@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aifric",
+  "title": "Aifric",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3406433",
+    "imdb": "tt0901702",
+    "tmdb": 1309
+  },
+  "last_updated": "2026-08-17"
+}

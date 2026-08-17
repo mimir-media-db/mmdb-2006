@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_al_limite",
+  "title": "Al límite",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2835240",
+    "imdb": "tt1641424",
+    "tmdb": 303525
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_alien_sam",
+  "title": "Alien Sam",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12961362"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

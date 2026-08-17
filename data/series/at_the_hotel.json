@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_at_the_hotel",
+  "title": "At the Hotel",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4812527",
+    "imdb": "tt0481257",
+    "tmdb": 2977
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

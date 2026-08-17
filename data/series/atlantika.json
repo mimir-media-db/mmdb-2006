@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_atlantika",
+  "title": "Atlantika",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4816660",
+    "imdb": "tt0874438",
+    "tmdb": 5306
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 95
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_automaton_in_long_sleep",
+  "title": "An Automaton in Long Sleep",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q62664237"
+  },
+  "last_updated": "2026-08-17"
+}

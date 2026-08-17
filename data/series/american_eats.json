@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_eats",
+  "title": "American Eats",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q615098",
+    "imdb": "tt0965701",
+    "tmdb": 1195
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

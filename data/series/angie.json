@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_angie",
+  "title": "Angie",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q539140",
+    "imdb": "tt0914865",
+    "tmdb": 63228
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

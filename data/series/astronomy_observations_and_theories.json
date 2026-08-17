@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_astronomy_observations_and_theories",
+  "title": "Astronomy: Observations and Theories",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4811662",
+    "imdb": "tt1159728",
+    "tmdb": 43932
+  },
+  "last_updated": "2026-08-17"
+}

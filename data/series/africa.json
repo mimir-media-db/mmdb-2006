@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_africa",
+  "title": "Africa",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20056258",
+    "imdb": "tt0487835",
+    "tmdb": 138025
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 45
+}

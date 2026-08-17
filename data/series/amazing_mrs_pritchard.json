@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_mrs_pritchard",
+  "title": "The Amazing Mrs Pritchard",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7713329",
+    "imdb": "tt0807980",
+    "tmdb": 4
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

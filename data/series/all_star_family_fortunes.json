@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_star_family_fortunes",
+  "title": "All Star Family Fortunes",
+  "start_year": 2006,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16824832",
+    "imdb": "tt1307479",
+    "tmdb": 17071
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 127
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alle_lieben_jimmy",
+  "title": "Alle lieben Jimmy",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q992414",
+    "imdb": "tt0799857",
+    "tmdb": 39857
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_all_star_talent_show",
+  "title": "The All Star Talent Show",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7713148",
+    "imdb": "tt0855213",
+    "tmdb": 2646
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
