@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_8_of_diamonds_2006",
+  "title": "8 of Diamonds",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511181",
+    "imdb": "tt0493386",
+    "tmdb": 140236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 89
+}
