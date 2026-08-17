@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_miljonarer_2006",
+  "title": "7 miljonärer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2673909",
+    "imdb": "tt0464784",
+    "tmdb": 74710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}
