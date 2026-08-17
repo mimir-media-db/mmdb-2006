@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ten_nights_of_dreams_2006",
+  "title": "Ten Nights of Dreams",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11345791",
+    "imdb": "tt0899224",
+    "tmdb": 78386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-22",
+  "runtime_minutes": 100
+}

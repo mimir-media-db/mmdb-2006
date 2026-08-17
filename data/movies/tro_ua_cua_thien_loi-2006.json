@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tro_ua_cua_thien_loi_2006",
+  "title": "Trò đùa của Thiên Lôi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126371539",
+    "imdb": "tt19895658",
+    "tmdb": 1680508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-24"
+}

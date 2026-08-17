@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tusenbroder_aterkomsten_2006",
+  "title": "Tusenbröder - Återkomsten",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10706652",
+    "imdb": "tt0499586",
+    "tmdb": 35336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

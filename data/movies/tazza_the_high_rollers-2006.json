@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tazza_the_high_rollers_2006",
+  "title": "Tazza: The High Rollers",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7690479",
+    "imdb": "tt0875025",
+    "tmdb": 38015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 139
+}

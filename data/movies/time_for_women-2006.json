@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_for_women_2006",
+  "title": "Time for Women",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12275667",
+    "imdb": "tt1063695",
+    "tmdb": 1162850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

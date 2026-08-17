@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_totos_journey_2006",
+  "title": "Toto's Journey",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115955311",
+    "imdb": "tt0856024",
+    "tmdb": 1196560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_txt_2006",
+  "title": "TxT",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7859550",
+    "imdb": "tt0877721",
+    "tmdb": 156969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

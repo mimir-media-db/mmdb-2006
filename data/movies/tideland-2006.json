@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tideland_2006",
+  "title": "Tideland",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q151884",
+    "imdb": "tt0410764",
+    "tmdb": 11559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-11",
+  "runtime_minutes": 120
+}

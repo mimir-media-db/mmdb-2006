@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thandege_thakka_maga_2006",
+  "title": "Thandege Thakka Maga",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16962554",
+    "imdb": "tt12794458",
+    "tmdb": 755520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

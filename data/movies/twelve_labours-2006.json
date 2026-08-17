@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twelve_labours_2006",
+  "title": "The Twelve Labours",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10341850",
+    "imdb": "tt0877323",
+    "tmdb": 38819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-28",
+  "runtime_minutes": 90
+}

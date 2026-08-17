@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tenshi_2006",
+  "title": "Tenshi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12338911",
+    "imdb": "tt0828120",
+    "tmdb": 53541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_teenage_wasteland_2006",
+  "title": "Teenage Wasteland",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7694460",
+    "imdb": "tt0776807",
+    "tmdb": 1025762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

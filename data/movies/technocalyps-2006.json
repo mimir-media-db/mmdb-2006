@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_technocalyps_2006",
+  "title": "TechnoCalyps",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21161358",
+    "imdb": "tt0899298",
+    "tmdb": 36680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

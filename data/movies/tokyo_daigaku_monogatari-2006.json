@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_daigaku_monogatari_2006",
+  "title": "Tokyo Daigaku Monogatari",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136162893",
+    "imdb": "tt0781085",
+    "tmdb": 438662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-25"
+}

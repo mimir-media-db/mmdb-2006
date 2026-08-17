@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_trial_2006",
+  "title": "The Tokyo Trial",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4185600",
+    "imdb": "tt0884868",
+    "tmdb": 382635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-23",
+  "runtime_minutes": 111
+}

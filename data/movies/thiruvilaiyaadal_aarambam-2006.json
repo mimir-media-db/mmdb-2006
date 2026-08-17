@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thiruvilaiyaadal_aarambam_2006",
+  "title": "Thiruvilaiyaadal Aarambam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7785554",
+    "imdb": "tt3358534",
+    "tmdb": 112309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

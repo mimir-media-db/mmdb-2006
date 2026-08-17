@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toxic_clouds_of_911_2006",
+  "title": "Toxic Clouds of 9/11",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7830357",
+    "imdb": "tt21188108",
+    "tmdb": 1485148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

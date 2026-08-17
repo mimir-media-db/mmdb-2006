@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taegukgi_2006",
+  "title": "Taegukgi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q494410",
+    "imdb": "tt0386064",
+    "tmdb": 11658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-29",
+  "runtime_minutes": 143
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_take_2006",
+  "title": "The Take",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1630461",
+    "imdb": "tt0426596",
+    "tmdb": 16046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-28",
+  "runtime_minutes": 87
+}

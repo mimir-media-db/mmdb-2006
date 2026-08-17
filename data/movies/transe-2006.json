@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transe_2006",
+  "title": "Transe",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7833968",
+    "imdb": "tt0460034",
+    "tmdb": 99668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 126
+}

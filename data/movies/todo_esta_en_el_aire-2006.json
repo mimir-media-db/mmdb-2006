@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_todo_esta_en_el_aire_2006",
+  "title": "Todo está en el aire",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32859494",
+    "imdb": "tt0475572"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

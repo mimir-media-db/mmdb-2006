@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tomyumgoong_2006",
+  "title": "Tom-Yum-Goong",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q471911",
+    "imdb": "tt0427954",
+    "tmdb": 8982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-06",
+  "runtime_minutes": 90
+}

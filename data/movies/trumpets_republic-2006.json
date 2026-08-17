@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trumpets_republic_2006",
+  "title": "Trumpets' Republic",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3212592",
+    "imdb": "tt2241685"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-20",
+  "runtime_minutes": 48
+}

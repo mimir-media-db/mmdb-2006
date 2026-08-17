@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tis_autumn_the_search_for_jackie_paris_2006",
+  "title": "’Tis Autumn: The Search for Jackie Paris",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56810470",
+    "imdb": "tt0491877",
+    "tmdb": 113496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tada_kimi_o_aishiteru_2006",
+  "title": "Tada, Kimi o Aishiteru",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1315829",
+    "imdb": "tt0872022",
+    "tmdb": 40243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-28",
+  "runtime_minutes": 116
+}

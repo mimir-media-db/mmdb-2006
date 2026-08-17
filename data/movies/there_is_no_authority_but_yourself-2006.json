@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_there_is_no_authority_but_yourself_2006",
+  "title": "There Is No Authority But Yourself",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7782736",
+    "imdb": "tt2368852",
+    "tmdb": 4981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 70
+}

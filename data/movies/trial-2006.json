@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trial_2006",
+  "title": "The Trial",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7770134",
+    "imdb": "tt0496822",
+    "tmdb": 712447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-01",
+  "runtime_minutes": 100
+}

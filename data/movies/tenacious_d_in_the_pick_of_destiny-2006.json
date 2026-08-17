@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tenacious_d_in_the_pick_of_destiny_2006",
+  "title": "Tenacious D in The Pick of Destiny",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q667799",
+    "imdb": "tt0365830",
+    "tmdb": 2179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-26",
+  "runtime_minutes": 93
+}

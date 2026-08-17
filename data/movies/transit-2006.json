@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transit_2006",
+  "title": "Transit",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4350129",
+    "imdb": "tt0416111",
+    "tmdb": 2032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-07",
+  "runtime_minutes": 145
+}
