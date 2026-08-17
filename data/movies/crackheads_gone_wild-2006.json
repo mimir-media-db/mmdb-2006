@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_crackheads_gone_wild_2006",
+  "title": "Crackheads Gone Wild",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5180392",
+    "tmdb": 45292
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

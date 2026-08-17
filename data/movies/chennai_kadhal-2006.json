@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chennai_kadhal_2006",
+  "title": "Chennai Kadhal",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5091444",
+    "imdb": "tt1617049",
+    "tmdb": 66235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

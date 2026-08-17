@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cattle_call_2006",
+  "title": "Cattle Call",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1211859",
+    "imdb": "tt0398839",
+    "tmdb": 18404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 83
+}

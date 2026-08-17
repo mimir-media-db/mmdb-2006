@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cover_boy_2006",
+  "title": "Cover Boy",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3696304",
+    "imdb": "tt0494284",
+    "tmdb": 15729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 97
+}

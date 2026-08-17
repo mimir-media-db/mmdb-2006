@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chand_ke_paar_chalo_2006",
+  "title": "Chand Ke Paar Chalo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5070882",
+    "imdb": "tt2668860",
+    "tmdb": 104299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

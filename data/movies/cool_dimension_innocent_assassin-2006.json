@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cool_dimension_innocent_assassin_2006",
+  "title": "Cool Dimension: Innocent Assassin",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3689940",
+    "imdb": "tt0940824",
+    "tmdb": 45467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

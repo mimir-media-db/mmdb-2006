@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_circus_island_2006",
+  "title": "Circus Island",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5121815",
+    "imdb": "tt0453500",
+    "tmdb": 756536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

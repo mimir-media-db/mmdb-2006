@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_the_horizon_2006",
+  "title": "Chasing the Horizon",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5087341",
+    "imdb": "tt0810796",
+    "tmdb": 1071831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_can_mr_smith_get_to_washington_anymore_2006",
+  "title": "Can Mr. Smith Get to Washington Anymore?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5029077",
+    "imdb": "tt1014673",
+    "tmdb": 25058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

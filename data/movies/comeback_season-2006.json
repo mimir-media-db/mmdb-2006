@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comeback_season_2006",
+  "title": "Comeback Season",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3284771",
+    "imdb": "tt0455400",
+    "tmdb": 14561
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 99
+}

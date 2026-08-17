@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinghiali_of_portici_2006",
+  "title": "Cinghiali of Portici",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3790622",
+    "imdb": "tt0415708",
+    "tmdb": 285122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

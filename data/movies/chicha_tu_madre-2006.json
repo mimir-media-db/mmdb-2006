@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chicha_tu_madre_2006",
+  "title": "Chicha tu madre",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5095957",
+    "imdb": "tt0778641",
+    "tmdb": 331955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

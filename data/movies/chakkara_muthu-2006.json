@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chakkara_muthu_2006",
+  "title": "Chakkara Muthu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5068355",
+    "imdb": "tt0924212",
+    "tmdb": 373906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chacko_randaaman_2006",
+  "title": "Chacko Randaaman",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5066099",
+    "imdb": "tt1102185",
+    "tmdb": 279526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curiosity_of_chance_2006",
+  "title": "The Curiosity of Chance",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4271929",
+    "imdb": "tt0481273",
+    "tmdb": 12839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

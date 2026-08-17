@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coisa_ruim_2006",
+  "title": "Coisa Ruim",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5141658",
+    "imdb": "tt0489461",
+    "tmdb": 30447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 97
+}
