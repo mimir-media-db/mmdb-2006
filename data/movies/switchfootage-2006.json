@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_switchfootage_2006",
+  "title": "Switchfootage",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7659113",
+    "imdb": "tt0399711",
+    "tmdb": 1515679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

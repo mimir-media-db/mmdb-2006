@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_steel_city_2006",
+  "title": "Steel City",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q74190877",
+    "imdb": "tt0439833",
+    "tmdb": 25216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

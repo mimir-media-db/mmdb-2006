@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_star_wars_the_emperors_new_clones_2006",
+  "title": "Star Wars: The Emperor's New Clones",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12741297",
+    "imdb": "tt28651330",
+    "tmdb": 1678276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

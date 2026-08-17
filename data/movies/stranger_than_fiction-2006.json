@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stranger_than_fiction_2006",
+  "title": "Stranger than Fiction",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q151898",
+    "imdb": "tt0420223",
+    "tmdb": 1262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-09",
+  "runtime_minutes": 108
+}

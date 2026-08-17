@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saddest_boy_in_the_world_2006",
+  "title": "The Saddest Boy in the World",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77906326",
+    "imdb": "tt0806170",
+    "tmdb": 118015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_cake_2006",
+  "title": "Snow Cake",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q768008",
+    "imdb": "tt0448124",
+    "tmdb": 313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-09",
+  "runtime_minutes": 112
+}

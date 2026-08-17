@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sud_express_2006",
+  "title": "Sud Express",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90594327",
+    "imdb": "tt0477883",
+    "tmdb": 107418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-13",
+  "runtime_minutes": 102
+}

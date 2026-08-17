@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_simsons_2006",
+  "title": "Simsons",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11307578",
+    "imdb": "tt0872019",
+    "tmdb": 184982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

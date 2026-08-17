@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_starter_for_10_2006",
+  "title": "Starter for 10",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q926238",
+    "imdb": "tt0477095",
+    "tmdb": 14055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-10",
+  "runtime_minutes": 92
+}

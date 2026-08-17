@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shame_2006",
+  "title": "Shame",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43291739",
+    "imdb": "tt0844752",
+    "tmdb": 491396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-02"
+}

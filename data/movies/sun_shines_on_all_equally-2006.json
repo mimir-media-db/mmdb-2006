@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_shines_on_all_equally_2006",
+  "title": "The Sun Shines on All Equally",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755624",
+    "imdb": "tt2247063",
+    "tmdb": 513344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-17"
+}

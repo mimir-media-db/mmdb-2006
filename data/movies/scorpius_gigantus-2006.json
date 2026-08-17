@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scorpius_gigantus_2006",
+  "title": "Scorpius Gigantus",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11298079",
+    "imdb": "tt0443629",
+    "tmdb": 29046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 91
+}

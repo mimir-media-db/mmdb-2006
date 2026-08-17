@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sirivantha_2006",
+  "title": "Sirivantha",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16949959",
+    "imdb": "tt14338038",
+    "tmdb": 1511997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

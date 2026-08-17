@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swallow_the_cat_the_rose_death_2006",
+  "title": "The swallow, the cat, the rose, death",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10712550",
+    "imdb": "tt0871900",
+    "tmdb": 80621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-14",
+  "runtime_minutes": 86
+}

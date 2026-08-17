@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_love_2006",
+  "title": "Summer Love",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7637365",
+    "imdb": "tt0486020",
+    "tmdb": 51051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saving_marriage_2006",
+  "title": "Saving marriage",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978410",
+    "imdb": "tt0825331",
+    "tmdb": 254060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

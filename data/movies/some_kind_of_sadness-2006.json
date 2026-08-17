@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_some_kind_of_sadness_2006",
+  "title": "Some Kind of Sadness",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278450",
+    "imdb": "tt3569002",
+    "tmdb": 483926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

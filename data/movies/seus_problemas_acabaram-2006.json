@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seus_problemas_acabaram_2006",
+  "title": "Seus Problemas Acabaram!!!",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10268546",
+    "imdb": "tt0854161",
+    "tmdb": 342573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 80
+}

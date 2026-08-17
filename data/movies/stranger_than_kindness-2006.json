@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_stranger_than_kindness_2006",
+  "title": "Stranger Than Kindness",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110677922"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_palace_2006",
+  "title": "Summer Palace",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1757025",
+    "imdb": "tt0794374",
+    "tmdb": 17422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-18",
+  "runtime_minutes": 140
+}

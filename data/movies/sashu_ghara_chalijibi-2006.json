@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sashu_ghara_chalijibi_2006",
+  "title": "Sashu Ghara Chalijibi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15725203",
+    "imdb": "tt1435585",
+    "tmdb": 1441827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

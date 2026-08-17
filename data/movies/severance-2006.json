@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_severance_2006",
+  "title": "Severance",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q870666",
+    "imdb": "tt0464196",
+    "tmdb": 5072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-30",
+  "runtime_minutes": 96
+}

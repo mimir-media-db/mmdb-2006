@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sag_att_du_alskar_mig_2006",
+  "title": "Säg att du älskar mig",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10687933",
+    "imdb": "tt0803080",
+    "tmdb": 43052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

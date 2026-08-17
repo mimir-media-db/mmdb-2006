@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_singing_with_nami_2006",
+  "title": "Singing with Nami",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333463",
+    "imdb": "tt0819111",
+    "tmdb": 1025927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-18",
+  "runtime_minutes": 98
+}

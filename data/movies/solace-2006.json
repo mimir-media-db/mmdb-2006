@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_solace_2006",
+  "title": "Solace",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16162683",
+    "imdb": "tt0923884",
+    "tmdb": 135654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

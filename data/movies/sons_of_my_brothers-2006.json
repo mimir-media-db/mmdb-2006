@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_of_my_brothers_2006",
+  "title": "Sons of My Brothers",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12758871",
+    "imdb": "tt0480202",
+    "tmdb": 112098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

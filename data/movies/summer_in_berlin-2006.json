@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_in_berlin_2006",
+  "title": "Summer in Berlin",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q878124",
+    "imdb": "tt0477877",
+    "tmdb": 410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-05",
+  "runtime_minutes": 110
+}

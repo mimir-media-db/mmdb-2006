@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sword_bearer_2006",
+  "title": "The Sword Bearer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4292278",
+    "imdb": "tt0477337",
+    "tmdb": 63838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-12",
+  "runtime_minutes": 108
+}

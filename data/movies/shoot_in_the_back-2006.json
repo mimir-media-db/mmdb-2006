@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_shoot_in_the_back_2006",
+  "title": "Shoot in the back",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124287131",
+    "imdb": "tt0781490"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

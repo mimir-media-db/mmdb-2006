@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_superman_returns_2006",
+  "title": "Superman Returns",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q328695",
+    "imdb": "tt0348150",
+    "tmdb": 1452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-21",
+  "runtime_minutes": 148
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stupid_teenagers_must_die_2006",
+  "title": "Stupid Teenagers Must Die!",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12128463",
+    "imdb": "tt0889579",
+    "tmdb": 65857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

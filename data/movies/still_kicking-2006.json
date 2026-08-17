@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_still_kicking_2006",
+  "title": "Still Kicking",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7617069",
+    "imdb": "tt0979949"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

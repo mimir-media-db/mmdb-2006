@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_salah_bapak_2006",
+  "title": "Salah Bapak",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12511567",
+    "imdb": "tt6615204",
+    "tmdb": 336674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

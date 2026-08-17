@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_chance_2006",
+  "title": "The Second Chance",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7762891",
+    "imdb": "tt0429068",
+    "tmdb": 27919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 102
+}

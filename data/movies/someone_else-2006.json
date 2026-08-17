@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_someone_else_2006",
+  "title": "Someone Else",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7559676",
+    "imdb": "tt0773309",
+    "tmdb": 85397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

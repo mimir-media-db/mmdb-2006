@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scary_movie_4_2006",
+  "title": "Scary Movie 4",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1055299",
+    "imdb": "tt0362120",
+    "tmdb": 4257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-14",
+  "runtime_minutes": 83
+}

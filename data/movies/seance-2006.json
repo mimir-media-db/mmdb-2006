@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seance_2006",
+  "title": "Séance",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11284524",
+    "imdb": "tt0814343",
+    "tmdb": 45853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_somewhere_in_between_2006",
+  "title": "Somewhere in Between",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109044770"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shocking_family_2006",
+  "title": "Shocking Family",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738244",
+    "imdb": "tt4224212",
+    "tmdb": 324713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-08",
+  "runtime_minutes": 111
+}

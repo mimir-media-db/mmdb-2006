@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_something_like_happiness_2006",
+  "title": "Something like Happiness",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q169296",
+    "imdb": "tt0406098",
+    "tmdb": 33682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-20",
+  "runtime_minutes": 100
+}

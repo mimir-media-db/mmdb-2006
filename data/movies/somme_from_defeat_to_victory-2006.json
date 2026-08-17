@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_somme_from_defeat_to_victory_2006",
+  "title": "The Somme – From Defeat to Victory",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7765187",
+    "imdb": "tt0827740",
+    "tmdb": 379964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

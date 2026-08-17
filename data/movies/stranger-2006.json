@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stranger_2006",
+  "title": "Stranger",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34499",
+    "imdb": "tt0426154",
+    "tmdb": 340760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-29",
+  "runtime_minutes": 95
+}

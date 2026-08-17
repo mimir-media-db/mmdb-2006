@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_short_circuits_2006",
+  "title": "Short Circuits",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7501744",
+    "imdb": "tt1085445",
+    "tmdb": 245637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-11",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_simhadri_2006",
+  "title": "Simhadri",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7517709",
+    "imdb": "tt0375066",
+    "tmdb": 80805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_short_trip_in_the_other_side_of_the_galaxy_2006",
+  "title": "A Short Trip in the Other Side of the Galaxy",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65032866"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 4
+}

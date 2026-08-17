@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silence_becomes_you_2006",
+  "title": "Silence Becomes You",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q827753",
+    "imdb": "tt0359984",
+    "tmdb": 24075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-11",
+  "runtime_minutes": 88
+}

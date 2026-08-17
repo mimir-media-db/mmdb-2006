@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sekalli_le_meokgo_2006",
+  "title": "Sekalli le Meokgo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7447127",
+    "imdb": "tt0853215"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

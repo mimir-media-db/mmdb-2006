@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_dogs_2006",
+  "title": "Sun Dogs",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7638276",
+    "imdb": "tt0780158",
+    "tmdb": 293627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shanghai_rumba_2006",
+  "title": "Shanghai Rumba",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10867687",
+    "imdb": "tt0778051",
+    "tmdb": 308929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}
