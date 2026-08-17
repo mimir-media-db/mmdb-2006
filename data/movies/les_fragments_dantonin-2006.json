@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_fragments_dantonin_2006",
+  "title": "Les fragments d'Antonin",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3232777",
+    "imdb": "tt0452780",
+    "tmdb": 58928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

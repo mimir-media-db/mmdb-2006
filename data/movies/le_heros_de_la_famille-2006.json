@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_heros_de_la_famille_2006",
+  "title": "Le héros de la famille",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3223524",
+    "imdb": "tt0487260",
+    "tmdb": 78695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}

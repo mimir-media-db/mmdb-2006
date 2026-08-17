@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_ferie_di_licu_2006",
+  "title": "Le ferie di Licu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3828735",
+    "imdb": "tt1586468",
+    "tmdb": 157204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 93
+}

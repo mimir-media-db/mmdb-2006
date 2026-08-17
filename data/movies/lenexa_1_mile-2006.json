@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lenexa_1_mile_2006",
+  "title": "Lenexa, 1 Mile",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3229448",
+    "imdb": "tt0464086",
+    "tmdb": 50589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

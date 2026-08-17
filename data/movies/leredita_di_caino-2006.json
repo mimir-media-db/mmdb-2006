@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leredita_di_caino_2006",
+  "title": "L'eredità di Caino",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819030",
+    "imdb": "tt1414027",
+    "tmdb": 202861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lease_wife_2006",
+  "title": "Lease Wife",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6510281",
+    "imdb": "tt0788256",
+    "tmdb": 47361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

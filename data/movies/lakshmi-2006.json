@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lakshmi_2006",
+  "title": "Lakshmi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6479855",
+    "imdb": "tt0813550",
+    "tmdb": 77035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

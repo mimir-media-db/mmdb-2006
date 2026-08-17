@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_chur_des_enfants_2006",
+  "title": "Le Chœur des enfants",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3221406",
+    "imdb": "tt2051913"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

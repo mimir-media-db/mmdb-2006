@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_promeneuse_doiseaux_2006",
+  "title": "La Promeneuse d'oiseaux",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3211996",
+    "imdb": "tt0940926",
+    "tmdb": 618017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

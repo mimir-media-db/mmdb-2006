@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_president_atil_le_sida_2006",
+  "title": "Le President a-t-il Le Sida",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6507520",
+    "imdb": "tt1039905",
+    "tmdb": 1423223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

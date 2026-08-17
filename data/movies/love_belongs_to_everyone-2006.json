@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_belongs_to_everyone_2006",
+  "title": "Love Belongs to Everyone",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1257485",
+    "imdb": "tt0789770",
+    "tmdb": 20226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 80
+}

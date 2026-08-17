@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_sourire_du_serpent_2006",
+  "title": "Le sourire du serpent",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3227364",
+    "imdb": "tt1043553",
+    "tmdb": 386325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

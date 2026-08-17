@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_go_to_prison_2006",
+  "title": "Let's Go to Prison",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q303977",
+    "imdb": "tt0454987",
+    "tmdb": 9809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

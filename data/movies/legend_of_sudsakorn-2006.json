@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_sudsakorn_2006",
+  "title": "Legend of Sudsakorn",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6640351",
+    "imdb": "tt0926151",
+    "tmdb": 53004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 115
+}

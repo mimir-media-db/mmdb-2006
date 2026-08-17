@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucky_number_slevin_2006",
+  "title": "Lucky Number Slevin",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q684470",
+    "imdb": "tt0425210",
+    "tmdb": 186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_brigades_du_tigre_2006",
+  "title": "Les Brigades du Tigre",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3088861",
+    "imdb": "tt0462667",
+    "tmdb": 16276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 125
+}

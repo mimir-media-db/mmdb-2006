@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_look_up_in_the_sky_the_amazing_story_of_superman_2006",
+  "title": "Look, Up in the Sky: The Amazing Story of Superman",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6674932",
+    "imdb": "tt0499516",
+    "tmdb": 24479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_phobia_2006",
+  "title": "Love Phobia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q625728",
+    "imdb": "tt0777837",
+    "tmdb": 87295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 117
+}

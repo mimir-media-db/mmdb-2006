@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lombre_de_liberty_2006",
+  "title": "L'Ombre de Liberty",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5961219",
+    "imdb": "tt1051854",
+    "tmdb": 345947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

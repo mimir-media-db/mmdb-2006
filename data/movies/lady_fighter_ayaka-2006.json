@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lady_fighter_ayaka_2006",
+  "title": "Lady Fighter AYAKA",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5968796"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 55
+}

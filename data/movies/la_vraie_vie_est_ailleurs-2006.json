@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vraie_vie_est_ailleurs_2006",
+  "title": "La vraie vie est ailleurs",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3214264",
+    "imdb": "tt0796839",
+    "tmdb": 234241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 81
+}

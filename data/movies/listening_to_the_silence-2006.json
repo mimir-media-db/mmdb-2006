@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_listening_to_the_silence_2006",
+  "title": "Listening To The Silence",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4424118",
+    "imdb": "tt1031973",
+    "tmdb": 160983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

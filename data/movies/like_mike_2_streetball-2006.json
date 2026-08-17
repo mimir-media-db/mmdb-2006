@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_mike_2_streetball_2006",
+  "title": "Like Mike 2: Streetball",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3795872",
+    "imdb": "tt0469937",
+    "tmdb": 26655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 92
+}

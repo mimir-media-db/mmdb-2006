@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_larryboy_and_the_bad_apple_2006",
+  "title": "LarryBoy and the Bad Apple",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6489845",
+    "imdb": "tt0837137",
+    "tmdb": 275065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 45
+}

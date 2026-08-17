@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_self_defense_2006",
+  "title": "Love in Self Defense",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5693608",
+    "imdb": "tt0452943",
+    "tmdb": 97320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_suicidas_2006",
+  "title": "Los suicidas",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5981217",
+    "imdb": "tt0324107",
+    "tmdb": 315711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}
