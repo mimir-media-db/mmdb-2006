@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_the_other_woman_2006",
+  "title": "I Am the Other Woman",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1656219",
+    "imdb": "tt0484434",
+    "tmdb": 5640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 104
+}

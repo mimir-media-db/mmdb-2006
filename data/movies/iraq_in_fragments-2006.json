@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iraq_in_fragments_2006",
+  "title": "Iraq in Fragments",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3801847",
+    "imdb": "tt0492466",
+    "tmdb": 34389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}

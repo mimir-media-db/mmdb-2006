@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_imsai_arasan_23m_pulikesi_2006",
+  "title": "Imsai Arasan 23m Pulikesi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6008400",
+    "imdb": "tt0888503",
+    "tmdb": 79665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

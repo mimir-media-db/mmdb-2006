@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_you_love_me_follow_me_2006",
+  "title": "If You Love Me Follow Me",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414397",
+    "imdb": "tt0765142",
+    "tmdb": 72371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 102
+}

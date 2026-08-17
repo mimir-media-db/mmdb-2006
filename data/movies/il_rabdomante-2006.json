@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_rabdomante_2006",
+  "title": "Il rabdomante",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3795396",
+    "imdb": "tt0480990",
+    "tmdb": 114505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 100
+}

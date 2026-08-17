@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_idlewild_2006",
+  "title": "Idlewild",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q644250",
+    "imdb": "tt0417225",
+    "tmdb": 13816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 121
+}

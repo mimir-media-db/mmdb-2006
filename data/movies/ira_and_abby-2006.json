@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ira_and_abby_2006",
+  "title": "Ira and Abby",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6066315",
+    "imdb": "tt0480251",
+    "tmdb": 38007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 104
+}
