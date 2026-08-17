@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_aqui_nao_ha_quem_viva",
+  "title": "Aqui não há quem viva",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1071922",
+    "imdb": "tt0817233",
+    "tmdb": 53448
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

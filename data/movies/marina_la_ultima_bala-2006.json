@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marina_la_ultima_bala_2006",
+  "title": "Marina: La última bala",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5998287",
+    "imdb": "tt0816090"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 19
+}

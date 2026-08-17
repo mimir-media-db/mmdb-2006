@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_angelas_eyes",
+  "title": "Angela's Eyes",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q532780",
+    "imdb": "tt0783335",
+    "tmdb": 57
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

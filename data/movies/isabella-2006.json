@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_isabella_2006",
+  "title": "Isabella",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1434730",
+    "imdb": "tt0499141",
+    "tmdb": 40977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 91
+}

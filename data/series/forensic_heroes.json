@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_forensic_heroes",
+  "title": "Forensic Heroes",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5468689",
+    "imdb": "tt0852612",
+    "tmdb": 4114
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_care_of_footpath_2006",
+  "title": "Care of Footpath",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5038870",
+    "imdb": "tt3019716"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 135
+}

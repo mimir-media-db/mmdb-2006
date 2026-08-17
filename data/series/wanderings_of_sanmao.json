@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wanderings_of_sanmao",
+  "title": "Wanderings of Sanmao",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1186463",
+    "imdb": "tt17500108",
+    "tmdb": 97915
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

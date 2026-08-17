@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_questa_e_la_mia_terra",
+  "title": "Questa è la mia terra",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3927739",
+    "imdb": "tt0810057",
+    "tmdb": 41362
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

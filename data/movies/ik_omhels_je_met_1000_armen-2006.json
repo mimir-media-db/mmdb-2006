@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ik_omhels_je_met_1000_armen_2006",
+  "title": "Ik Omhels Je Met 1000 Armen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2288395",
+    "imdb": "tt0450440",
+    "tmdb": 57768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 110
+}

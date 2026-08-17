@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_liebhaverne",
+  "title": "Liebhaverne",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106303838",
+    "imdb": "tt2185258",
+    "tmdb": 156499
+  },
+  "last_updated": "2026-08-17"
+}

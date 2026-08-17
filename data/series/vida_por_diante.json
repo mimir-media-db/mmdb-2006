@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vida_por_diante",
+  "title": "A vida por diante",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q17188045",
+    "imdb": "tt0499115"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 80
+}

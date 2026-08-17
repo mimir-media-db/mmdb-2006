@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nandanavanam_120km_2006",
+  "title": "Nandanavanam 120km",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6963186",
+    "imdb": "tt8774768",
+    "tmdb": 728544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amor_en_tiempo_record",
+  "title": "Amor en tiempo récord",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5673051",
+    "imdb": "tt0488265",
+    "tmdb": 310076
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 44
+}

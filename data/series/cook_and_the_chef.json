@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cook_and_the_chef",
+  "title": "The Cook and the Chef",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7727541",
+    "imdb": "tt0962712",
+    "tmdb": 20313
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 154
+}

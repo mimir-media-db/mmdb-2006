@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ris_police_scientifique",
+  "title": "R.I.S, police scientifique",
+  "start_year": 2006,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7273360",
+    "imdb": "tt0497156",
+    "tmdb": 12683
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 100
+}

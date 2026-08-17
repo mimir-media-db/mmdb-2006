@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amma_cheppindi_2006",
+  "title": "Amma Cheppindi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4747088",
+    "imdb": "tt0827695",
+    "tmdb": 530749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

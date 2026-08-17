@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arctic_son_2006",
+  "title": "Arctic Son",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4787550",
+    "imdb": "tt0784965",
+    "tmdb": 290530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

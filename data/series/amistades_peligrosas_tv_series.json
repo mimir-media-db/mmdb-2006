@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amistades_peligrosas_tv_series",
+  "title": "Amistades peligrosas (TV series)",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5672715",
+    "imdb": "tt0848559",
+    "tmdb": 71156
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 45
+}

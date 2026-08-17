@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_the_blind_2006",
+  "title": "Land of the Blind",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q770661",
+    "imdb": "tt0433405",
+    "tmdb": 15414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

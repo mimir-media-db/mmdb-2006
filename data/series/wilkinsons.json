@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wilkinsons",
+  "title": "The Wilkinsons",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7774974",
+    "imdb": "tt0810356",
+    "tmdb": 4016
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_suburb",
+  "title": "Suburb",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102390933",
+    "imdb": "tt1070643",
+    "tmdb": 36413
+  },
+  "last_updated": "2026-08-17"
+}

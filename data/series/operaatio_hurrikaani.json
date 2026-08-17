@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_operaatio_hurrikaani",
+  "title": "Operaatio Hurrikaani",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7096658",
+    "imdb": "tt10342634",
+    "tmdb": 21138
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dirty_carnival_2006",
+  "title": "A Dirty Carnival",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q562914",
+    "imdb": "tt0821442",
+    "tmdb": 23538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 141
+}

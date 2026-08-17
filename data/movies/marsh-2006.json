@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marsh_2006",
+  "title": "The Marsh",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q588600",
+    "imdb": "tt0496350",
+    "tmdb": 22066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

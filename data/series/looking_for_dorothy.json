@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_looking_for_dorothy",
+  "title": "Looking For Dorothy",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12592979",
+    "imdb": "tt10735310",
+    "tmdb": 46524
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

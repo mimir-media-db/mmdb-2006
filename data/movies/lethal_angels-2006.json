@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lethal_angels_2006",
+  "title": "Lethal Angels",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6533237",
+    "imdb": "tt0991232",
+    "tmdb": 25772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_train_2006",
+  "title": "The Last Train",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q322872",
+    "imdb": "tt0460492",
+    "tmdb": 34066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 123
+}

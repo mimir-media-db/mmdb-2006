@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_about_town_2006",
+  "title": "Man About Town",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1199038",
+    "imdb": "tt0420757",
+    "tmdb": 9784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

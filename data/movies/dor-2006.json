@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dor_2006",
+  "title": "Dor",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1243571",
+    "imdb": "tt0824316",
+    "tmdb": 44827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 124
+}

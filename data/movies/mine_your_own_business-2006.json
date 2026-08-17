@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mine_your_own_business_2006",
+  "title": "Mine Your Own Business",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6864101",
+    "imdb": "tt1054497",
+    "tmdb": 225060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

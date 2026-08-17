@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grilled_2006",
+  "title": "Grilled",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2514256",
+    "imdb": "tt0409043",
+    "tmdb": 11701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 83
+}

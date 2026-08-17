@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_just_the_two_of_us",
+  "title": "Just the Two of Us",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3512229",
+    "imdb": "tt0759162",
+    "tmdb": 5463
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

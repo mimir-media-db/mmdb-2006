@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nightmare_detective_2006",
+  "title": "Nightmare Detective",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1538289",
+    "imdb": "tt0852726",
+    "tmdb": 43713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lispettore_coliandro",
+  "title": "L'ispettore Coliandro",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3819507",
+    "imdb": "tt1556087",
+    "tmdb": 18863
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 34
+}

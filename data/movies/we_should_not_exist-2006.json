@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_should_not_exist_2006",
+  "title": "We Should Not Exist",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3352256",
+    "imdb": "tt0792984",
+    "tmdb": 220106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

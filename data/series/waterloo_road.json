@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_waterloo_road",
+  "title": "Waterloo Road",
+  "start_year": 2006,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q3499780",
+    "imdb": "tt0487189",
+    "tmdb": 2802
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 200
+}

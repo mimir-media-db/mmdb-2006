@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trip_remix_your_experience_2006",
+  "title": "TRIP – Remix Your Experience",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2384806",
+    "imdb": "tt0811125"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 81
+}

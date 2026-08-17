@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hospital",
+  "title": "The Hospital",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q700485",
+    "imdb": "tt2823414",
+    "tmdb": 20164
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 39
+}

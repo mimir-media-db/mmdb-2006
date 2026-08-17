@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_choir",
+  "title": "The Choir",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3791235",
+    "imdb": "tt2012508",
+    "tmdb": 30817
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

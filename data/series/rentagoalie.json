@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rentagoalie",
+  "title": "Rent-a-Goalie",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7313496",
+    "imdb": "tt0772215",
+    "tmdb": 12772
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

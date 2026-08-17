@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pyaar_ke_side_effects_2006",
+  "title": "Pyaar Ke Side Effects",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3417281",
+    "imdb": "tt0480572",
+    "tmdb": 59362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 132
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cotti_e_mangiati",
+  "title": "Cotti e mangiati",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3695964",
+    "imdb": "tt1096973",
+    "tmdb": 19486
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 102
+}

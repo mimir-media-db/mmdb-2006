@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passo_a_due_2006",
+  "title": "Passo a due",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3897347",
+    "imdb": "tt0966584",
+    "tmdb": 65039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 98
+}

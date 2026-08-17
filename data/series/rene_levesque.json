@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rene_levesque",
+  "title": "René Lévesque",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3426578",
+    "imdb": "tt0447595",
+    "tmdb": 17787
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 7
+}

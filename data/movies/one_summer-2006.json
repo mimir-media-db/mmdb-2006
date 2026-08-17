@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_summer_2006",
+  "title": "One Summer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3225287",
+    "imdb": "tt0465241",
+    "tmdb": 60537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 97
+}

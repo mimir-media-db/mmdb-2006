@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_anna_pihl",
+  "title": "Anna Pihl",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q562963",
+    "imdb": "tt0494184",
+    "tmdb": 14208
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

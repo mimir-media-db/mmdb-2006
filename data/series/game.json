@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_game",
+  "title": "The Game",
+  "start_year": 2006,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q1860044",
+    "imdb": "tt0772137",
+    "tmdb": 211
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 147
+}

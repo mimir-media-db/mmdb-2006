@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_smith_and_the_destruction_of_atlantis_2006",
+  "title": "Jack Smith and the Destruction of Atlantis",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6115233",
+    "imdb": "tt0795406",
+    "tmdb": 238690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

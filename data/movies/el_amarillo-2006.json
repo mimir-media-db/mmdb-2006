@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_amarillo_2006",
+  "title": "El Amarillo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350734",
+    "imdb": "tt0779967",
+    "tmdb": 122705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

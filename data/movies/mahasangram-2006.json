@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahasangram_2006",
+  "title": "Mahasangram",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6733443",
+    "imdb": "tt1461244",
+    "tmdb": 1076900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

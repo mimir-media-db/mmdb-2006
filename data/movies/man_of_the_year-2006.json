@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_of_the_year_2006",
+  "title": "Man of the Year",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1470582",
+    "imdb": "tt0483726",
+    "tmdb": 9895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 115
+}

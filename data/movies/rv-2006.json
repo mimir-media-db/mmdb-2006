@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rv_2006",
+  "title": "RV",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q923343",
+    "imdb": "tt0449089",
+    "tmdb": 9530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 99
+}

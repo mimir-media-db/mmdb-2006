@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dicey_business",
+  "title": "Dicey Business",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5272401",
+    "imdb": "tt0956052",
+    "tmdb": 5072
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}

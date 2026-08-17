@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_live",
+  "title": "Сталин. Live",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4439192",
+    "imdb": "tt5009906",
+    "tmdb": 95426
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 40
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dil_apna_punjabi_2006",
+  "title": "Dil Apna Punjabi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5276602",
+    "imdb": "tt0810834",
+    "tmdb": 14743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

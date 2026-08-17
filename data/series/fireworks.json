@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fireworks",
+  "title": "Fireworks",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q626986",
+    "imdb": "tt0835683",
+    "tmdb": 13978
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

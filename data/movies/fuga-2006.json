@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuga_2006",
+  "title": "Fuga",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5870778",
+    "imdb": "tt0442236",
+    "tmdb": 37004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_something_for_the_weekend",
+  "title": "Something for the Weekend",
+  "start_year": 2006,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7560213",
+    "imdb": "tt1002921",
+    "tmdb": 13651
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aka_tommy_chong_2006",
+  "title": "A/k/a Tommy Chong",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4648770",
+    "imdb": "tt0478090",
+    "tmdb": 16042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

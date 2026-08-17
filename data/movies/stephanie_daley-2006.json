@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stephanie_daley_2006",
+  "title": "Stephanie Daley",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3284745",
+    "imdb": "tt0483812",
+    "tmdb": 20308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 91
+}

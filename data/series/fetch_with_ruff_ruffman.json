@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fetch_with_ruff_ruffman",
+  "title": "Fetch! with Ruff Ruffman",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5445925",
+    "imdb": "tt0496195",
+    "tmdb": 521
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 100
+}

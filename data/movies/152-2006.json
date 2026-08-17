@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_152_2006",
+  "title": "152",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4193508",
+    "imdb": "tt0810741",
+    "tmdb": 800696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

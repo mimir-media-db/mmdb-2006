@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dare_not_walk_alone_2006",
+  "title": "Dare Not Walk Alone",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5222471",
+    "imdb": "tt1035731",
+    "tmdb": 170954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_bleus",
+  "title": "Les Bleus",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3013194",
+    "imdb": "tt0759057",
+    "tmdb": 19478
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 35
+}

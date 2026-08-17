@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_black_white",
+  "title": "Black. White.",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4920151",
+    "imdb": "tt0494185",
+    "tmdb": 10890
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

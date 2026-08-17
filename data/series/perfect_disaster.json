@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_disaster",
+  "title": "Perfect Disaster",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q320772",
+    "imdb": "tt0817543",
+    "tmdb": 19648
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_ejido_la_loi_du_profit_2006",
+  "title": "El Ejido, la loi du profit",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3049836",
+    "imdb": "tt1024728",
+    "tmdb": 624113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 134
+}

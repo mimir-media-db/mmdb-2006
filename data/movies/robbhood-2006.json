@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robbhood_2006",
+  "title": "Rob-B-Hood",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1322844",
+    "imdb": "tt0485976",
+    "tmdb": 25676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 136
+}

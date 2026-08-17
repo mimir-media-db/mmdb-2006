@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pinoy_meets_world",
+  "title": "Pinoy Meets World",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7196448",
+    "imdb": "tt2035223",
+    "tmdb": 3307
+  },
+  "last_updated": "2026-08-17"
+}

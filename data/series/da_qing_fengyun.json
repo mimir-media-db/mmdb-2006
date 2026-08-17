@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_da_qing_fengyun",
+  "title": "Da Qing Fengyun",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5207301",
+    "tmdb": 129984
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 42
+}

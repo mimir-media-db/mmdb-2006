@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_janice_dickinson_modeling_agency",
+  "title": "The Janice Dickinson Modeling Agency",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q538778",
+    "imdb": "tt0492866",
+    "tmdb": 3669
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 41
+}

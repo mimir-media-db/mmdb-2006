@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blade_the_series",
+  "title": "Blade: The Series",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q583870",
+    "imdb": "tt0823333",
+    "tmdb": 4619
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

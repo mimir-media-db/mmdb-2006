@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_chest_2006",
+  "title": "The Wedding Chest",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4446124",
+    "imdb": "tt0460832",
+    "tmdb": 239417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 102
+}

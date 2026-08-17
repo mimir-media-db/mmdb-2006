@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_underground_ernie",
+  "title": "Underground Ernie",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7883637",
+    "imdb": "tt0939516",
+    "tmdb": 3900
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

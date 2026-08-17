@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paramasivan_2006",
+  "title": "Paramasivan",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7135149",
+    "imdb": "tt0816605",
+    "tmdb": 69412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

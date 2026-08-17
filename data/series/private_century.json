@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_private_century",
+  "title": "Private Century",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104906366",
+    "imdb": "tt1068788",
+    "tmdb": 46690
+  },
+  "last_updated": "2026-08-17"
+}

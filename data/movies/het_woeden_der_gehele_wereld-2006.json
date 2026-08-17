@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_het_woeden_der_gehele_wereld_2006",
+  "title": "Het Woeden der Gehele Wereld",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2015889",
+    "imdb": "tt0393354",
+    "tmdb": 73864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

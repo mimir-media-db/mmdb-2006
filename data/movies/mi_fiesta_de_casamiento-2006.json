@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mi_fiesta_de_casamiento_2006",
+  "title": "Mi fiesta de casamiento",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6012429",
+    "imdb": "tt0368863"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 80
+}

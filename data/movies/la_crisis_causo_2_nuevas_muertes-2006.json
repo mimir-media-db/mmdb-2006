@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_crisis_causo_2_nuevas_muertes_2006",
+  "title": "La crisis causó 2 nuevas muertes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966345",
+    "imdb": "tt0984018",
+    "tmdb": 404530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_great_inheritance",
+  "title": "Great Inheritance",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4475736",
+    "imdb": "tt9165770",
+    "tmdb": 2956
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

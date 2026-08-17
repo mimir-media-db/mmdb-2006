@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_rage_de_lange_2006",
+  "title": "La Rage de l'ange",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3212140",
+    "imdb": "tt0482245",
+    "tmdb": 50605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

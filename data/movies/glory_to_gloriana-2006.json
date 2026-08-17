@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_glory_to_gloriana_2006",
+  "title": "Glory to Gloriana",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5571633",
+    "imdb": "tt0933019",
+    "tmdb": 454362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

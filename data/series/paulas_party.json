@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_paulas_party",
+  "title": "Paula's Party",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7154627",
+    "imdb": "tt0890553",
+    "tmdb": 4987
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 41
+}

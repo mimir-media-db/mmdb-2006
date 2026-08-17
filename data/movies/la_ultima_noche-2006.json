@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_ultima_noche_2006",
+  "title": "La última noche",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2884473",
+    "imdb": "tt3352566",
+    "tmdb": 419127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

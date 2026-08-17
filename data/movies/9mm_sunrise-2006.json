@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_9mm_sunrise_2006",
+  "title": "9mm Sunrise",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4646473",
+    "imdb": "tt0823151"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

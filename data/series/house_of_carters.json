@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_carters",
+  "title": "House of Carters",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1131650",
+    "imdb": "tt0799863",
+    "tmdb": 5135
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

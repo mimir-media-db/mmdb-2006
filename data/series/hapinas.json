@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_hapinas",
+  "title": "Hapinas",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5651616",
+    "tmdb": 573
+  },
+  "last_updated": "2026-08-17"
+}

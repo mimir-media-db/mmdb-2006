@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gen_2006",
+  "title": "Gen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5530851",
+    "imdb": "tt0782042",
+    "tmdb": 52131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

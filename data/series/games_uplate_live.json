@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_games_uplate_live",
+  "title": "Games Uplate Live",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5520100",
+    "tmdb": 14378
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_in_command_2006",
+  "title": "Second in Command",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2033506",
+    "imdb": "tt0458471",
+    "tmdb": 19167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 91
+}

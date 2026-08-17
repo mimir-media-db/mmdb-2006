@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_so_notorious",
+  "title": "So NoTORIous",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1089354",
+    "imdb": "tt0457600",
+    "tmdb": 6461
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

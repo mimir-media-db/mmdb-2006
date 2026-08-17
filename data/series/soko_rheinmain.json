@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_soko_rheinmain",
+  "title": "SOKO Rhein-Main",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q832108",
+    "imdb": "tt0492435",
+    "tmdb": 40710
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

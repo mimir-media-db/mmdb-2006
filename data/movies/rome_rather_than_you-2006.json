@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rome_rather_than_you_2006",
+  "title": "Rome Rather Than You",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3441183",
+    "imdb": "tt0963792",
+    "tmdb": 185570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 111
+}

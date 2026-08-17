@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_alles_uber_anna",
+  "title": "Alles über Anna",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107025471",
+    "imdb": "tt0803901",
+    "tmdb": 63598
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

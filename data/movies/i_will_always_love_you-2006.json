@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_will_always_love_you_2006",
+  "title": "I Will Always Love You",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5979758",
+    "imdb": "tt0497777",
+    "tmdb": 167915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

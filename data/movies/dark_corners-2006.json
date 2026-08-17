@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_corners_2006",
+  "title": "Dark Corners",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2088528",
+    "imdb": "tt0485376",
+    "tmdb": 21927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 92
+}

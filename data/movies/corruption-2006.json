@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_corruption_2006",
+  "title": "Corruption",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1135387",
+    "imdb": "tt1160501",
+    "tmdb": 429744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jungle_book_rikkitikkitavi_to_the_rescue_2006",
+  "title": "Jungle Book: Rikki-Tikki-Tavi to the Rescue",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3811267",
+    "imdb": "tt1396622",
+    "tmdb": 756204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 48
+}

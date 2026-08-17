@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_ex",
+  "title": "La ex",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5554943",
+    "imdb": "tt0796896",
+    "tmdb": 107139
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 159
+}

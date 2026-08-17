@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tv_patrol_pampanga",
+  "title": "TV Patrol Pampanga",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16958533",
+    "tmdb": 7165
+  },
+  "last_updated": "2026-08-17"
+}

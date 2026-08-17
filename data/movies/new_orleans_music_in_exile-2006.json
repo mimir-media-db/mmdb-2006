@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_orleans_music_in_exile_2006",
+  "title": "New Orleans Music in Exile",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7010752",
+    "imdb": "tt0819628",
+    "tmdb": 75741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 115
+}

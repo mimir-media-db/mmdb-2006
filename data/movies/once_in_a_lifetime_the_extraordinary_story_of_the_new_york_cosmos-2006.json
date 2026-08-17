@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_in_a_lifetime_the_extraordinary_story_of_the_new_york_cosmos_2006",
+  "title": "Once in a Lifetime: The Extraordinary Story of the New York Cosmos",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3352372",
+    "imdb": "tt0489247",
+    "tmdb": 39183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 97
+}

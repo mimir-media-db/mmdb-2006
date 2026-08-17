@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_couleur_du_sacrifice_2006",
+  "title": "La Couleur du sacrifice",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3207861",
+    "imdb": "tt1596270",
+    "tmdb": 532470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

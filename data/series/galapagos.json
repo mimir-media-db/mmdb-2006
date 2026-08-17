@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_galapagos",
+  "title": "Galápagos",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5519518",
+    "imdb": "tt0996614",
+    "tmdb": 16591
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

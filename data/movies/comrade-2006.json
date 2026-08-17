@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comrade_2006",
+  "title": "Comrade",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6719163",
+    "imdb": "tt0391788",
+    "tmdb": 78343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

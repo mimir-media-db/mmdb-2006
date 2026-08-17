@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sjarmrskolen",
+  "title": "Sjarmørskolen",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q19388595",
+    "imdb": "tt0802876",
+    "tmdb": 241753
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_forecast_earth",
+  "title": "Forecast Earth",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5468155"
+  },
+  "last_updated": "2026-08-17"
+}

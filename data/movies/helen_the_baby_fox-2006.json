@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_helen_the_baby_fox_2006",
+  "title": "Helen the Baby Fox",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q870944",
+    "imdb": "tt0808336",
+    "tmdb": 116544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 109
+}

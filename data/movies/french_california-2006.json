@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_french_california_2006",
+  "title": "French California",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3206998",
+    "imdb": "tt0465160",
+    "tmdb": 79034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

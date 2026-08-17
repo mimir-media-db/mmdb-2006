@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cabaret_paradis_2006",
+  "title": "Cabaret Paradis",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2932271",
+    "imdb": "tt0475074",
+    "tmdb": 51849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

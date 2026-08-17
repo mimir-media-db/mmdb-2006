@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crank_2006",
+  "title": "Crank",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q150047",
+    "imdb": "tt0479884",
+    "tmdb": 1948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 88
+}

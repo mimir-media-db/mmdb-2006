@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_dahlia_2006",
+  "title": "Black Dahlia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4920618",
+    "imdb": "tt0905968",
+    "tmdb": 128762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 81
+}

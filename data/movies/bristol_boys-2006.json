@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bristol_boys_2006",
+  "title": "Bristol Boys",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4968816",
+    "imdb": "tt0424867",
+    "tmdb": 30446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

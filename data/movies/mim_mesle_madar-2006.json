@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mim_mesle_madar_2006",
+  "title": "Mim Mesle Madar",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6861916",
+    "imdb": "tt1113810",
+    "tmdb": 303296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 112
+}

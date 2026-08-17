@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kithakithalu_2006",
+  "title": "Kithakithalu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6418195",
+    "imdb": "tt1579965",
+    "tmdb": 311637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

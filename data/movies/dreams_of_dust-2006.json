@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreams_of_dust_2006",
+  "title": "Dreams of Dust",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3458495",
+    "imdb": "tt0899095",
+    "tmdb": 85087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}

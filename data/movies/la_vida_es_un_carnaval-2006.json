@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vida_es_un_carnaval_2006",
+  "title": "La vida es un carnaval",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3824902",
+    "imdb": "tt3507254",
+    "tmdb": 307121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 92
+}

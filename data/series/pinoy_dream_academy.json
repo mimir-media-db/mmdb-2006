@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pinoy_dream_academy",
+  "title": "Pinoy Dream Academy",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3057504",
+    "imdb": "tt0874647",
+    "tmdb": 9415
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

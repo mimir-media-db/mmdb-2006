@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_situation_2006",
+  "title": "The Situation",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3212852",
+    "imdb": "tt0468548",
+    "tmdb": 31040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

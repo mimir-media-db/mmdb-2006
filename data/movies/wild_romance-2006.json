@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_romance_2006",
+  "title": "Wild Romance",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1891727",
+    "imdb": "tt0430592",
+    "tmdb": 33535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

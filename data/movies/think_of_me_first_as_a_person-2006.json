@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_think_of_me_first_as_a_person_2006",
+  "title": "Think of Me First as a Person",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2456145",
+    "imdb": "tt0929482",
+    "tmdb": 162756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

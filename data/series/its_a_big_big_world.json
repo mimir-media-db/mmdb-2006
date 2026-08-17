@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_its_a_big_big_world",
+  "title": "It's a Big Big World",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3234565",
+    "imdb": "tt0497297",
+    "tmdb": 4254
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 47
+}

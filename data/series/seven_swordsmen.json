@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_seven_swordsmen",
+  "title": "Seven Swordsmen",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7457487",
+    "imdb": "tt0878553",
+    "tmdb": 7645
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 34
+}

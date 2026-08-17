@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_metropolitan_opera_live_in_hd",
+  "title": "Metropolitan Opera Live in HD",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3224529",
+    "imdb": "tt1019690",
+    "tmdb": 29492
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 74
+}

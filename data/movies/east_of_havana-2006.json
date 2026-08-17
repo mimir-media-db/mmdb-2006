@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_east_of_havana_2006",
+  "title": "East of Havana",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1278067",
+    "imdb": "tt0808241",
+    "tmdb": 88021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 82
+}

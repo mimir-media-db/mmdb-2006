@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_champion",
+  "title": "The Champion",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q12406368",
+    "imdb": "tt0807979",
+    "tmdb": 50956
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 288
+}

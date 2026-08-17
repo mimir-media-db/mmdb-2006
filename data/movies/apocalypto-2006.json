@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apocalypto_2006",
+  "title": "Apocalypto",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q188035",
+    "imdb": "tt0472043",
+    "tmdb": 1579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 139
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_101st_proposal",
+  "title": "101st Proposal",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q14512445",
+    "imdb": "tt9165838",
+    "tmdb": 30925
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

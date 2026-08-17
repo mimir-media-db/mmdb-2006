@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_zeitgeist_2006",
+  "title": "American Zeitgeist",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4745417",
+    "imdb": "tt0759952",
+    "tmdb": 53203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 150
+}

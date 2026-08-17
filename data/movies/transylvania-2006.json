@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transylvania_2006",
+  "title": "Transylvania",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1757117",
+    "imdb": "tt0463381",
+    "tmdb": 32604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}

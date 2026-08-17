@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_music_dies_2006",
+  "title": "Before the Music Dies",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q791988",
+    "imdb": "tt0760307",
+    "tmdb": 23374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

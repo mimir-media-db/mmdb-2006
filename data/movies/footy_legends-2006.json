@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_footy_legends_2006",
+  "title": "Footy Legends",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5466613",
+    "imdb": "tt0477647",
+    "tmdb": 45193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

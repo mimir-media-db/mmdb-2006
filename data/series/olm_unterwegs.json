@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_olm_unterwegs",
+  "title": "Olm unterwegs",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2021058",
+    "imdb": "tt0883797",
+    "tmdb": 40984
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

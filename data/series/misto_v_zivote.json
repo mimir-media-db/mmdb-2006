@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_misto_v_zivote",
+  "title": "Místo v zivote",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102382740",
+    "imdb": "tt1046683",
+    "tmdb": 74123
+  },
+  "last_updated": "2026-08-17"
+}

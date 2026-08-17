@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_danika_2006",
+  "title": "Danika",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q627464",
+    "imdb": "tt0469062",
+    "tmdb": 22105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 79
+}

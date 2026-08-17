@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romance_of_darkness_2006",
+  "title": "Romance of Darkness",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3940557",
+    "imdb": "tt0490459",
+    "tmdb": 355964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

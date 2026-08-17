@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salty_air_2006",
+  "title": "Salty Air",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3818731",
+    "imdb": "tt0805488",
+    "tmdb": 24162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fear_is_necessary_2006",
+  "title": "Fear is necessary",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q675335",
+    "imdb": "tt0476649",
+    "tmdb": 31983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

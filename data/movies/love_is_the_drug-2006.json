@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_the_drug_2006",
+  "title": "Love Is the Drug",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q182952",
+    "imdb": "tt0266732",
+    "tmdb": 25576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

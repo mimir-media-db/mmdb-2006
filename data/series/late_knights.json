@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_late_knights",
+  "title": "Late Knights",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1806824",
+    "imdb": "tt1356473"
+  },
+  "last_updated": "2026-08-17"
+}

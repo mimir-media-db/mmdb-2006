@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_one_show",
+  "title": "The One Show",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7755050",
+    "imdb": "tt0844203",
+    "tmdb": 1514
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_digging_for_belladonna_2006",
+  "title": "Digging for Belladonna",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1198448",
+    "imdb": "tt0496272",
+    "tmdb": 87413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 43
+}

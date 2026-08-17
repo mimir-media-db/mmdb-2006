@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_new_street_law",
+  "title": "New Street Law",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q16961895",
+    "imdb": "tt0770620",
+    "tmdb": 13204
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

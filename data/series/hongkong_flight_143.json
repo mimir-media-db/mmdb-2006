@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hongkong_flight_143",
+  "title": "Hongkong Flight 143",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q12964761",
+    "imdb": "tt0781880",
+    "tmdb": 18800
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 58
+}

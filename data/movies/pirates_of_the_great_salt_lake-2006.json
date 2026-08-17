@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pirates_of_the_great_salt_lake_2006",
+  "title": "Pirates of the Great Salt Lake",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7197894",
+    "imdb": "tt0477065",
+    "tmdb": 16640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

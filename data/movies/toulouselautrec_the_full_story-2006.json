@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toulouselautrec_the_full_story_2006",
+  "title": "Toulouse-Lautrec: The Full Story",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3491145",
+    "imdb": "tt0970195",
+    "tmdb": 674481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 120
+}

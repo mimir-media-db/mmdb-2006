@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lune_de_miel_2006",
+  "title": "Lune de miel",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3267510",
+    "imdb": "tt1059285"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stone_merchant_2006",
+  "title": "The Stone Merchant",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3148518",
+    "imdb": "tt0775090",
+    "tmdb": 42860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 107
+}

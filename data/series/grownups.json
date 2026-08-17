@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grownups",
+  "title": "Grownups",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5611724",
+    "imdb": "tt0478937",
+    "tmdb": 6034
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 22
+}

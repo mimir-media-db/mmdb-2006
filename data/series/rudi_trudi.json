@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rudi_trudi",
+  "title": "Rudi & Trudi",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25458283",
+    "imdb": "tt1397130",
+    "tmdb": 85534
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

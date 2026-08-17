@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_changement_dadresse_2006",
+  "title": "Changement d'adresse",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2956047",
+    "imdb": "tt0759509",
+    "tmdb": 51851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

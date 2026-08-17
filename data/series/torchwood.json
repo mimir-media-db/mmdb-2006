@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_torchwood",
+  "title": "Torchwood",
+  "start_year": 2006,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q390120",
+    "imdb": "tt0485301",
+    "tmdb": 424
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 41
+}

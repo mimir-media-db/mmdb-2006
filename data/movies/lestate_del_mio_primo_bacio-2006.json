@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lestate_del_mio_primo_bacio_2006",
+  "title": "L'estate del mio primo bacio",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819090",
+    "imdb": "tt0824324",
+    "tmdb": 128375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 84
+}

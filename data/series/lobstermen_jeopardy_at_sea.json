@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lobstermen_jeopardy_at_sea",
+  "title": "Lobstermen: Jeopardy at Sea",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5490163",
+    "imdb": "tt0823664"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

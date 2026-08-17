@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forever_flows_2006",
+  "title": "Forever Flows",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5469389",
+    "imdb": "tt0872123",
+    "tmdb": 256211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

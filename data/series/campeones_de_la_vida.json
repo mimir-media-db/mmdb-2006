@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_campeones_de_la_vida",
+  "title": "Campeones de la vida",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5028309",
+    "imdb": "tt0862886",
+    "tmdb": 315504
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 65
+}

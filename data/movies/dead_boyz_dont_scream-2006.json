@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_boyz_dont_scream_2006",
+  "title": "Dead Boyz Don't Scream",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5245114",
+    "imdb": "tt0834906",
+    "tmdb": 29926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}

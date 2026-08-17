@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horrors_of_war_2006",
+  "title": "Horrors of War",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5905279",
+    "imdb": "tt0439615",
+    "tmdb": 24716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rescue_mediums",
+  "title": "Rescue Mediums",
+  "start_year": 2006,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7314992",
+    "imdb": "tt1488392",
+    "tmdb": 6037
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 89
+}

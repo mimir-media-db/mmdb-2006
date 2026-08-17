@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_who_wants_to_be_a_superhero",
+  "title": "Who Wants to Be a Superhero?",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2916274",
+    "imdb": "tt0377288",
+    "tmdb": 233
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

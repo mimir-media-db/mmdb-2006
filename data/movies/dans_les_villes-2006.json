@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dans_les_villes_2006",
+  "title": "Dans les villes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3015541",
+    "imdb": "tt0832866",
+    "tmdb": 212975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

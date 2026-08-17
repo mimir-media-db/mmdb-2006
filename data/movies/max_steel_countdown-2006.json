@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_max_steel_countdown_2006",
+  "title": "Max Steel: Countdown",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6007350",
+    "imdb": "tt2223560",
+    "tmdb": 644458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 52
+}

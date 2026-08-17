@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_al_franken_god_spoke_2006",
+  "title": "Al Franken: God Spoke",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4703839",
+    "imdb": "tt0799916",
+    "tmdb": 18520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

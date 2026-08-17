@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mantracker",
+  "title": "Mantracker",
+  "start_year": 2006,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6752195",
+    "imdb": "tt1429752",
+    "tmdb": 6502
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 72
+}

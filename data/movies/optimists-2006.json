@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_optimists_2006",
+  "title": "The Optimists",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6051670",
+    "imdb": "tt0478714",
+    "tmdb": 112103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

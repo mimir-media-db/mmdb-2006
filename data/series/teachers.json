@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_teachers",
+  "title": "Teachers",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q607396",
+    "imdb": "tt0494188",
+    "tmdb": 342
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

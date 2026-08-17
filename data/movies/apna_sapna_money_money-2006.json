@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apna_sapna_money_money_2006",
+  "title": "Apna Sapna Money Money",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2642487",
+    "imdb": "tt0493437",
+    "tmdb": 46371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 134
+}

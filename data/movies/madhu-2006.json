@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madhu_2006",
+  "title": "Madhu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6727400",
+    "imdb": "tt4483434",
+    "tmdb": 81131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

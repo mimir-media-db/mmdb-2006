@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_border_post_2006",
+  "title": "The Border Post",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1247886",
+    "imdb": "tt0466561",
+    "tmdb": 33591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rwanda_les_collines_parlent_2006",
+  "title": "Rwanda, les collines parlent",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3453717",
+    "imdb": "tt0851464",
+    "tmdb": 963899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

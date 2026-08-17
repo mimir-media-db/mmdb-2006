@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_a_stranger_calls_2006",
+  "title": "When a Stranger Calls",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q908384",
+    "imdb": "tt0455857",
+    "tmdb": 10053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_day_break",
+  "title": "Day Break",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q584745",
+    "imdb": "tt0801425",
+    "tmdb": 4618
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

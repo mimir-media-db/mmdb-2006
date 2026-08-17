@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hammys_boomerang_adventure_2006",
+  "title": "Hammy's Boomerang Adventure",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3282436",
+    "imdb": "tt0937397",
+    "tmdb": 85693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 5
+}

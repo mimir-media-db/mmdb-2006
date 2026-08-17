@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fave_quelli_di_pinocchio_2006",
+  "title": "Fave (Quelli di Pinocchio)",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3740450",
+    "imdb": "tt0877362",
+    "tmdb": 497461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

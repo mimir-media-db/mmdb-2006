@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nos_amis_les_parents_2006",
+  "title": "Nos amis les parents",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3344288",
+    "imdb": "tt0876499"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_the_others_2006",
+  "title": "Like the Others",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3684586",
+    "imdb": "tt11190636",
+    "tmdb": 835878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 22
+}

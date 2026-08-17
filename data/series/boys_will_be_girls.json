@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_boys_will_be_girls",
+  "title": "Boys Will Be Girls",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q123741396",
+    "imdb": "tt0804411",
+    "tmdb": 28238
+  },
+  "last_updated": "2026-08-17"
+}

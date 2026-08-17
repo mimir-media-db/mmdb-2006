@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ellipsis_2006",
+  "title": "Ellipsis",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4298916",
+    "imdb": "tt0881939",
+    "tmdb": 32257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

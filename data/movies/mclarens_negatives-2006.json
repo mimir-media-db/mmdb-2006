@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mclarens_negatives_2006",
+  "title": "McLaren's Negatives",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6802050",
+    "imdb": "tt1432071",
+    "tmdb": 533385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 10
+}

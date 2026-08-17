@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_torture_2006",
+  "title": "Torture",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3532554",
+    "imdb": "tt0445972",
+    "tmdb": 75020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_asesino_del_parking_2006",
+  "title": "El asesino del parking",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q618484",
+    "imdb": "tt0452275",
+    "tmdb": 122742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}

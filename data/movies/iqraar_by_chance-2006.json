@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iqraar_by_chance_2006",
+  "title": "Iqraar by Chance",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6065865",
+    "imdb": "tt0880464",
+    "tmdb": 272212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

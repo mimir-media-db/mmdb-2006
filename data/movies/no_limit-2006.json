@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_no_limit_2006",
+  "title": "No Limit",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7044353",
+    "imdb": "tt0478217"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

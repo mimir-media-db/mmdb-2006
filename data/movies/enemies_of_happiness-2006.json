@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enemies_of_happiness_2006",
+  "title": "Enemies of Happiness",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1341116",
+    "imdb": "tt0924122",
+    "tmdb": 121255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 58
+}

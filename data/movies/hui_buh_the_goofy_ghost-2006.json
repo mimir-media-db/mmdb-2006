@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hui_buh_the_goofy_ghost_2006",
+  "title": "Hui Buh: The Goofy Ghost",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q872401",
+    "imdb": "tt0428646",
+    "tmdb": 11651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 98
+}

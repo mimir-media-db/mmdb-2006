@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flannel_pajamas_2006",
+  "title": "Flannel Pajamas",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5457423",
+    "imdb": "tt0432290",
+    "tmdb": 18549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_flight_2006",
+  "title": "First Flight",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5453018",
+    "imdb": "tt0783521",
+    "tmdb": 118251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 8
+}

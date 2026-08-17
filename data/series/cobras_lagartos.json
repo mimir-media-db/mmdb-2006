@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cobras_lagartos",
+  "title": "Cobras & Lagartos",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q422534",
+    "imdb": "tt0809665",
+    "tmdb": 42995
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 179
+}

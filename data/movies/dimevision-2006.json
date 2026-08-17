@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dimevision_2006",
+  "title": "Dimevision",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5277357",
+    "imdb": "tt0828011",
+    "tmdb": 49902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

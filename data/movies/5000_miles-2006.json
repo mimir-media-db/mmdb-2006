@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_5000_miles_2006",
+  "title": "5000 Miles",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4639720",
+    "imdb": "tt0820017"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

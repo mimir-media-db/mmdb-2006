@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_muppets_tv",
+  "title": "Muppets TV",
+  "start_year": 2006,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3327960",
+    "imdb": "tt0891400",
+    "tmdb": 313446
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

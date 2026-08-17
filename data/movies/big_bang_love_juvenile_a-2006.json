@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_bang_love_juvenile_a_2006",
+  "title": "Big Bang Love, Juvenile A",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q603958",
+    "imdb": "tt0497876",
+    "tmdb": 13315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 81
+}

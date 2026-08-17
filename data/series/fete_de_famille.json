@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fete_de_famille",
+  "title": "Fête de famille",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3092810",
+    "imdb": "tt0778547",
+    "tmdb": 96963
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

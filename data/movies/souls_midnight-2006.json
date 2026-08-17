@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_souls_midnight_2006",
+  "title": "Soul's Midnight",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3222003",
+    "imdb": "tt0493456",
+    "tmdb": 96781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

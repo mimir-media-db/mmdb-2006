@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lapislazuli_im_auge_des_baren_2006",
+  "title": "Lapislazuli - Im Auge des Bären",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1719031",
+    "imdb": "tt0759599",
+    "tmdb": 200101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 106
+}

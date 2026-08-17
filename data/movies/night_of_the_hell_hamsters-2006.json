@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_hell_hamsters_2006",
+  "title": "Night of the Hell Hamsters",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7033704",
+    "imdb": "tt0889209",
+    "tmdb": 257430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 16
+}

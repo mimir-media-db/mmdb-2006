@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_layout_2006",
+  "title": "Layout",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1809411",
+    "imdb": "tt1022545",
+    "tmdb": 191147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 168
+}

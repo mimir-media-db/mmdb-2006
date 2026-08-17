@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sensation_of_sight_2006",
+  "title": "The Sensation of Sight",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q593827",
+    "imdb": "tt0480001",
+    "tmdb": 37780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

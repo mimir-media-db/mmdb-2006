@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_willys_en_marjetten",
+  "title": "Willy's en Marjetten",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q8022521",
+    "imdb": "tt0986340",
+    "tmdb": 11399
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

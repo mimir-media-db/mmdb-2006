@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real_hustle",
+  "title": "The Real Hustle",
+  "start_year": 2006,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1039694",
+    "imdb": "tt0791615",
+    "tmdb": 3685
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 116
+}

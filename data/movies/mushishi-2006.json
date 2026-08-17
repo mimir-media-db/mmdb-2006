@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mushishi_2006",
+  "title": "Mushishi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4387957",
+    "imdb": "tt0862946",
+    "tmdb": 21959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 131
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_russell_brand_show",
+  "title": "The Russell Brand Show",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7761887",
+    "imdb": "tt0934629",
+    "tmdb": 4145
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

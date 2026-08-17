@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_cesaroni",
+  "title": "I Cesaroni",
+  "start_year": 2006,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q3790119",
+    "imdb": "tt0484917",
+    "tmdb": 41280
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 154
+}

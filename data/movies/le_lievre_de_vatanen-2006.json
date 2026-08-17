@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_lievre_de_vatanen_2006",
+  "title": "Le Lièvre de Vatanen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2749437",
+    "imdb": "tt0462690",
+    "tmdb": 31426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 99
+}

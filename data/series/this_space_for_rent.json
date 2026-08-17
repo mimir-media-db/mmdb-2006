@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_this_space_for_rent",
+  "title": "This Space for Rent",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7786267",
+    "imdb": "tt0484086",
+    "tmdb": 2392
+  },
+  "last_updated": "2026-08-17"
+}

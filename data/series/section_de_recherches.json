@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_section_de_recherches",
+  "title": "Section de recherches",
+  "start_year": 2006,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q3477504",
+    "imdb": "tt0806905",
+    "tmdb": 65438
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 165
+}

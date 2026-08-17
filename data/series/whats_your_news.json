@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_whats_your_news",
+  "title": "What's Your News?",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q16170707"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

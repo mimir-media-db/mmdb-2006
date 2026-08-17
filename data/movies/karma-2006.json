@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karma_2006",
+  "title": "Karma",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2022700",
+    "imdb": "tt0844700",
+    "tmdb": 769569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

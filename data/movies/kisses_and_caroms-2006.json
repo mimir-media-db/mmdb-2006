@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kisses_and_caroms_2006",
+  "title": "Kisses and Caroms",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6417181",
+    "imdb": "tt0381341",
+    "tmdb": 21473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 81
+}

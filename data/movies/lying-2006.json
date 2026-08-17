@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lying_2006",
+  "title": "Lying",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1786737",
+    "imdb": "tt0488151",
+    "tmdb": 49229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_days_of_glory_2006",
+  "title": "Days of Glory",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1466744",
+    "imdb": "tt0444182",
+    "tmdb": 2016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 119
+}

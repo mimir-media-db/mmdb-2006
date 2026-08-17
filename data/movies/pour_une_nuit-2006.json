@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pour_une_nuit_2006",
+  "title": "Pour une nuit",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2106775",
+    "imdb": "tt0884143",
+    "tmdb": 160948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

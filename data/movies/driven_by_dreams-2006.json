@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_driven_by_dreams_2006",
+  "title": "Driven by Dreams",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576669",
+    "imdb": "tt0922671",
+    "tmdb": 257282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_step_up_2006",
+  "title": "Step Up",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q180125",
+    "imdb": "tt0462590",
+    "tmdb": 9762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 98
+}

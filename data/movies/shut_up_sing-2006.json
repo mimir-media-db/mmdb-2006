@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shut_up_sing_2006",
+  "title": "Shut Up & Sing",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2905624",
+    "imdb": "tt0811136",
+    "tmdb": 2152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 93
+}

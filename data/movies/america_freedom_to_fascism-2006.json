@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_america_freedom_to_fascism_2006",
+  "title": "America: Freedom to Fascism",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q986626",
+    "imdb": "tt0772153",
+    "tmdb": 13174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

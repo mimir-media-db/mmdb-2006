@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_earth_from_above",
+  "title": "Earth from Above",
+  "start_year": 2005,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3563733",
+    "imdb": "tt2410576",
+    "tmdb": 69779
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tna_global_impact",
+  "title": "TNA Global Impact!",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1049446",
+    "imdb": "tt1176916"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

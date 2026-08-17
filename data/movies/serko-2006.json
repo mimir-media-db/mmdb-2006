@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_serko_2006",
+  "title": "Serko",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3479828",
+    "imdb": "tt0478732",
+    "tmdb": 65556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kilukkam_kilukilukkam_2006",
+  "title": "Kilukkam Kilukilukkam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6408258",
+    "imdb": "tt1102252",
+    "tmdb": 280188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

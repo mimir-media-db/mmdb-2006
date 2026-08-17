@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wicked_little_things_2006",
+  "title": "Wicked Little Things",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q219802",
+    "imdb": "tt0470000",
+    "tmdb": 10854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

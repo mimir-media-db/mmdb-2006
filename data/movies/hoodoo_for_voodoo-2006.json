@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hoodoo_for_voodoo_2006",
+  "title": "Hoodoo for Voodoo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5897650",
+    "imdb": "tt0462341",
+    "tmdb": 310725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 79
+}

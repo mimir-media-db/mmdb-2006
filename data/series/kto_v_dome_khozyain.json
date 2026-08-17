@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kto_v_dome_khozyain",
+  "title": "Kto v dome khozyain?",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q4243386",
+    "imdb": "tt4102318",
+    "tmdb": 90908
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 150
+}

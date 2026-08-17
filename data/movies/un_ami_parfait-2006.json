@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_ami_parfait_2006",
+  "title": "Un ami parfait",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548300",
+    "imdb": "tt0765263",
+    "tmdb": 77224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

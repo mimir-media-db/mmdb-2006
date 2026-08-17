@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_goodbye_solo",
+  "title": "Goodbye Solo",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q6853212",
+    "imdb": "tt0843194",
+    "tmdb": 58313
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swimming_pool_2_2006",
+  "title": "Swimming Pool 2",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3988788",
+    "imdb": "tt4799686",
+    "tmdb": 862065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

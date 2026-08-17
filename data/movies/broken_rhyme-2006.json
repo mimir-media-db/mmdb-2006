@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_rhyme_2006",
+  "title": "Broken Rhyme",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4973455",
+    "imdb": "tt1337456"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

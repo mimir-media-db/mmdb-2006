@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dane_cook_vicious_circle_2006",
+  "title": "Dane Cook: Vicious Circle",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5215795",
+    "imdb": "tt0867149",
+    "tmdb": 15501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

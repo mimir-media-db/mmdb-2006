@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ladyland",
+  "title": "Ladyland",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1800111",
+    "imdb": "tt0495656"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

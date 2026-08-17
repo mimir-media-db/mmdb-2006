@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_team_medical_dragon",
+  "title": "Team Medical Dragon",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18335712",
+    "imdb": "tt1118529",
+    "tmdb": 19416
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_and_entering_2006",
+  "title": "Breaking and Entering",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q241391",
+    "imdb": "tt0443456",
+    "tmdb": 1253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 116
+}

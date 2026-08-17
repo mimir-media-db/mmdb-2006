@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_romance_2006",
+  "title": "The Romance",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2945881",
+    "imdb": "tt0778020",
+    "tmdb": 10259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gamers_the_movie_2006",
+  "title": "Gamers: The Movie",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5520059",
+    "imdb": "tt0485909",
+    "tmdb": 14339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 84
+}

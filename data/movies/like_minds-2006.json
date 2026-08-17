@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_minds_2006",
+  "title": "Like Minds",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1984949",
+    "imdb": "tt0425196",
+    "tmdb": 15714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 110
+}

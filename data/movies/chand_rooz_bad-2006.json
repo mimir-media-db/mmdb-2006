@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chand_rooz_bad_2006",
+  "title": "Chand Rooz Ba'd...",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3414141",
+    "imdb": "tt0855752",
+    "tmdb": 614270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

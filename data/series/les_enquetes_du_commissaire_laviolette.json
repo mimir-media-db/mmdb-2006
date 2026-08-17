@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_les_enquetes_du_commissaire_laviolette",
+  "title": "Les Enquêtes du commissaire Laviolette",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2986285",
+    "imdb": "tt3996758",
+    "tmdb": 77251
+  },
+  "last_updated": "2026-08-17"
+}

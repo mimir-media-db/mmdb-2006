@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cimmer_fraj",
+  "title": "Cimmer fraj",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q8061800",
+    "imdb": "tt0875807",
+    "tmdb": 224655
+  },
+  "last_updated": "2026-08-17"
+}

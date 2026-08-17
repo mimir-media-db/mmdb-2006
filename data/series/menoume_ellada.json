@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_menoume_ellada",
+  "title": "Menoume Ellada",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16253909",
+    "imdb": "tt1018532"
+  },
+  "last_updated": "2026-08-17"
+}

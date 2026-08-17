@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kasamh_se",
+  "title": "Kasamh Se",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q6373996",
+    "imdb": "tt0809387",
+    "tmdb": 4897
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 742
+}

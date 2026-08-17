@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_familienanwaltin",
+  "title": "Die Familienanwältin",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1212336",
+    "imdb": "tt0780226",
+    "tmdb": 40661
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

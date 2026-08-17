@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_new_adventures_of_old_christine",
+  "title": "The New Adventures of Old Christine",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1247170",
+    "imdb": "tt0462128",
+    "tmdb": 4402
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 88
+}

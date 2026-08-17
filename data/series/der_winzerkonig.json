@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_der_winzerkonig",
+  "title": "Der Winzerkönig",
+  "start_year": 2006,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q1198109",
+    "imdb": "tt0478959",
+    "tmdb": 41366
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

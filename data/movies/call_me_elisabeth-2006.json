@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_call_me_elisabeth_2006",
+  "title": "Call Me Elisabeth",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3163441",
+    "imdb": "tt0478687",
+    "tmdb": 54064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

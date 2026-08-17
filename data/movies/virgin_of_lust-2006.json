@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_virgin_of_lust_2006",
+  "title": "The Virgin of Lust",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5968472",
+    "imdb": "tt0332817",
+    "tmdb": 101564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 151
+}

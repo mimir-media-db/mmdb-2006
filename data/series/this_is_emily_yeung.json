@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_this_is_emily_yeung",
+  "title": "This is Emily Yeung",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7786428",
+    "imdb": "tt0926377",
+    "tmdb": 10685
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 67
+}

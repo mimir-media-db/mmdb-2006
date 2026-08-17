@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_and_mr_2006",
+  "title": "Mr. and Mr.",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3321510",
+    "imdb": "tt2521652",
+    "tmdb": 562237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 43
+}

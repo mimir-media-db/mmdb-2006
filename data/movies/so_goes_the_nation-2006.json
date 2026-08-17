@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_so_goes_the_nation_2006",
+  "title": "...So Goes the Nation",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4545119",
+    "imdb": "tt0432337",
+    "tmdb": 41856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strong_enough_to_break_2006",
+  "title": "Strong Enough to Break",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3283677",
+    "imdb": "tt0439306",
+    "tmdb": 364396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

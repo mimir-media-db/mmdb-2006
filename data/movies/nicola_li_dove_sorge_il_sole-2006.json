@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nicola_li_dove_sorge_il_sole_2006",
+  "title": "Nicola, lì dove sorge il sole",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3876101",
+    "imdb": "tt8431170"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

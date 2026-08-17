@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_courting_alex",
+  "title": "Courting Alex",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2492030",
+    "imdb": "tt0463811",
+    "tmdb": 1665
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

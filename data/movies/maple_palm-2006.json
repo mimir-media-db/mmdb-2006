@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maple_palm_2006",
+  "title": "Maple Palm",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6753951",
+    "imdb": "tt0481572",
+    "tmdb": 507368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

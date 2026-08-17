@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_back_in_the_day",
+  "title": "Back in the Day",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4839297",
+    "imdb": "tt0983288",
+    "tmdb": 45261
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_apprentice_youre_fired",
+  "title": "The Apprentice: You're Fired!",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7714039",
+    "imdb": "tt0495247",
+    "tmdb": 6606
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 110
+}

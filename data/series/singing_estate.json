@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_singing_estate",
+  "title": "The Singing Estate",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7764417",
+    "imdb": "tt0815078",
+    "tmdb": 6301
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

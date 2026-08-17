@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_me_again_2006",
+  "title": "Kiss Me Again",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4375172",
+    "imdb": "tt0436460",
+    "tmdb": 24397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}

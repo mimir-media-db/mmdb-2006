@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honey_and_clover_2006",
+  "title": "Honey and Clover",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3786530",
+    "imdb": "tt0810400",
+    "tmdb": 72592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 115
+}

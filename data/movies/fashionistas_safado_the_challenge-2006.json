@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fashionistas_safado_the_challenge_2006",
+  "title": "Fashionistas Safado: The Challenge",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1397469",
+    "imdb": "tt0892293",
+    "tmdb": 365944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 250
+}

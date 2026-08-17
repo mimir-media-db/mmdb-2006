@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_men_in_pain",
+  "title": "Men in Pain",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q6816263",
+    "imdb": "tt0843206",
+    "tmdb": 109879
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 21
+}

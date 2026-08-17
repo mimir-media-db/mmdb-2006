@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_a_cyborg_but_thats_ok_2006",
+  "title": "I'm a Cyborg, But That's OK",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q485677",
+    "imdb": "tt0497137",
+    "tmdb": 5488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

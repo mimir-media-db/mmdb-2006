@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_premadame",
+  "title": "Pre-Madame",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11335635",
+    "imdb": "tt1542820",
+    "tmdb": 36747
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

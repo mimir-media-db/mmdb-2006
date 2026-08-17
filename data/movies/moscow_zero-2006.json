@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moscow_zero_2006",
+  "title": "Moscow Zero",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4189197",
+    "imdb": "tt0488164",
+    "tmdb": 25974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

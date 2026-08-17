@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_officers_last_soldiers_of_the_empire",
+  "title": "Officers: Last Soldiers of the Empire",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4340307",
+    "imdb": "tt0477235",
+    "tmdb": 79949
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

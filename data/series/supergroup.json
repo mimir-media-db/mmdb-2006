@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_supergroup",
+  "title": "Supergroup",
+  "start_year": 2006,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3504653",
+    "imdb": "tt0784946",
+    "tmdb": 2031
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

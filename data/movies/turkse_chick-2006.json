@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turkse_chick_2006",
+  "title": "Turkse chick",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2461840",
+    "imdb": "tt0955413",
+    "tmdb": 330929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 10
+}

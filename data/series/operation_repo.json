@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_operation_repo",
+  "title": "Operation Repo",
+  "start_year": 2006,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2646008",
+    "imdb": "tt1495163",
+    "tmdb": 8464
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 286
+}

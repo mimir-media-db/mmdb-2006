@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_whats_up_fox",
+  "title": "What's Up Fox",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q483422",
+    "imdb": "tt3541132",
+    "tmdb": 14474
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_juani_2006",
+  "title": "My Name Is Juani",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q651947",
+    "imdb": "tt0781533",
+    "tmdb": 74052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

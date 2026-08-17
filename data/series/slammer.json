@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_slammer",
+  "title": "The Slammer",
+  "start_year": 2006,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7764730",
+    "imdb": "tt0901668",
+    "tmdb": 15721
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 85
+}

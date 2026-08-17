@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_displaced_2006",
+  "title": "Displaced",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5282601",
+    "imdb": "tt0481509",
+    "tmdb": 180476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

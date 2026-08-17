@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cant_get_a_date",
+  "title": "Can't Get a Date",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5028892",
+    "imdb": "tt0775354",
+    "tmdb": 163
+  },
+  "last_updated": "2026-08-17"
+}

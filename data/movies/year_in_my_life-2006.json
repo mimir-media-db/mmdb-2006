@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_year_in_my_life_2006",
+  "title": "A Year in My Life",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3227596",
+    "imdb": "tt0391488",
+    "tmdb": 74673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}

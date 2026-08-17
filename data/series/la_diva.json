@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_diva",
+  "title": "La Diva",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5963194",
+    "imdb": "tt1327059"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

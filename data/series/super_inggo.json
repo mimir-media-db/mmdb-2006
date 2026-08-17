@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_super_inggo",
+  "title": "Super Inggo",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3545518",
+    "imdb": "tt0856153",
+    "tmdb": 5152
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 120
+}

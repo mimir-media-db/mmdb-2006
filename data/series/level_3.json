@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_level_3",
+  "title": "Level 3",
+  "start_year": 2005,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6535010"
+  },
+  "last_updated": "2026-08-17"
+}

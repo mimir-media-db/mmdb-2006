@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rich_halls_cattle_drive",
+  "title": "Rich Hall's Cattle Drive",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7323287",
+    "imdb": "tt0775396",
+    "tmdb": 4440
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

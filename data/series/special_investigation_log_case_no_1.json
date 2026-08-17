@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_special_investigation_log_case_no_1",
+  "title": "Special Investigation Log - Case No. 1",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12621373"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

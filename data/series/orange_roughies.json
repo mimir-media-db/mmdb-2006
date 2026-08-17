@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_orange_roughies",
+  "title": "Orange Roughies",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7099711",
+    "imdb": "tt0819747",
+    "tmdb": 19299
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

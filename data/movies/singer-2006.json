@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_singer_2006",
+  "title": "The Singer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q472359",
+    "imdb": "tt0458522",
+    "tmdb": 15934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 116
+}

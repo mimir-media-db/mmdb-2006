@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_junjo_kirari",
+  "title": "Junjo Kirari",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q874160",
+    "imdb": "tt1037471",
+    "tmdb": 84539
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 156
+}

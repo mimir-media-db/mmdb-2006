@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghoom_2006",
+  "title": "Ghoom",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5556914",
+    "imdb": "tt4311426",
+    "tmdb": 46620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reel_bad_arabs_2006",
+  "title": "Reel Bad Arabs",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1336622",
+    "imdb": "tt0948465",
+    "tmdb": 64522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 50
+}

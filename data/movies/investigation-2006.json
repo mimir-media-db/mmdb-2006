@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_investigation_2006",
+  "title": "Investigation",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4985088",
+    "imdb": "tt0825749",
+    "tmdb": 228567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}

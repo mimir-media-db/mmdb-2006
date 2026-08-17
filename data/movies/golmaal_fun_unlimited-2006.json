@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golmaal_fun_unlimited_2006",
+  "title": "Golmaal: Fun Unlimited",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3417329",
+    "imdb": "tt0495034",
+    "tmdb": 19670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 150
+}

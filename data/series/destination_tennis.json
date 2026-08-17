@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_destination_tennis",
+  "title": "Destination Tennis",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5265166",
+    "imdb": "tt0914548",
+    "tmdb": 28402
+  },
+  "last_updated": "2026-08-17"
+}

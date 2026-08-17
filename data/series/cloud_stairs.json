@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cloud_stairs",
+  "title": "Cloud Stairs",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5135686",
+    "imdb": "tt2756814",
+    "tmdb": 50136
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

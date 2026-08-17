@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_bankgiro_loterij_restauratie",
+  "title": "BankGiro Loterij Restauratie",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q3176759"
+  },
+  "last_updated": "2026-08-17"
+}

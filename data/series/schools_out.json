@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_schools_out",
+  "title": "School's Out",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7432123",
+    "imdb": "tt0804426",
+    "tmdb": 13292
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

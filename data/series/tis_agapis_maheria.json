@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tis_agapis_maheria",
+  "title": "Tis Agapis Maheria",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3565032",
+    "imdb": "tt0819823",
+    "tmdb": 66826
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 62
+}

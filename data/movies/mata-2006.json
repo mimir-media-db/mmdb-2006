@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mata_2006",
+  "title": "Mata",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6785866",
+    "imdb": "tt3004588",
+    "tmdb": 614382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

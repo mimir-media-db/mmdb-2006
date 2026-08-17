@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slither_2006",
+  "title": "Slither",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2092936",
+    "imdb": "tt0439815",
+    "tmdb": 9035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}

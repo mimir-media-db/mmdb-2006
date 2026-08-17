@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_dead_or_alive_2006",
+  "title": "Killer: Dead or Alive",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6407435",
+    "imdb": "tt0762112"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

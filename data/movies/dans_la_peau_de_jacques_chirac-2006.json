@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dans_la_peau_de_jacques_chirac_2006",
+  "title": "Dans la peau de Jacques Chirac",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3015442",
+    "imdb": "tt0798417",
+    "tmdb": 21772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

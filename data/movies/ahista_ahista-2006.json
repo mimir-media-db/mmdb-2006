@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ahista_ahista_2006",
+  "title": "Ahista Ahista",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4695146",
+    "imdb": "tt0831840",
+    "tmdb": 18799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 122
+}

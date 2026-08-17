@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_needles_2006",
+  "title": "Red Needles",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3230414",
+    "imdb": "tt0478548",
+    "tmdb": 49729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 93
+}

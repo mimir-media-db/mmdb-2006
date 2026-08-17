@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_fantasma_di_corleone_2006",
+  "title": "Il fantasma di Corleone",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3793912",
+    "imdb": "tt0824327",
+    "tmdb": 63723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

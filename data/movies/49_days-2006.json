@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_49_days_2006",
+  "title": "49 Days",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7220326",
+    "imdb": "tt0757139",
+    "tmdb": 41200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 93
+}

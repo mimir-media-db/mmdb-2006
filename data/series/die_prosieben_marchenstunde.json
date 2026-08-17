@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_prosieben_marchenstunde",
+  "title": "Die ProSieben Märchenstunde",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1214980",
+    "imdb": "tt0996239",
+    "tmdb": 15358
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 22
+}

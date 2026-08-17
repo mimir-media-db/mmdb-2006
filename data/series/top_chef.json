@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_top_chef",
+  "title": "Top Chef",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2298323",
+    "imdb": "tt0765425",
+    "tmdb": 41822
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 246
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_40_bands_80_minutes_2006",
+  "title": "40 Bands 80 Minutes!",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4637387",
+    "imdb": "tt0918484",
+    "tmdb": 1079920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

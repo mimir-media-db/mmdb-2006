@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heroes",
+  "title": "Heroes",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q83401",
+    "imdb": "tt0813715",
+    "tmdb": 1639
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 77
+}

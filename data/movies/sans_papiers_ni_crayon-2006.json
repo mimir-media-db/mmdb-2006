@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sans_papiers_ni_crayon_2006",
+  "title": "Sans papiers ni crayon",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3472453",
+    "imdb": "tt0975735"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

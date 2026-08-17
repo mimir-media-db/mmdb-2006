@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_memories_2006",
+  "title": "Dark Memories",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3702721",
+    "imdb": "tt0331488",
+    "tmdb": 10114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

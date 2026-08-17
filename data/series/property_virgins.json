@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_property_virgins",
+  "title": "Property Virgins",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7250226",
+    "imdb": "tt1242835",
+    "tmdb": 18049
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dangal",
+  "title": "Dangal",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5215957",
+    "imdb": "tt0868438",
+    "tmdb": 18784
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 45
+}

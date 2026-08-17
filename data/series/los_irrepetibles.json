@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_los_irrepetibles",
+  "title": "Los irrepetibles",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5843102",
+    "imdb": "tt0786801"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 36
+}

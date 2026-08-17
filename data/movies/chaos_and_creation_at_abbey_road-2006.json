@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chaos_and_creation_at_abbey_road_2006",
+  "title": "Chaos and Creation at Abbey Road",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q768491",
+    "imdb": "tt0827732",
+    "tmdb": 370644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 60
+}

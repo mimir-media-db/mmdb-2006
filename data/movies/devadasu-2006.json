@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devadasu_2006",
+  "title": "Devadasu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3521964",
+    "imdb": "tt0884855",
+    "tmdb": 80802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 174
+}

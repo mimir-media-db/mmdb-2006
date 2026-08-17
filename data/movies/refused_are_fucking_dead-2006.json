@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_refused_are_fucking_dead_2006",
+  "title": "Refused Are Fucking Dead",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3931671",
+    "imdb": "tt0849464",
+    "tmdb": 47815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 80
+}

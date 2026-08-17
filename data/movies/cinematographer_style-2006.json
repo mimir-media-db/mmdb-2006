@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinematographer_style_2006",
+  "title": "Cinematographer Style",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5120846",
+    "imdb": "tt0847474",
+    "tmdb": 49835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}

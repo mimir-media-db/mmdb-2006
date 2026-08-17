@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bigg_boss",
+  "title": "Bigg Boss",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q284261",
+    "imdb": "tt1281973",
+    "tmdb": 11436
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 17
+}

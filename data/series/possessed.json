@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_possessed",
+  "title": "Possessed",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q4085932",
+    "imdb": "tt3236470",
+    "tmdb": 80215
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

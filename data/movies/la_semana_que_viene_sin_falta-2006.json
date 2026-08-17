@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_semana_que_viene_sin_falta_2006",
+  "title": "La semana que viene (sin falta)",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5968091",
+    "imdb": "tt0456654",
+    "tmdb": 167014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

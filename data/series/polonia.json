@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_polonia",
+  "title": "Polònia",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2688944",
+    "imdb": "tt0764959",
+    "tmdb": 74497
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 21,
+  "total_episodes": 748
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_studio_60_on_the_sunset_strip",
+  "title": "Studio 60 on the Sunset Strip",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q431795",
+    "imdb": "tt0485842",
+    "tmdb": 1691
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

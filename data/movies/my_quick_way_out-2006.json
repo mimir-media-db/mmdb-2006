@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_quick_way_out_2006",
+  "title": "My Quick Way Out",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3311137",
+    "imdb": "tt0435517",
+    "tmdb": 74345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

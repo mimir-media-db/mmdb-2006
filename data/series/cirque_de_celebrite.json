@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cirque_de_celebrite",
+  "title": "Cirque de Celebrité",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5121972",
+    "imdb": "tt0915987",
+    "tmdb": 11467
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wallander_jokern_2006",
+  "title": "Wallander – Jokern",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1763503",
+    "imdb": "tt0860940",
+    "tmdb": 289332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

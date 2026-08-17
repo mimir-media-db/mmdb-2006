@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_dawn_2006",
+  "title": "Finding Dawn",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5449935",
+    "imdb": "tt4981458",
+    "tmdb": 204101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

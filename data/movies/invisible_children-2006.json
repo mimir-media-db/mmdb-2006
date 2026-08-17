@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_children_2006",
+  "title": "Invisible Children",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2224187",
+    "imdb": "tt0855841",
+    "tmdb": 54977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

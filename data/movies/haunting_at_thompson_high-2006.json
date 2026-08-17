@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunting_at_thompson_high_2006",
+  "title": "The Haunting at Thompson High",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4377834",
+    "imdb": "tt0847493",
+    "tmdb": 264738
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

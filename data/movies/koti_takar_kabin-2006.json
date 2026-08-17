@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koti_takar_kabin_2006",
+  "title": "Koti Takar Kabin",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6434049",
+    "imdb": "tt6235470",
+    "tmdb": 1032380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

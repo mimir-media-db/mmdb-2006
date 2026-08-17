@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_mask_the_rise_of_leslie_vernon_2006",
+  "title": "Behind the Mask: The Rise of Leslie Vernon",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q814488",
+    "imdb": "tt0437857",
+    "tmdb": 10961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 92
+}

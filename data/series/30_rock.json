@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_30_rock",
+  "title": "30 Rock",
+  "start_year": 2006,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q189350",
+    "imdb": "tt0496424",
+    "tmdb": 4608
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 138
+}

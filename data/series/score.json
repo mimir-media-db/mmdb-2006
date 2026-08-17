@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_score",
+  "title": "Score",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q131153791"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crude_awakening_the_oil_crash_2006",
+  "title": "A Crude Awakening: The Oil Crash",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q663972",
+    "imdb": "tt0776794",
+    "tmdb": 13670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

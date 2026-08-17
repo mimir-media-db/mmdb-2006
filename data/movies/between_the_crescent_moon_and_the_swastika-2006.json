@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_between_the_crescent_moon_and_the_swastika_2006",
+  "title": "Between the crescent moon and the swastika",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q244866",
+    "tmdb": 1067012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 45
+}

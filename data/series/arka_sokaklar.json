@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_arka_sokaklar",
+  "title": "Arka Sokaklar",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3234619",
+    "imdb": "tt0845088",
+    "tmdb": 32836
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 20
+}

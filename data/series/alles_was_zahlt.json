@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alles_was_zahlt",
+  "title": "Alles was zählt",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q253799",
+    "imdb": "tt0835962",
+    "tmdb": 14686
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 21,
+  "total_episodes": 5188
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_document_72_hours",
+  "title": "Document 72 Hours",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11322583",
+    "tmdb": 74277
+  },
+  "last_updated": "2026-08-17"
+}

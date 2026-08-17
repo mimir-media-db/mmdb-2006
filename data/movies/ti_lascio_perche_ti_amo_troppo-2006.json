@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ti_lascio_perche_ti_amo_troppo_2006",
+  "title": "Ti lascio perché ti amo troppo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3991037",
+    "imdb": "tt0814354",
+    "tmdb": 61575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

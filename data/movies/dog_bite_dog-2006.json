@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dog_bite_dog_2006",
+  "title": "Dog Bite Dog",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q750758",
+    "imdb": "tt0819765",
+    "tmdb": 14816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 108
+}

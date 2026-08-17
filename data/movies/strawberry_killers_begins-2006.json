@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strawberry_killers_begins_2006",
+  "title": "Strawberry Killers -Begins-",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6134490",
+    "imdb": "tt4456368"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 65
+}

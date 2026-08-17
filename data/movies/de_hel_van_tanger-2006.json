@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_hel_van_tanger_2006",
+  "title": "De hel van Tanger",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2239282",
+    "imdb": "tt0473492",
+    "tmdb": 22034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_philippine_idol",
+  "title": "Philippine Idol",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3585768",
+    "imdb": "tt0953112",
+    "tmdb": 3044
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 34
+}

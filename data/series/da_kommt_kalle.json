@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_da_kommt_kalle",
+  "title": "Da kommt Kalle",
+  "start_year": 2006,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q322289",
+    "imdb": "tt1037349",
+    "tmdb": 40573
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 70
+}

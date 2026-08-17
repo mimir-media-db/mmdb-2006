@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waru_2006",
+  "title": "Waru",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3056320",
+    "imdb": "tt0493465",
+    "tmdb": 104372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

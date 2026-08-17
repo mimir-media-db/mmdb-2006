@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_africa_paradis_2006",
+  "title": "Africa Paradis",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2604946",
+    "imdb": "tt0899129",
+    "tmdb": 177610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}

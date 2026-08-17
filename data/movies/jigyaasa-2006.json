@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jigyaasa_2006",
+  "title": "Jigyaasa",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6192424",
+    "imdb": "tt0819777",
+    "tmdb": 544278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

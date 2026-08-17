@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_business_nation",
+  "title": "Business Nation",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5001764"
+  },
+  "last_updated": "2026-08-17"
+}

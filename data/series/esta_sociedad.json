@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_esta_sociedad",
+  "title": "Esta sociedad",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5840592",
+    "imdb": "tt0956056",
+    "tmdb": 282624
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 37
+}

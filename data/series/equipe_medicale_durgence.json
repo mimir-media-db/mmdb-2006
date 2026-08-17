@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_equipe_medicale_durgence",
+  "title": "Équipe médicale d'urgence",
+  "start_year": 2006,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3590860",
+    "imdb": "tt0871848",
+    "tmdb": 197940
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 24
+}

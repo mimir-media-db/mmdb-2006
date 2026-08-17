@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_saga_2006",
+  "title": "Family Saga",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1395280",
+    "imdb": "tt0948117",
+    "tmdb": 104233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

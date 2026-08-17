@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_night_2_awakening_2006",
+  "title": "Zombie Night 2: Awakening",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q219190",
+    "imdb": "tt0473738",
+    "tmdb": 102762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

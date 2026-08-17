@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kupetzky",
+  "title": "Kupetzky",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1792794",
+    "imdb": "tt0945527",
+    "tmdb": 59125
+  },
+  "last_updated": "2026-08-17"
+}

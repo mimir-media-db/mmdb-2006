@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_pill_2006",
+  "title": "Hard Pill",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5990375",
+    "imdb": "tt0443530",
+    "tmdb": 34175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 97
+}

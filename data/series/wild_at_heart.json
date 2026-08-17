@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_at_heart",
+  "title": "Wild at Heart",
+  "start_year": 2006,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1401625",
+    "imdb": "tt0757127",
+    "tmdb": 1193
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 65
+}

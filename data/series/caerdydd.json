@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_caerdydd",
+  "title": "Caerdydd",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5016887",
+    "imdb": "tt0498330",
+    "tmdb": 7215
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 47
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glass_house_the_good_mother_2006",
+  "title": "Glass House: The Good Mother",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1322664",
+    "imdb": "tt0498348",
+    "tmdb": 57784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

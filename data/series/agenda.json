@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_agenda",
+  "title": "The Agenda",
+  "start_year": 2006,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q7712884",
+    "imdb": "tt1292218",
+    "tmdb": 11704
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sea_without_exit_2006",
+  "title": "Sea Without Exit",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4912328",
+    "imdb": "tt0807747",
+    "tmdb": 120809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 121
+}

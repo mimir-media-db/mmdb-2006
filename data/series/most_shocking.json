@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_most_shocking",
+  "title": "Most Shocking",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1572560",
+    "imdb": "tt0944181",
+    "tmdb": 12877
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 88
+}

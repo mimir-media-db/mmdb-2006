@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_da_adventures_of_pedro_penduko",
+  "title": "Da Adventures of Pedro Penduko",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5207192",
+    "imdb": "tt0858855",
+    "tmdb": 4224
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 33
+}

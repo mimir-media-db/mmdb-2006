@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spymate_2006",
+  "title": "Spymate",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1452938",
+    "imdb": "tt0367088",
+    "tmdb": 26266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 84
+}

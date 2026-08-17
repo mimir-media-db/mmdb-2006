@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saturn_in_opposition_2006",
+  "title": "Saturn in Opposition",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1894071",
+    "imdb": "tt0890885",
+    "tmdb": 22373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 110
+}

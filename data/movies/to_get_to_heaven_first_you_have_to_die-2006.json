@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_get_to_heaven_first_you_have_to_die_2006",
+  "title": "To Get to Heaven, First You Have to Die",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3400406",
+    "imdb": "tt0792988",
+    "tmdb": 120393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 92
+}

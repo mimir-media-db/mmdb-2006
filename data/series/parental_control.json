@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_parental_control",
+  "title": "Parental Control",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2262245",
+    "imdb": "tt0465344",
+    "tmdb": 3800
+  },
+  "last_updated": "2026-08-17"
+}

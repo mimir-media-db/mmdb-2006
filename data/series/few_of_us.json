@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_few_of_us",
+  "title": "A Few of Us",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q37513789",
+    "imdb": "tt7903504"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 31
+}

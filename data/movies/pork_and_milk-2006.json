@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pork_and_milk_2006",
+  "title": "Pork and Milk",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3398185",
+    "imdb": "tt0443194",
+    "tmdb": 673278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

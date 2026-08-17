@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_untitled_eldar_ryazanovhans_christian_andersen_project_2006",
+  "title": "Untitled Eldar Ryazanov/Hans Christian Andersen Project",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4065268",
+    "imdb": "tt0466174",
+    "tmdb": 38352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 178
+}

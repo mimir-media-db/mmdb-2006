@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_totally_doctor_who",
+  "title": "Totally Doctor Who",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3532706",
+    "imdb": "tt0795296",
+    "tmdb": 454
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

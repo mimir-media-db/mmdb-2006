@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_falcon_beach",
+  "title": "Falcon Beach",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2724875",
+    "imdb": "tt0491601",
+    "tmdb": 1583
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hiripoda_wassa_2006",
+  "title": "Hiripoda Wassa",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5769855",
+    "imdb": "tt7618032",
+    "tmdb": 810872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

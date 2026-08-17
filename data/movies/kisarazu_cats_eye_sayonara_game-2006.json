@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kisarazu_cats_eye_sayonara_game_2006",
+  "title": "Kisarazu Cats' Eye: Sayonara Game",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1275131",
+    "imdb": "tt0805319",
+    "tmdb": 113315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_je_me_fais_rare_2006",
+  "title": "Je Me Fais Rare",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2411178",
+    "imdb": "tt0781407",
+    "tmdb": 358749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

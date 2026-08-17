@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phat_girlz_2006",
+  "title": "Phat Girlz",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1645253",
+    "imdb": "tt0490196",
+    "tmdb": 30139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 99
+}

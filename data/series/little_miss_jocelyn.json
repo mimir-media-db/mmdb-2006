@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_little_miss_jocelyn",
+  "title": "Little Miss Jocelyn",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6650971",
+    "imdb": "tt0844575",
+    "tmdb": 729
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

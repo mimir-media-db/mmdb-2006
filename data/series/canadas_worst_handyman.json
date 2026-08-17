@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_canadas_worst_handyman",
+  "title": "Canada's Worst Handyman",
+  "start_year": 2006,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5029255",
+    "imdb": "tt0997266",
+    "tmdb": 1728
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 45
+}

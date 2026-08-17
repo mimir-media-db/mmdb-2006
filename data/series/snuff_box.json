@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_snuff_box",
+  "title": "Snuff Box",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q16950293",
+    "imdb": "tt0775400",
+    "tmdb": 2602
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_genie_in_the_house",
+  "title": "Genie in the House",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q746816",
+    "imdb": "tt0795111",
+    "tmdb": 2546
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 78
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fantastikids",
+  "title": "Fantastikids",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5434247",
+    "imdb": "tt0877084",
+    "tmdb": 8074
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 155
+}

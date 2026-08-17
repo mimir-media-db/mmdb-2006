@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_maajussille_morsian",
+  "title": "Maajussille morsian",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28233935",
+    "imdb": "tt1182856",
+    "tmdb": 285303
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_avezvous_deja_vu",
+  "title": "Avez-vous déjà vu..?",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2874255",
+    "imdb": "tt0805382",
+    "tmdb": 100926
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 150
+}

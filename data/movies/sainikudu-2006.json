@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sainikudu_2006",
+  "title": "Sainikudu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3764725",
+    "imdb": "tt0843372",
+    "tmdb": 85824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

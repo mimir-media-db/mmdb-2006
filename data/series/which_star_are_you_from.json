@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_which_star_are_you_from",
+  "title": "Which Star Are You From",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q485477",
+    "imdb": "tt3973384",
+    "tmdb": 1162
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

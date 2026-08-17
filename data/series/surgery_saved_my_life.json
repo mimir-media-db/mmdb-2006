@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_surgery_saved_my_life",
+  "title": "Surgery Saved My Life",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7646194",
+    "imdb": "tt0888969",
+    "tmdb": 26216
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

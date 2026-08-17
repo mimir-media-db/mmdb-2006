@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_colombian_dream_2006",
+  "title": "El colombian dream",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5553452",
+    "imdb": "tt0485618",
+    "tmdb": 19718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 133
+}

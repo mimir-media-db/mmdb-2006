@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kurukshetram_2006",
+  "title": "Kurukshetram",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6447367",
+    "imdb": "tt13683840"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

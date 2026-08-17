@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_magicians_of_love",
+  "title": "The Magicians of Love",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q701111",
+    "imdb": "tt8814346",
+    "tmdb": 80886
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

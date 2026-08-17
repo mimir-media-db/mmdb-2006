@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_idhaya_thirudan_2006",
+  "title": "Idhaya Thirudan",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5988577",
+    "imdb": "tt0455545",
+    "tmdb": 63817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

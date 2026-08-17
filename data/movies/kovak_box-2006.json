@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kovak_box_2006",
+  "title": "The Kovak Box",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2740346",
+    "imdb": "tt0455584",
+    "tmdb": 13686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

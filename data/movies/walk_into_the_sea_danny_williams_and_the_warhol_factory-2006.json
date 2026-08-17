@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_into_the_sea_danny_williams_and_the_warhol_factory_2006",
+  "title": "A Walk Into the Sea: Danny Williams and the Warhol Factory",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3602829",
+    "imdb": "tt0969355",
+    "tmdb": 192184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

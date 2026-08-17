@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_dating_2006",
+  "title": "Blind Dating",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1189392",
+    "imdb": "tt0454084",
+    "tmdb": 13162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}

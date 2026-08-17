@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_action_blast",
+  "title": "Action Blast!",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4677080",
+    "imdb": "tt0780186"
+  },
+  "last_updated": "2026-08-17"
+}

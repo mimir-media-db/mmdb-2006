@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_things_that_hang_from_trees_2006",
+  "title": "Things That Hang from Trees",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1226378",
+    "imdb": "tt0448149",
+    "tmdb": 80061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_a_boy_girl_thing_2006",
+  "title": "It's a Boy Girl Thing",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2290094",
+    "imdb": "tt0482527",
+    "tmdb": 37725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 93
+}

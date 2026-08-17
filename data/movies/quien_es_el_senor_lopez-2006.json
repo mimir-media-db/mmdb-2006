@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quien_es_el_senor_lopez_2006",
+  "title": "¿Quién es el señor López?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2253046",
+    "imdb": "tt0862862",
+    "tmdb": 409775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 50
+}

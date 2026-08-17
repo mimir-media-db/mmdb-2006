@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_room_2006",
+  "title": "The Room",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3522543",
+    "imdb": "tt0808450",
+    "tmdb": 64479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_six_degrees",
+  "title": "Six Degrees",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2609221",
+    "imdb": "tt0801427",
+    "tmdb": 1520
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

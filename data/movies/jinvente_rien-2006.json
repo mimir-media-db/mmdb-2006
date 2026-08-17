@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jinvente_rien_2006",
+  "title": "J'invente rien",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3156669",
+    "imdb": "tt0465207",
+    "tmdb": 21773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

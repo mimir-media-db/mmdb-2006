@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lucky_louie",
+  "title": "Lucky Louie",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q2700749",
+    "imdb": "tt0460619",
+    "tmdb": 4540
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

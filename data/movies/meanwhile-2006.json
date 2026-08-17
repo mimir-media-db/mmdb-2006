@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meanwhile_2006",
+  "title": "Meanwhile",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3312783",
+    "imdb": "tt0797025",
+    "tmdb": 352801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

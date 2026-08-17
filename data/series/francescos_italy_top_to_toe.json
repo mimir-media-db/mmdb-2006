@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_francescos_italy_top_to_toe",
+  "title": "Francesco's Italy: Top to Toe",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5479147",
+    "imdb": "tt0770536",
+    "tmdb": 16184
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

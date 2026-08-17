@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mannat_2006",
+  "title": "Mannat",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6750776",
+    "imdb": "tt0887764",
+    "tmdb": 48544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

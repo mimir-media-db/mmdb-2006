@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_big_top_2006",
+  "title": "Little Big Top",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6649104",
+    "imdb": "tt0469690",
+    "tmdb": 40963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

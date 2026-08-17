@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glass_tiger_2_2006",
+  "title": "Glass Tiger 2",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1473284",
+    "imdb": "tt0476508",
+    "tmdb": 36558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pleasure_drivers_2006",
+  "title": "The Pleasure Drivers",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2522959",
+    "imdb": "tt0425357",
+    "tmdb": 31097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cut_sleeve_boys_2006",
+  "title": "Cut Sleeve Boys",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3007928",
+    "imdb": "tt0461760",
+    "tmdb": 32714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}

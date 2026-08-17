@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tutankhamuns_fireball_2006",
+  "title": "Tutankhamun's Fireball",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4331106",
+    "imdb": "tt0832045",
+    "tmdb": 1364942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 2939
+}

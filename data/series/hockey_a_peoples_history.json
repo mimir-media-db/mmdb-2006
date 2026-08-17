@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hockey_a_peoples_history",
+  "title": "Hockey: A People's History",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5875534",
+    "imdb": "tt0818640",
+    "tmdb": 15018
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

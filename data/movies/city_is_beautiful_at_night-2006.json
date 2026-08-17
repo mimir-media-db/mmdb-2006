@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_is_beautiful_at_night_2006",
+  "title": "A City Is Beautiful at Night",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2930256",
+    "imdb": "tt0363494",
+    "tmdb": 243140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

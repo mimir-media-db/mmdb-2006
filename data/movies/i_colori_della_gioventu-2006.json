@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_colori_della_gioventu_2006",
+  "title": "I colori della gioventù",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3790628",
+    "imdb": "tt0819877",
+    "tmdb": 913309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}
