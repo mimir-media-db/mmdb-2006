@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_free_and_easy_17_2006",
+  "title": "Free And Easy 17",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11648205",
+    "imdb": "tt0827214",
+    "tmdb": 411939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

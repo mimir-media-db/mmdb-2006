@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_feeding_2006",
+  "title": "The Feeding",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7733626",
+    "imdb": "tt0788072",
+    "tmdb": 172155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

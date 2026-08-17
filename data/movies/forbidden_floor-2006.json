@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forbidden_floor_2006",
+  "title": "Forbidden Floor",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5467338",
+    "imdb": "tt0927627",
+    "tmdb": 52420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-27",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_federer_et_moi_2006",
+  "title": "Federer et moi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90159339"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 25
+}

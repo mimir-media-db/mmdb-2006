@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_contract_death_on_delivery_2006",
+  "title": "Final Contract: Death on Delivery",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q778677",
+    "imdb": "tt0458349",
+    "tmdb": 23989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-10",
+  "runtime_minutes": 93
+}

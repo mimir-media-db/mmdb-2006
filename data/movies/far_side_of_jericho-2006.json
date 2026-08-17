@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_far_side_of_jericho_2006",
+  "title": "The Far Side of Jericho",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7733422",
+    "imdb": "tt0463984",
+    "tmdb": 46684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_facing_the_giants_2006",
+  "title": "Facing the Giants",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1391659",
+    "imdb": "tt0805526",
+    "tmdb": 18925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-29",
+  "runtime_minutes": 111
+}

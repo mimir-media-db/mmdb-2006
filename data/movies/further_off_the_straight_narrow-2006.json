@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_further_off_the_straight_narrow_2006",
+  "title": "Further Off the Straight & Narrow",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978494",
+    "imdb": "tt1541765",
+    "tmdb": 271998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 61
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_familia_rodante_2006",
+  "title": "Familia rodante",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5432921",
+    "imdb": "tt0359254",
+    "tmdb": 79767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-23",
+  "runtime_minutes": 103
+}

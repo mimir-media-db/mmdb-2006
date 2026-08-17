@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fox_family_2006",
+  "title": "The Fox Family",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7735098",
+    "imdb": "tt0891496",
+    "tmdb": 58542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-28",
+  "runtime_minutes": 102
+}
