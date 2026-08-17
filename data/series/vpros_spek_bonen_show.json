@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_vpros_spek_bonen_show",
+  "title": "VPRO's Spek & Bonen Show",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q12013505"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

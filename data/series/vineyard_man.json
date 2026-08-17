@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vineyard_man",
+  "title": "The Vineyard Man",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q483500",
+    "imdb": "tt0983981",
+    "tmdb": 6044
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

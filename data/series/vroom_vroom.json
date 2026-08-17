@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vroom_vroom",
+  "title": "Vroom Vroom",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7943165",
+    "imdb": "tt1179740",
+    "tmdb": 2713
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}
