@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ugly_swans_2006",
+  "title": "The Ugly Swans",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4131560",
+    "imdb": "tt0439581",
+    "tmdb": 53252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-17",
+  "runtime_minutes": 105
+}

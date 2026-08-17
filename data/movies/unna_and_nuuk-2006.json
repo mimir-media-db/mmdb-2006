@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unna_and_nuuk_2006",
+  "title": "Unna and Nuuk",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2080828",
+    "imdb": "tt0473715",
+    "tmdb": 97976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-20",
+  "runtime_minutes": 78
+}

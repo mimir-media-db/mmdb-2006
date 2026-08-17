@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_macho_de_mujer_2006",
+  "title": "Un macho de mujer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12221118",
+    "imdb": "tt0487108",
+    "tmdb": 115127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-09",
+  "runtime_minutes": 100
+}

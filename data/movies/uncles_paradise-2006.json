@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uncles_paradise_2006",
+  "title": "Uncle's Paradise",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7882685",
+    "imdb": "tt1090246",
+    "tmdb": 132868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

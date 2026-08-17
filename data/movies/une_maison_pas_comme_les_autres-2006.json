@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_une_maison_pas_comme_les_autres_2006",
+  "title": "Une maison pas comme les autres",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88874419",
+    "tmdb": 1033127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 67
+}

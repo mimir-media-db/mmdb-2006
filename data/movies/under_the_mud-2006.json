@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_mud_2006",
+  "title": "Under the Mud",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7883352",
+    "imdb": "tt1067929",
+    "tmdb": 70970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

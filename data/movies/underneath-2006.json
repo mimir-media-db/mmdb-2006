@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_underneath_2006",
+  "title": "The Underneath",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11820176",
+    "imdb": "tt0940751",
+    "tmdb": 211370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-13",
+  "runtime_minutes": 73
+}
