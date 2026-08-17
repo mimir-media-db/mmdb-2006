@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_who_made_the_potato_salad_2006",
+  "title": "Who Made the Potato Salad?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7997341",
+    "imdb": "tt0452706",
+    "tmdb": 21067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

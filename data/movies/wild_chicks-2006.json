@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_chicks_2006",
+  "title": "Wild Chicks",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1117198",
+    "imdb": "tt0466195",
+    "tmdb": 7009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-09",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_i_spent_the_end_of_the_world_2006",
+  "title": "The Way I Spent the End of the World",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2986158",
+    "imdb": "tt0799991",
+    "tmdb": 96010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-15",
+  "runtime_minutes": 106
+}

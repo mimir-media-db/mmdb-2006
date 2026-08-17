@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_palms_2006",
+  "title": "White Palms",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q727356",
+    "imdb": "tt0464955",
+    "tmdb": 35760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-01",
+  "runtime_minutes": 97
+}

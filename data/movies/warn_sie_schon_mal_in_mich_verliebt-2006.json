@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warn_sie_schon_mal_in_mich_verliebt_2006",
+  "title": "War’n Sie schon mal in mich verliebt?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1675086",
+    "imdb": "tt0478323",
+    "tmdb": 436763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-12",
+  "runtime_minutes": 89
+}

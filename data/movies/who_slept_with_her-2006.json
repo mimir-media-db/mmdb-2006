@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_who_slept_with_her_2006",
+  "title": "Who Slept With Her",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16162334",
+    "imdb": "tt0956208",
+    "tmdb": 22510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-16"
+}

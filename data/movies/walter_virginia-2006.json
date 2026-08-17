@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walter_virginia_2006",
+  "title": "Walter & Virginia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18274813",
+    "imdb": "tt0499095",
+    "tmdb": 475569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_williamsburg_2006",
+  "title": "Williamsburg",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8021153",
+    "imdb": "tt0808921",
+    "tmdb": 312663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

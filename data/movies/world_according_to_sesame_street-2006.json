@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_world_according_to_sesame_street_2006",
+  "title": "The World According to Sesame Street",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7775933",
+    "imdb": "tt0434440",
+    "tmdb": 103425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 104
+}

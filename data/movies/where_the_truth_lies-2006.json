@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_where_the_truth_lies_2006",
+  "title": "Where the Truth Lies",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q151848",
+    "imdb": "tt0373450",
+    "tmdb": 9729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-02",
+  "runtime_minutes": 108
+}

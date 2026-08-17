@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_water_is_wide_2006",
+  "title": "The Water Is Wide",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22063649",
+    "imdb": "tt0444706",
+    "tmdb": 109708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_where_is_the_love_in_the_palmgrove_2006",
+  "title": "Where is the Love in the Palmgrove?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80560468",
+    "imdb": "tt1244717"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

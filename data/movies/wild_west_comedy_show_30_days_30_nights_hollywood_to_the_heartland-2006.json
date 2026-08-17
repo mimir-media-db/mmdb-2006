@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_west_comedy_show_30_days_30_nights_hollywood_to_the_heartland_2006",
+  "title": "Wild West Comedy Show: 30 Days & 30 Nights – Hollywood to the Heartland",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8000847",
+    "imdb": "tt0844768",
+    "tmdb": 32666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 100
+}

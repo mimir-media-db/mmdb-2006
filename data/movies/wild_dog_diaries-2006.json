@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_dog_diaries_2006",
+  "title": "Wild Dog Diaries",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8000613",
+    "imdb": "tt4511442"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

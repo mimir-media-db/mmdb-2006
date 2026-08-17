@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrestlemaniac_2006",
+  "title": "Wrestlemaniac",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12134950",
+    "imdb": "tt0497477",
+    "tmdb": 17319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

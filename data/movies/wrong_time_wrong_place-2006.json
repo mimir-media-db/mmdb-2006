@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_time_wrong_place_2006",
+  "title": "Wrong Time, Wrong Place",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q230363",
+    "imdb": "tt0481663",
+    "tmdb": 599848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-16",
+  "runtime_minutes": 60
+}

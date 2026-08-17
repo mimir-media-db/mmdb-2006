@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_r_friends_2006",
+  "title": "We R Friends",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7977710",
+    "imdb": "tt1301721",
+    "tmdb": 334525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

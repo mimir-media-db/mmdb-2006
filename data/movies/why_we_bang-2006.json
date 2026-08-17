@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_why_we_bang_2006",
+  "title": "Why We Bang",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7997881",
+    "imdb": "tt0954354",
+    "tmdb": 42547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

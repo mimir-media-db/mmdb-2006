@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_way_to_go_rose_2006",
+  "title": "Way To Go, Rose",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19794613",
+    "tmdb": 414626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-10"
+}
