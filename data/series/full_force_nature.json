@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_full_force_nature",
+  "title": "Full Force Nature",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5508050",
+    "imdb": "tt0772477",
+    "tmdb": 17600
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

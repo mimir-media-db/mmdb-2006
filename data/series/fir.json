@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fir",
+  "title": "F.I.R.",
+  "start_year": 2006,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5423750",
+    "imdb": "tt2621722",
+    "tmdb": 17515
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1323
+}

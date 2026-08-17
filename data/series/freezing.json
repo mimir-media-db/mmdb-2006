@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_freezing",
+  "title": "Freezing",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5501301",
+    "imdb": "tt1151072",
+    "tmdb": 20700
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

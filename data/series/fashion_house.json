@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fashion_house",
+  "title": "Fashion House",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1969464",
+    "imdb": "tt0787407",
+    "tmdb": 2657
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 65
+}

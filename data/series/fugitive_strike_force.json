@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fugitive_strike_force",
+  "title": "Fugitive Strike Force",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q5507276",
+    "imdb": "tt0855473",
+    "tmdb": 6499
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

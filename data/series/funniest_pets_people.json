@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_funniest_pets_people",
+  "title": "Funniest Pets & People",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5509345",
+    "imdb": "tt0892562",
+    "tmdb": 204264
+  },
+  "last_updated": "2026-08-17"
+}

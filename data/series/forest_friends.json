@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_forest_friends",
+  "title": "Forest Friends",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3231768",
+    "imdb": "tt1286214",
+    "tmdb": 7331
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

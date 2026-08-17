@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_first_circle",
+  "title": "The First Circle",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4101717",
+    "imdb": "tt0804892",
+    "tmdb": 19102
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

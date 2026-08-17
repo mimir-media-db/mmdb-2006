@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fear_factor_india",
+  "title": "Fear Factor India",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5439327",
+    "imdb": "tt9817194",
+    "tmdb": 7523
+  },
+  "last_updated": "2026-08-17"
+}

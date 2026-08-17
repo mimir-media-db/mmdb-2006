@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_friday_night_lights",
+  "title": "Friday Night Lights",
+  "start_year": 2006,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4507",
+    "imdb": "tt0758745",
+    "tmdb": 4278
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 76
+}

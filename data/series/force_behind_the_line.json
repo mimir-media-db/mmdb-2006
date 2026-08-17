@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_force_behind_the_line",
+  "title": "The Force: Behind the Line",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7734748",
+    "imdb": "tt0870975",
+    "tmdb": 3158
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12
+}
