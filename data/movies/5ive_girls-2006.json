@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_5ive_girls_2006",
+  "title": "5ive Girls",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q245452",
+    "imdb": "tt0494199",
+    "tmdb": 10251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 93
+}
