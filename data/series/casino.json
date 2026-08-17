@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_casino",
+  "title": "Casino",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q2941075",
+    "imdb": "tt0796671",
+    "tmdb": 57249
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

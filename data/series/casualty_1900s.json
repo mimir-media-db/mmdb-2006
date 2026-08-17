@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_casualty_1900s",
+  "title": "Casualty 1900s",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5050911",
+    "imdb": "tt1332150",
+    "tmdb": 19101
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1
+}

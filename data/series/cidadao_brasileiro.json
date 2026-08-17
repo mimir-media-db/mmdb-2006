@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cidadao_brasileiro",
+  "title": "Cidadão Brasileiro",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q8346118",
+    "imdb": "tt0798800",
+    "tmdb": 158240
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 215
+}

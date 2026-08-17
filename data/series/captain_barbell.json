@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_captain_barbell",
+  "title": "Captain Barbell",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q12962497",
+    "imdb": "tt0827545",
+    "tmdb": 1629
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 165
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_crown_australian_celebrity_poker_challenge",
+  "title": "Crown Australian Celebrity Poker Challenge",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5189313",
+    "imdb": "tt0768727",
+    "tmdb": 10912
+  },
+  "last_updated": "2026-08-17"
+}

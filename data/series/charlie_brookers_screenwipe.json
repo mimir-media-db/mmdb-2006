@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_charlie_brookers_screenwipe",
+  "title": "Charlie Brooker's Screenwipe",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q5084590",
+    "imdb": "tt0780206",
+    "tmdb": 717
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 27
+}

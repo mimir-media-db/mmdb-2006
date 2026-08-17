@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_class",
+  "title": "The Class",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q730057",
+    "imdb": "tt0484082",
+    "tmdb": 417
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 19
+}

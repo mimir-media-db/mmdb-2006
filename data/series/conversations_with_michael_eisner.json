@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_conversations_with_michael_eisner",
+  "title": "Conversations with Michael Eisner",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q5166440",
+    "imdb": "tt0497853",
+    "tmdb": 12562
+  },
+  "last_updated": "2026-08-17"
+}
