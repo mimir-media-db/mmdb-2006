@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elder_son_2006",
+  "title": "The Elder Son",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2411031",
+    "imdb": "tt0455988",
+    "tmdb": 30367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

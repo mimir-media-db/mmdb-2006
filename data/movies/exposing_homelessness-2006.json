@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_exposing_homelessness_2006",
+  "title": "Exposing Homelessness",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5421594",
+    "imdb": "tt2415652"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

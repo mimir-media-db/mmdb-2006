@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everythings_gone_green_2006",
+  "title": "Everything's Gone Green",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5417927",
+    "imdb": "tt0461946",
+    "tmdb": 13164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}

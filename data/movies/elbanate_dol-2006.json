@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elbanate_dol_2006",
+  "title": "El-Banate Dol",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3049663",
+    "imdb": "tt0827502",
+    "tmdb": 125743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 68
+}

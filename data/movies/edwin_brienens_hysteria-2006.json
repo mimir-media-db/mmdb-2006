@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edwin_brienens_hysteria_2006",
+  "title": "Edwin Brienen’s Hysteria",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1294461",
+    "imdb": "tt0834908",
+    "tmdb": 365787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 80
+}

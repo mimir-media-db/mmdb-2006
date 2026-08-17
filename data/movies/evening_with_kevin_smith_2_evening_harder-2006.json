@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evening_with_kevin_smith_2_evening_harder_2006",
+  "title": "An Evening with Kevin Smith 2: Evening Harder",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4749966",
+    "imdb": "tt0910873",
+    "tmdb": 16768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 239
+}

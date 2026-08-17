@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ed_a_pris_son_dejeuner_2006",
+  "title": "Ed a pris son déjeuner",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q987612",
+    "imdb": "tt0814091",
+    "tmdb": 105455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

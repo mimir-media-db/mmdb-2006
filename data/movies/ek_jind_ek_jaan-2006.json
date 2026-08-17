@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_jind_ek_jaan_2006",
+  "title": "Ek Jind Ek Jaan",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350199",
+    "imdb": "tt1024645",
+    "tmdb": 48532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

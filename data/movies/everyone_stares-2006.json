@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everyone_stares_2006",
+  "title": "Everyone Stares",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1382283",
+    "imdb": "tt0492968",
+    "tmdb": 98169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 74
+}

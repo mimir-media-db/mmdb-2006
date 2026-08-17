@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ellos_robaron_la_picha_de_hitler_2006",
+  "title": "Ellos robaron la picha de Hitler",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5829816",
+    "imdb": "tt0772796",
+    "tmdb": 73913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

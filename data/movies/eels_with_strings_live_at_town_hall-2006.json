@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eels_with_strings_live_at_town_hall_2006",
+  "title": "Eels with Strings: Live at Town Hall",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q631159",
+    "imdb": "tt0775465",
+    "tmdb": 53826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 98
+}
