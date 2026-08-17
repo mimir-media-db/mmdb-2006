@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nghe_bao",
+  "title": "Nghề báo",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123436708",
+    "tmdb": 313003
+  },
+  "last_updated": "2026-08-17"
+}

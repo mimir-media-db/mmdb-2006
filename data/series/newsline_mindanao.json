@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_newsline_mindanao",
+  "title": "Newsline Mindanao",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q7019690",
+    "tmdb": 1343
+  },
+  "last_updated": "2026-08-17"
+}

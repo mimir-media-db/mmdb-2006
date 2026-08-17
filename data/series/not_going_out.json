@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_not_going_out",
+  "title": "Not Going Out",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7062104",
+    "imdb": "tt0862614",
+    "tmdb": 1393
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 54
+}
