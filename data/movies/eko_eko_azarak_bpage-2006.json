@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eko_eko_azarak_bpage_2006",
+  "title": "Eko Eko Azarak B-page",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136486561",
+    "imdb": "tt1107325",
+    "tmdb": 423345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elegy_of_life_rostropovich_vishnevskaya_2006",
+  "title": "Elegy of Life: Rostropovich, Vishnevskaya",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17582673",
+    "imdb": "tt0860401",
+    "tmdb": 262151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-11",
+  "runtime_minutes": 101
+}

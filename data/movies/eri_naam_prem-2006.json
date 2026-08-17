@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eri_naam_prem_2006",
+  "title": "Eri Naam Prem",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248318",
+    "imdb": "tt4761964",
+    "tmdb": 966157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

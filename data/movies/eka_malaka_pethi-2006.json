@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_eka_malaka_pethi_2006",
+  "title": "Eka Malaka Pethi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30635582",
+    "imdb": "tt30177566"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-03"
+}

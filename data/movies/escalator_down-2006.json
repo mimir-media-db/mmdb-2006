@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escalator_down_2006",
+  "title": "Escalator Down",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2164377",
+    "imdb": "tt0451186",
+    "tmdb": 65441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-09",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ekspedisi_madewa_2006",
+  "title": "Ekspedisi Madewa",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350584",
+    "imdb": "tt1047613",
+    "tmdb": 787522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-09",
+  "runtime_minutes": 105
+}

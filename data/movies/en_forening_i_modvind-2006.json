@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_forening_i_modvind_2006",
+  "title": "En forening i modvind",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20494231",
+    "imdb": "tt0976118",
+    "tmdb": 753483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 39
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_malogrado_amor_de_sebastian_2006",
+  "title": "El malogrado amor de Sebastián",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125546804",
+    "imdb": "tt0864829",
+    "tmdb": 617057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 78
+}

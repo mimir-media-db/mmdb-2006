@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elephant_king_2006",
+  "title": "The Elephant King",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7731756",
+    "imdb": "tt0451221",
+    "tmdb": 33256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-26",
+  "runtime_minutes": 92
+}

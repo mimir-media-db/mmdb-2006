@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edmond_2006",
+  "title": "Edmond",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2436011",
+    "imdb": "tt0443496",
+    "tmdb": 18191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-14",
+  "runtime_minutes": 82
+}

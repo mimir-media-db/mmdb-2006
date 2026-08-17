@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_efectos_secundarios_2006",
+  "title": "Efectos secundarios",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5347199",
+    "imdb": "tt0459127",
+    "tmdb": 121088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-01",
+  "runtime_minutes": 111
+}
