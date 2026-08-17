@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_200_pounds_beauty_2006",
+  "title": "200 Pounds Beauty",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q211722",
+    "imdb": "tt0940642",
+    "tmdb": 18377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 120
+}
