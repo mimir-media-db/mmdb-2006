@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aporia_2006",
+  "title": "Aporia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16082985",
+    "imdb": "tt0486961",
+    "tmdb": 112107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

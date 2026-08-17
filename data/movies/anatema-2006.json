@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anatema_2006",
+  "title": "Anatema",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11740386",
+    "imdb": "tt1147707",
+    "tmdb": 89586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-01",
+  "runtime_minutes": 99
+}

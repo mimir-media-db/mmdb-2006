@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aathi_2006",
+  "title": "Aathi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3534623",
+    "imdb": "tt0769499",
+    "tmdb": 63637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aquamarine_2006",
+  "title": "Aquamarine",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q623072",
+    "imdb": "tt0429591",
+    "tmdb": 14191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-26",
+  "runtime_minutes": 110
+}

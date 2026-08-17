@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_awqat_faragh_2006",
+  "title": "Awqat Faragh",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11161083",
+    "imdb": "tt1042242",
+    "tmdb": 193453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

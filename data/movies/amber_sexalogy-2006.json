@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amber_sexalogy_2006",
+  "title": "The Amber Sexalogy",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7713396",
+    "imdb": "tt0834891",
+    "tmdb": 293755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 61
+}

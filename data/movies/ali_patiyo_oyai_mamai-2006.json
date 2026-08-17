@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ali_patiyo_oyai_mamai_2006",
+  "title": "Ali Patiyo Oyai Mamai",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30592631",
+    "imdb": "tt7367984",
+    "tmdb": 807475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-24"
+}

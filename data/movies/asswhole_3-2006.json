@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_asswhole_3_2006",
+  "title": "Asswhole 3",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92610343",
+    "imdb": "tt0844826",
+    "tmdb": 576775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

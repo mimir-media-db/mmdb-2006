@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_als_der_fremde_kam_2006",
+  "title": "Als der Fremde kam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101208382",
+    "imdb": "tt0793470",
+    "tmdb": 295676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

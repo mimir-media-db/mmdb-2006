@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angela_2006",
+  "title": "Angel-A",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q531362",
+    "imdb": "tt0473753",
+    "tmdb": 11227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-25",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aatma_2006",
+  "title": "Aatma",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9137959",
+    "imdb": "tt0989605",
+    "tmdb": 64112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

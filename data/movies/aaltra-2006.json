@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aaltra_2006",
+  "title": "Aaltra",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q300983",
+    "imdb": "tt0405629",
+    "tmdb": 12249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-04",
+  "runtime_minutes": 92
+}

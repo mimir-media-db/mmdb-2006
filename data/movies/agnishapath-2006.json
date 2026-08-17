@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agnishapath_2006",
+  "title": "Agnishapath",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q77895063",
+    "imdb": "tt4773074",
+    "tmdb": 831699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

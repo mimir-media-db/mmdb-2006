@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arlit_the_second_paris_2006",
+  "title": "Arlit: The Second Paris",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2861663",
+    "imdb": "tt0473762",
+    "tmdb": 385307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-27"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_att_gora_en_pudel_2006",
+  "title": "Att göra en pudel",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10422114",
+    "imdb": "tt0498989",
+    "tmdb": 70060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-03",
+  "runtime_minutes": 92
+}

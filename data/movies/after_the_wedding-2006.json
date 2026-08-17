@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_the_wedding_2006",
+  "title": "After the Wedding",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1327845",
+    "imdb": "tt0457655",
+    "tmdb": 3549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-24",
+  "runtime_minutes": 119
+}

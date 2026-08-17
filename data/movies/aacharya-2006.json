@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_aacharya_2006",
+  "title": "Aacharya",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4661082",
+    "imdb": "tt2856450"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-23"
+}

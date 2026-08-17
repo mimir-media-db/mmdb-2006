@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arcade_on_route_9_2006",
+  "title": "Arcade on Route 9",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118304336",
+    "imdb": "tt0841006",
+    "tmdb": 548520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-01"
+}

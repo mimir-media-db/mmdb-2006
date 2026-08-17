@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anjos_do_sol_2006",
+  "title": "Anjos do Sol",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10822719",
+    "imdb": "tt0847154",
+    "tmdb": 37993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 92
+}
