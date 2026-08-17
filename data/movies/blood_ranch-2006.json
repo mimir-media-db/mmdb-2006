@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_ranch_2006",
+  "title": "Blood Ranch",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755543",
+    "imdb": "tt0773273",
+    "tmdb": 97601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

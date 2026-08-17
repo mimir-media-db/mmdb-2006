@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sixth_element_2006",
+  "title": "The Sixth Element",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7764573",
+    "imdb": "tt1693980",
+    "tmdb": 479007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-03"
+}

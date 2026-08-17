@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_dining_table_2006",
+  "title": "The Last Dining Table",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30765559",
+    "imdb": "tt0877656",
+    "tmdb": 311953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 91
+}

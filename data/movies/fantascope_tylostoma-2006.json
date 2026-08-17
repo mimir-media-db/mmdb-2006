@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fantascope_tylostoma_2006",
+  "title": "Fantascope 'Tylostoma'",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17630309",
+    "imdb": "tt0878116",
+    "tmdb": 709071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-01"
+}

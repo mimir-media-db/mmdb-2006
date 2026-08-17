@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_through_your_eyes_2006",
+  "title": "Through Your Eyes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12300135",
+    "imdb": "tt0410056",
+    "tmdb": 365231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-07",
+  "runtime_minutes": 104
+}

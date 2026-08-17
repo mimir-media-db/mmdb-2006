@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yokohama_mary_2006",
+  "title": "Yokohama Mary",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11346036",
+    "imdb": "tt0794401",
+    "tmdb": 503148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

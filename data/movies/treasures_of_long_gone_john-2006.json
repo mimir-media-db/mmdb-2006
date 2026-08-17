@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_treasures_of_long_gone_john_2006",
+  "title": "The Treasures of Long Gone John",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127870750",
+    "imdb": "tt0814360",
+    "tmdb": 228934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}

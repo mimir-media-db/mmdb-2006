@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_13_graves_2006",
+  "title": "13 Graves",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16687062",
+    "imdb": "tt0758726",
+    "tmdb": 327478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

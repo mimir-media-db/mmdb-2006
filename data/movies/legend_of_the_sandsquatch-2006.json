@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_the_sandsquatch_2006",
+  "title": "Legend of the Sandsquatch",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20093010",
+    "imdb": "tt0888508",
+    "tmdb": 309732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

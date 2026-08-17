@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ukm_the_ultimate_killing_machine_2006",
+  "title": "UKM: The Ultimate Killing Machine",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13224669",
+    "imdb": "tt0843878",
+    "tmdb": 10062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

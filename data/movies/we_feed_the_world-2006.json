@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_feed_the_world_2006",
+  "title": "We Feed the World",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q697687",
+    "imdb": "tt0478324",
+    "tmdb": 11214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-27",
+  "runtime_minutes": 95
+}

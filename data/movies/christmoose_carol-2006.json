@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmoose_carol_2006",
+  "title": "A Christmoose Carol",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1366454",
+    "imdb": "tt0449011",
+    "tmdb": 84379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-22",
+  "runtime_minutes": 90
+}

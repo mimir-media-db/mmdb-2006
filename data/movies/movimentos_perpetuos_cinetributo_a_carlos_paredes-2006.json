@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_movimentos_perpetuos_cinetributo_a_carlos_paredes_2006",
+  "title": "Movimentos Perpétuos – Cine-Tributo a Carlos Paredes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134301427",
+    "imdb": "tt0814221",
+    "tmdb": 232903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 70
+}

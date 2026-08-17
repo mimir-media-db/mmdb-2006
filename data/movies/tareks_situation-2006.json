@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tareks_situation_2006",
+  "title": "Tarek's Situation",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12222050",
+    "imdb": "tt0830700",
+    "tmdb": 42322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-04",
+  "runtime_minutes": 108
+}

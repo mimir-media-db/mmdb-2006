@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prisoner_or_how_i_planned_to_kill_tony_blair_2006",
+  "title": "The Prisoner or: How I Planned to Kill Tony Blair",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7758394",
+    "imdb": "tt0841149",
+    "tmdb": 80083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 72
+}

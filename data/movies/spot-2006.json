@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spot_2006",
+  "title": "The Spot",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4461555",
+    "imdb": "tt0820153",
+    "tmdb": 72885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-15",
+  "runtime_minutes": 92
+}

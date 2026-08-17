@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phobic_2006",
+  "title": "The Phobic",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7756949",
+    "imdb": "tt0822845",
+    "tmdb": 768781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

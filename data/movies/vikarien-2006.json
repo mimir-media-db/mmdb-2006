@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vikarien_2006",
+  "title": "Vikarien",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955295",
+    "imdb": "tt0872274",
+    "tmdb": 341919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wabanaki_people_from_where_the_sun_rises_2006",
+  "title": "Waban-Aki: People From Where the Sun Rises",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59618618",
+    "imdb": "tt1439577",
+    "tmdb": 375913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 104
+}

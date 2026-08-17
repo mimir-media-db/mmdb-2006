@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_asphalt_v_2006",
+  "title": "Red Asphalt V",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57903360",
+    "imdb": "tt3207340",
+    "tmdb": 940517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

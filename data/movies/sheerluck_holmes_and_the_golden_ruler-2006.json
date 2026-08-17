@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sheerluck_holmes_and_the_golden_ruler_2006",
+  "title": "Sheerluck Holmes and the Golden Ruler",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7492503",
+    "imdb": "tt0795495",
+    "tmdb": 275130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_euphoria_2006",
+  "title": "Euphoria",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1969046",
+    "imdb": "tt0847877",
+    "tmdb": 72891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-11",
+  "runtime_minutes": 74
+}

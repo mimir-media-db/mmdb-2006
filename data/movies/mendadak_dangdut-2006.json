@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mendadak_dangdut_2006",
+  "title": "Mendadak Dangdut",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4184223",
+    "imdb": "tt1059943",
+    "tmdb": 297327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-10",
+  "runtime_minutes": 90
+}

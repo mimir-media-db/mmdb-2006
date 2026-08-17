@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_population_436_2006",
+  "title": "Population 436",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2034516",
+    "imdb": "tt0462482",
+    "tmdb": 1596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-05",
+  "runtime_minutes": 89
+}

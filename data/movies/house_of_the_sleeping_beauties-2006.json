@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_the_sleeping_beauties_2006",
+  "title": "House of the Sleeping Beauties",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1168819",
+    "imdb": "tt0844474",
+    "tmdb": 134018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-02",
+  "runtime_minutes": 99
+}

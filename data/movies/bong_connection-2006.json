@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bong_connection_2006",
+  "title": "The Bong Connection",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7719124",
+    "imdb": "tt0488374",
+    "tmdb": 360435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

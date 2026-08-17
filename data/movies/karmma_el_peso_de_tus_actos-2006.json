@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karmma_el_peso_de_tus_actos_2006",
+  "title": "Karmma, el peso de tus actos",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56220230",
+    "imdb": "tt0485813",
+    "tmdb": 276369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

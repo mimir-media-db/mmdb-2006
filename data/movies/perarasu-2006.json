@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perarasu_2006",
+  "title": "Perarasu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25570938",
+    "imdb": "tt0811007",
+    "tmdb": 78950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

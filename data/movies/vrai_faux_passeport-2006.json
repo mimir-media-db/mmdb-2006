@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vrai_faux_passeport_2006",
+  "title": "Vrai faux passeport",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11387281",
+    "imdb": "tt0932675",
+    "tmdb": 293990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garth_method_2006",
+  "title": "The Garth Method",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600830",
+    "imdb": "tt0475280",
+    "tmdb": 272349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

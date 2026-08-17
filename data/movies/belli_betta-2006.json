@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_belli_betta_2006",
+  "title": "Belli Betta",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91402638"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-01"
+}

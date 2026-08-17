@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piet_piraat_en_het_vliegende_schip_2006",
+  "title": "Piet Piraat en het vliegende schip",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2327228",
+    "imdb": "tt0844747",
+    "tmdb": 62075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-25",
+  "runtime_minutes": 61
+}

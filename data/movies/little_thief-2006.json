@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_little_thief_2006",
+  "title": "The Little Thief",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93735324"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

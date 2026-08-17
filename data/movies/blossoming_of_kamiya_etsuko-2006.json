@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blossoming_of_kamiya_etsuko_2006",
+  "title": "The Blossoming of Kamiya Etsuko",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7718705",
+    "imdb": "tt0794280",
+    "tmdb": 165850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-12",
+  "runtime_minutes": 111
+}

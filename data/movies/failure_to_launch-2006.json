@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_failure_to_launch_2006",
+  "title": "Failure to Launch",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q228936",
+    "imdb": "tt0427229",
+    "tmdb": 6877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-10",
+  "runtime_minutes": 97
+}

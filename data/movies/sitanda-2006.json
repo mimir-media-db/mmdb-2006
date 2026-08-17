@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sitanda_2006",
+  "title": "Sitanda",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7531654",
+    "imdb": "tt1045659",
+    "tmdb": 805803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

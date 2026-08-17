@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pitevna_2006",
+  "title": "Pitevna",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17409193",
+    "imdb": "tt0944236",
+    "tmdb": 55142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

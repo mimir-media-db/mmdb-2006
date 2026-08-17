@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bride_wore_blood_2006",
+  "title": "The Bride Wore Blood",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7720028",
+    "imdb": "tt0843840",
+    "tmdb": 631201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

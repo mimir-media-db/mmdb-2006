@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ammawarune_2006",
+  "title": "Ammawarune",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30596015",
+    "imdb": "tt1085359",
+    "tmdb": 1048182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-30"
+}

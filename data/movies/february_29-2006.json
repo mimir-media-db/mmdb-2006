@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_february_29_2006",
+  "title": "February 29",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q487383",
+    "imdb": "tt0927575",
+    "tmdb": 52419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-20",
+  "runtime_minutes": 96
+}

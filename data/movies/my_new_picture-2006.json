@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_new_picture_2006",
+  "title": "My New Picture",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121157551",
+    "imdb": "tt0938318",
+    "tmdb": 279602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

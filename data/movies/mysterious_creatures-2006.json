@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mysterious_creatures_2006",
+  "title": "Mysterious Creatures",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755494",
+    "imdb": "tt0867178",
+    "tmdb": 270558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

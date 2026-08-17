@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thanthra_2006",
+  "title": "Thanthra",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19599892",
+    "imdb": "tt0981095",
+    "tmdb": 927965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

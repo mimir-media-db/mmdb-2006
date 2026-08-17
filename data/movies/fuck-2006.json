@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuck_2006",
+  "title": "Fuck",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1472699",
+    "imdb": "tt1283283",
+    "tmdb": 125613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-20",
+  "runtime_minutes": 83
+}

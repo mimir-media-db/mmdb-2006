@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_miss_sunshine_2006",
+  "title": "Little Miss Sunshine",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q192073",
+    "imdb": "tt0449059",
+    "tmdb": 773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-20",
+  "runtime_minutes": 98
+}

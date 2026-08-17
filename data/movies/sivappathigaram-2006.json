@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sivappathigaram_2006",
+  "title": "Sivappathigaram",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7532399",
+    "imdb": "tt2084939",
+    "tmdb": 76969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

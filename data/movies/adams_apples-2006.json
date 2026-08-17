@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adams_apples_2006",
+  "title": "Adam's Apples",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q352000",
+    "imdb": "tt0418455",
+    "tmdb": 1023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-31",
+  "runtime_minutes": 94
+}

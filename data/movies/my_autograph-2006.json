@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_autograph_2006",
+  "title": "My Autograph",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6944948",
+    "imdb": "tt2917376",
+    "tmdb": 256062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-17"
+}

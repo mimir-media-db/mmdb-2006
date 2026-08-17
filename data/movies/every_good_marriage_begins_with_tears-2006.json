@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_every_good_marriage_begins_with_tears_2006",
+  "title": "Every Good Marriage Begins with Tears",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814516",
+    "imdb": "tt1073107",
+    "tmdb": 426428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 62
+}

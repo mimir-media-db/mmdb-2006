@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grnne_hjerter_2006",
+  "title": "Grønne hjerter",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12342337",
+    "imdb": "tt0481418",
+    "tmdb": 195365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-28",
+  "runtime_minutes": 96
+}

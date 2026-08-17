@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coldplay_how_we_saw_the_world_live_in_toronto_2006",
+  "title": "Coldplay: How We Saw the World – Live in Toronto",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124129325",
+    "tmdb": 33700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-10",
+  "runtime_minutes": 92
+}

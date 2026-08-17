@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gopi_goda_meedha_pilli_2006",
+  "title": "Gopi – Goda Meedha Pilli",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12996271",
+    "imdb": "tt1579953",
+    "tmdb": 531025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-16"
+}

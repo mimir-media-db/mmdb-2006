@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sonduru_wasanthe_2006",
+  "title": "Sonduru Wasanthe",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30635499",
+    "imdb": "tt7985334"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-06"
+}

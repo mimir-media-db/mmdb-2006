@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_zarra_2006",
+  "title": "Sun Zarra",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7638655",
+    "imdb": "tt0933175",
+    "tmdb": 948312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

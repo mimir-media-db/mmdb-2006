@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_girl_bad_girl_2006",
+  "title": "Good Girl, Bad Girl",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16540291",
+    "imdb": "tt0484579",
+    "tmdb": 81508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-15",
+  "runtime_minutes": 95
+}

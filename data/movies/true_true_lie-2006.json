@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_true_true_lie_2006",
+  "title": "True True Lie",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7847544",
+    "imdb": "tt0493419",
+    "tmdb": 18245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

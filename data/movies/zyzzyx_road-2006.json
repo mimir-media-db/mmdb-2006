@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zyzzyx_road_2006",
+  "title": "Zyzzyx Road",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q246211",
+    "imdb": "tt0429277",
+    "tmdb": 41393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-24",
+  "runtime_minutes": 106
+}

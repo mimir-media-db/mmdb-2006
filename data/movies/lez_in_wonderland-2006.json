@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lez_in_wonderland_2006",
+  "title": "A Lez in Wonderland",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11361740",
+    "imdb": "tt0896793",
+    "tmdb": 1369960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_private_2006",
+  "title": "Private",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1101982",
+    "imdb": "tt0420090",
+    "tmdb": 44104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-18",
+  "runtime_minutes": 90
+}

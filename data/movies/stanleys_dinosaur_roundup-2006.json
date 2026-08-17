@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stanleys_dinosaur_roundup_2006",
+  "title": "Stanley's Dinosaur Round-Up",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7599387",
+    "imdb": "tt0493306",
+    "tmdb": 156900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-03",
+  "runtime_minutes": 71
+}

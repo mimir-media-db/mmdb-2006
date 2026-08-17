@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ssi_sex_squad_investigation_2006",
+  "title": "SSI: Sex Squad Investigation",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30751057",
+    "imdb": "tt0494270",
+    "tmdb": 76058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

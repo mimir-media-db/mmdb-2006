@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yours_mine_and_ours_2006",
+  "title": "Yours, Mine and Ours",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1183268",
+    "imdb": "tt0443295",
+    "tmdb": 13499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-27",
+  "runtime_minutes": 95
+}

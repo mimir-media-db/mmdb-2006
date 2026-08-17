@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_acid_bath_2006",
+  "title": "Acid Bath",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28018413",
+    "imdb": "tt0775415",
+    "tmdb": 378794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

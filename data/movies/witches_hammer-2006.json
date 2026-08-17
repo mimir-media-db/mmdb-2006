@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_witches_hammer_2006",
+  "title": "The Witches Hammer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7775310",
+    "imdb": "tt0400944",
+    "tmdb": 39252
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

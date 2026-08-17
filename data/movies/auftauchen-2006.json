@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_auftauchen_2006",
+  "title": "Auftauchen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19834925",
+    "imdb": "tt0768171",
+    "tmdb": 65442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 89
+}

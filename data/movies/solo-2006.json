@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_solo_2006",
+  "title": "Solo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7558421",
+    "imdb": "tt0477472",
+    "tmdb": 57746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

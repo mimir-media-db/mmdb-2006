@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zathura_a_space_adventure_2006",
+  "title": "Zathura: A Space Adventure",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q148326",
+    "imdb": "tt0406375",
+    "tmdb": 6795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-02",
+  "runtime_minutes": 96
+}

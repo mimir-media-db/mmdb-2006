@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garage_2006",
+  "title": "The Garage",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7735800",
+    "imdb": "tt0424107",
+    "tmdb": 49480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rush_hour_2006",
+  "title": "Rush Hour",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674177",
+    "imdb": "tt0477278",
+    "tmdb": 341950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-02",
+  "runtime_minutes": 104
+}

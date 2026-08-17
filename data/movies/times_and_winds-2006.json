@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_times_and_winds_2006",
+  "title": "Times and Winds",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2920518",
+    "imdb": "tt0855729",
+    "tmdb": 5850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-10",
+  "runtime_minutes": 107
+}

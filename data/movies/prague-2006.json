@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prague_2006",
+  "title": "Prague",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7237584",
+    "imdb": "tt0855975",
+    "tmdb": 16017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-03",
+  "runtime_minutes": 96
+}

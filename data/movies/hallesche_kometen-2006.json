@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hallesche_kometen_2006",
+  "title": "Hallesche Kometen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1571644",
+    "imdb": "tt0367788",
+    "tmdb": 124240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-19",
+  "runtime_minutes": 83
+}

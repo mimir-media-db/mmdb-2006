@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swarm_of_the_snakehead_2006",
+  "title": "Swarm of the Snakehead",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7653890",
+    "imdb": "tt0390528",
+    "tmdb": 383741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

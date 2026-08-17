@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_move_2006",
+  "title": "Final Move",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10282420",
+    "imdb": "tt0460796",
+    "tmdb": 71013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-15",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wine_road_of_the_samurai_2006",
+  "title": "Wine Road of the Samurai",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8024908",
+    "imdb": "tt0475427",
+    "tmdb": 939782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

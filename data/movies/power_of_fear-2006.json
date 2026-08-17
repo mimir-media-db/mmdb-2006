@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_power_of_fear_2006",
+  "title": "The Power of Fear",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4105865",
+    "imdb": "tt0483200",
+    "tmdb": 75393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-30",
+  "runtime_minutes": 79
+}

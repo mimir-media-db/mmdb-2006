@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bilo_jednom_2006",
+  "title": "Bilo jednom...",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4913561",
+    "imdb": "tt1990178",
+    "tmdb": 758074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-27",
+  "runtime_minutes": 43
+}

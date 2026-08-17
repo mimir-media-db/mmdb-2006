@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blackout_journey_2006",
+  "title": "Blackout Journey",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47459455",
+    "imdb": "tt0381919",
+    "tmdb": 198691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-19"
+}

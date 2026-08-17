@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_sunflowers_2006",
+  "title": "The Night of the Sunflowers",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3211236",
+    "imdb": "tt0456111",
+    "tmdb": 58946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-25",
+  "runtime_minutes": 123
+}

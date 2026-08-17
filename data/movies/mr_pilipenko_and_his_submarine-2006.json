@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_pilipenko_and_his_submarine_2006",
+  "title": "Mr. Pilipenko and His Submarine",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11331595",
+    "imdb": "tt1016085",
+    "tmdb": 682911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

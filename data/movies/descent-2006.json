@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_descent_2006",
+  "title": "The Descent",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1367317",
+    "imdb": "tt0435625",
+    "tmdb": 9392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-04",
+  "runtime_minutes": 99
+}

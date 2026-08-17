@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smiling_in_a_war_zone_2006",
+  "title": "Smiling in a War Zone",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052416",
+    "imdb": "tt0817955",
+    "tmdb": 221141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-15",
+  "runtime_minutes": 77
+}

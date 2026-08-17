@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tadas_doitall_house_2006",
+  "title": "Tada's Do-It-All House",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5359617",
+    "imdb": "tt1685576",
+    "tmdb": 129237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-25",
+  "runtime_minutes": 123
+}

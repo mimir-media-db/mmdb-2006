@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ambi_2006",
+  "title": "Ambi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18351564",
+    "imdb": "tt1120633"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

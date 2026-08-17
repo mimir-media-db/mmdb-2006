@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tananam_tananam_2006",
+  "title": "Tananam Tananam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16953038",
+    "imdb": "tt14337938",
+    "tmdb": 323148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

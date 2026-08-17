@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tarantinos_mind_2006",
+  "title": "Tarantino's Mind",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19427628",
+    "imdb": "tt1828308",
+    "tmdb": 183766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 13
+}

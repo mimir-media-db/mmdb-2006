@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_huldufolk_102_2006",
+  "title": "Huldufólk 102",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21062098",
+    "imdb": "tt0808308",
+    "tmdb": 670520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

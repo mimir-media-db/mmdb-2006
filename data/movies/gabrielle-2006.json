@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gabrielle_2006",
+  "title": "Gabrielle",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q466713",
+    "imdb": "tt0435479",
+    "tmdb": 32687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-12",
+  "runtime_minutes": 90
+}

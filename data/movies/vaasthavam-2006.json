@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vaasthavam_2006",
+  "title": "Vaasthavam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14478676",
+    "imdb": "tt0972913",
+    "tmdb": 287916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

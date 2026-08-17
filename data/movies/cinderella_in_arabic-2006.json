@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cinderella_in_arabic_2006",
+  "title": "Cinderella in Arabic",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12195822",
+    "imdb": "tt6447644",
+    "tmdb": 534434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

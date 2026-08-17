@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_que_sea_rock_2006",
+  "title": "Que sea rock",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17627915",
+    "imdb": "tt0830832",
+    "tmdb": 270532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 101
+}

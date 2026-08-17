@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vargam_2006",
+  "title": "Vargam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7915637",
+    "imdb": "tt0811145",
+    "tmdb": 360037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

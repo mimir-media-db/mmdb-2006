@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_respectable_suitor_2006",
+  "title": "The Respectable Suitor",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755635",
+    "imdb": "tt13813166",
+    "tmdb": 872017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

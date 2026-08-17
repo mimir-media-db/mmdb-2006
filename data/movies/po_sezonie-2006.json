@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_po_sezonie_2006",
+  "title": "Po sezonie",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11819895",
+    "imdb": "tt0484063",
+    "tmdb": 425277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-31",
+  "runtime_minutes": 89
+}

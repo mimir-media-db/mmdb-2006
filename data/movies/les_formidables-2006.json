@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_formidables_2006",
+  "title": "Les Formidables",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16178229",
+    "imdb": "tt0826099",
+    "tmdb": 265727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-22",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baabul_2006",
+  "title": "Baabul",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q797444",
+    "imdb": "tt0419468",
+    "tmdb": 48184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-08",
+  "runtime_minutes": 169
+}

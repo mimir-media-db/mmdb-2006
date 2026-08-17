@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_these_encounters_of_theirs_2006",
+  "title": "These Encounters of Theirs",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15974226",
+    "imdb": "tt0815227",
+    "tmdb": 108772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 68
+}

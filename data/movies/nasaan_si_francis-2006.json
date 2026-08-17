@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nasaan_si_francis_2006",
+  "title": "Nasaan si Francis?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6966555",
+    "imdb": "tt0757284",
+    "tmdb": 146213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

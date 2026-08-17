@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_hard_to_be_a_rockn_roller_2006",
+  "title": "It's Hard to Be a Rock'n Roller",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22294807",
+    "imdb": "tt0853124",
+    "tmdb": 282334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-01",
+  "runtime_minutes": 80
+}

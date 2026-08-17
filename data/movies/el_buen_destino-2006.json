@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_buen_destino_2006",
+  "title": "El buen destino",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110103657",
+    "imdb": "tt0437890",
+    "tmdb": 421770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-30",
+  "runtime_minutes": 115
+}

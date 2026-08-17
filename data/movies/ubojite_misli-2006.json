@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ubojite_misli_2006",
+  "title": "Ubojite misli",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17513731",
+    "imdb": "tt1413251"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_your_life_in_65_minutes_2006",
+  "title": "Your Life in 65 Minutes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9090475",
+    "imdb": "tt0439860",
+    "tmdb": 91099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_shot_sam_2006",
+  "title": "One Shot Sam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126783",
+    "imdb": "tt0960082",
+    "tmdb": 1279502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreamer_2006",
+  "title": "Dreamer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q625488",
+    "imdb": "tt0418647",
+    "tmdb": 12920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-23",
+  "runtime_minutes": 102
+}

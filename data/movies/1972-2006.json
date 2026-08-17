@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1972_2006",
+  "title": "1972",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9548823",
+    "imdb": "tt0337564",
+    "tmdb": 70078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 104
+}

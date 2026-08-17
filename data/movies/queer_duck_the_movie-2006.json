@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_queer_duck_the_movie_2006",
+  "title": "Queer Duck: The Movie",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17333642",
+    "imdb": "tt0485288",
+    "tmdb": 34728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

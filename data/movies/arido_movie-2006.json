@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arido_movie_2006",
+  "title": "Árido Movie",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10396004",
+    "imdb": "tt0431615",
+    "tmdb": 40859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fica_comigo_esta_noite_2006",
+  "title": "Fica Comigo Esta Noite",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10282089",
+    "imdb": "tt0808266",
+    "tmdb": 123451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

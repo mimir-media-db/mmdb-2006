@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belly_dancer_2006",
+  "title": "The Belly Dancer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16129283",
+    "imdb": "tt0370893",
+    "tmdb": 177063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

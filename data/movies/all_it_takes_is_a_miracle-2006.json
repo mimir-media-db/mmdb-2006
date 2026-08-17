@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_it_takes_is_a_miracle_2006",
+  "title": "All It Takes Is a Miracle",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10672462",
+    "imdb": "tt0497976",
+    "tmdb": 82025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 97
+}

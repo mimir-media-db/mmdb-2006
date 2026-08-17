@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_catch_a_wave_2006",
+  "title": "Catch a Wave",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11297140",
+    "imdb": "tt0484195",
+    "tmdb": 126417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

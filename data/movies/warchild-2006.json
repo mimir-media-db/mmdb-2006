@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warchild_2006",
+  "title": "Warchild",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7968888",
+    "imdb": "tt0490021",
+    "tmdb": 122801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-31",
+  "runtime_minutes": 103
+}

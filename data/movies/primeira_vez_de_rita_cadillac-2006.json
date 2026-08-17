@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_primeira_vez_de_rita_cadillac_2006",
+  "title": "A Primeira Vez de Rita Cadillac",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18467854"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

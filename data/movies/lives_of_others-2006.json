@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lives_of_others_2006",
+  "title": "The Lives of Others",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q153882",
+    "imdb": "tt0405094",
+    "tmdb": 582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-15",
+  "runtime_minutes": 137
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_red_flowers_2006",
+  "title": "Little Red Flowers",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1865804",
+    "imdb": "tt0492473",
+    "tmdb": 36615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-15",
+  "runtime_minutes": 88
+}

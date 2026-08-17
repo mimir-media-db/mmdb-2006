@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_orange_sky_2006",
+  "title": "The Orange Sky",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4335647",
+    "imdb": "tt2204313",
+    "tmdb": 72352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punching_at_the_sun_2006",
+  "title": "Punching at the Sun",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97304451",
+    "imdb": "tt0493051",
+    "tmdb": 171887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-25",
+  "runtime_minutes": 86
+}

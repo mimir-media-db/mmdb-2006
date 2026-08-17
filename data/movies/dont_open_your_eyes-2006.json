@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_open_your_eyes_2006",
+  "title": "Don't Open Your Eyes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22774533",
+    "imdb": "tt0798421",
+    "tmdb": 271564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

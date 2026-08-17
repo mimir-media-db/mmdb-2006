@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_les_disparus_de_douala_2006",
+  "title": "Les Disparus de Douala",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133850083"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 52
+}

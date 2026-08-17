@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kokoyakyu_high_school_baseball_2006",
+  "title": "Kokoyakyu: High School Baseball",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125422",
+    "imdb": "tt0823481",
+    "tmdb": 213595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

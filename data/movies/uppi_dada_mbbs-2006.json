@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_uppi_dada_mbbs_2006",
+  "title": "Uppi Dada M.B.B.S.",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7899084",
+    "imdb": "tt12868066"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

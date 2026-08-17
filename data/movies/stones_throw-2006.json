@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stones_throw_2006",
+  "title": "A Stone's Throw",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44491894",
+    "imdb": "tt0832951",
+    "tmdb": 222253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-13"
+}

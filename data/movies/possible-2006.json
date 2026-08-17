@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_possible_2006",
+  "title": "The Possible",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6656112",
+    "imdb": "tt0926207",
+    "tmdb": 63515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-04"
+}

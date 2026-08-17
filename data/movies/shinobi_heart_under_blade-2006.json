@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shinobi_heart_under_blade_2006",
+  "title": "Shinobi: Heart Under Blade",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1536550",
+    "imdb": "tt0475723",
+    "tmdb": 10116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-14",
+  "runtime_minutes": 101
+}

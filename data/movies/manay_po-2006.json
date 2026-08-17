@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manay_po_2006",
+  "title": "Manay Po",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11340840",
+    "imdb": "tt0809517",
+    "tmdb": 108610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-31"
+}

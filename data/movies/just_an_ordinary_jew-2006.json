@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_an_ordinary_jew_2006",
+  "title": "Just an Ordinary Jew",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1278897",
+    "imdb": "tt0488295",
+    "tmdb": 66189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-19",
+  "runtime_minutes": 89
+}

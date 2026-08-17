@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_request_2006",
+  "title": "Last Request",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39074092",
+    "imdb": "tt0852975",
+    "tmdb": 60649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

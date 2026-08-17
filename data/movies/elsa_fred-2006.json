@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elsa_fred_2006",
+  "title": "Elsa & Fred",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1333403",
+    "imdb": "tt0453047",
+    "tmdb": 22916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-13",
+  "runtime_minutes": 108
+}

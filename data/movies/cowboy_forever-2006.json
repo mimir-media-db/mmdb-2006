@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cowboy_forever_2006",
+  "title": "Cowboy Forever",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125546585",
+    "imdb": "tt1073162",
+    "tmdb": 46747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 27
+}

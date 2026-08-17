@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_the_vig_2006",
+  "title": "What's the Vig?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33127890",
+    "imdb": "tt1104008"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-17"
+}

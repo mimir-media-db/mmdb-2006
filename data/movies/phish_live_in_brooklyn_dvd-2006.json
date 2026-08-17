@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phish_live_in_brooklyn_dvd_2006",
+  "title": "Phish: Live in Brooklyn (DVD)",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7186452",
+    "imdb": "tt0833983",
+    "tmdb": 64601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-11"
+}

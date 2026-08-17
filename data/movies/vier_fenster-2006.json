@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vier_fenster_2006",
+  "title": "Vier Fenster",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18029163",
+    "imdb": "tt0483835",
+    "tmdb": 66155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 80
+}

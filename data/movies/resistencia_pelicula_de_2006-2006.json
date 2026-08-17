@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resistencia_pelicula_de_2006_2006",
+  "title": "Resistencia (película de 2006)",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136768673",
+    "imdb": "tt0451231",
+    "tmdb": 727589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 112
+}

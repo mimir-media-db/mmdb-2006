@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_couleurs_de_la_dignite_2006",
+  "title": "Les couleurs de la dignité",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65323490",
+    "imdb": "tt29780682",
+    "tmdb": 1745582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

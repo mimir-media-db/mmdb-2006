@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wir_weltmeister_ein_fuballmarchen_2006",
+  "title": "Wir Weltmeister – ein Fußballmärchen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15854845",
+    "imdb": "tt0791600",
+    "tmdb": 440589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

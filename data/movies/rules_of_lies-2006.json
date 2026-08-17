@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rules_of_lies_2006",
+  "title": "Rules of Lies",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9305637",
+    "imdb": "tt0934928",
+    "tmdb": 65909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-30",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lukas_in_love_2006",
+  "title": "Lukas in Love",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30748465",
+    "imdb": "tt0774762",
+    "tmdb": 796901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

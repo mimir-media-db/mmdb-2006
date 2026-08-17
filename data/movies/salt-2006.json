@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_salt_2006",
+  "title": "Salt",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28452230",
+    "imdb": "tt0901509",
+    "tmdb": 56893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-01"
+}

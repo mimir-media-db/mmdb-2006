@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elbe_2006",
+  "title": "Elbe",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104524496",
+    "imdb": "tt0825746",
+    "tmdb": 503664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escarpment_blues_2006",
+  "title": "Escarpment Blues",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12118237",
+    "imdb": "tt0949392",
+    "tmdb": 1531199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

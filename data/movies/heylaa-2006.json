@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heylaa_2006",
+  "title": "Heylaa",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738579",
+    "imdb": "tt1274270",
+    "tmdb": 494096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

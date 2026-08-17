@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nu_2006",
+  "title": "Nu.",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3284094",
+    "imdb": "tt0891338",
+    "tmdb": 319371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-30",
+  "runtime_minutes": 80
+}

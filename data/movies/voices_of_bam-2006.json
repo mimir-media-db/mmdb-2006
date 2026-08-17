@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voices_of_bam_2006",
+  "title": "Voices of Bam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17071335",
+    "imdb": "tt0932560",
+    "tmdb": 277465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

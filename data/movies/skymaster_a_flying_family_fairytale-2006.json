@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skymaster_a_flying_family_fairytale_2006",
+  "title": "Skymaster, a flying family fairytale",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12308291",
+    "imdb": "tt0408681",
+    "tmdb": 21275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-13",
+  "runtime_minutes": 90
+}

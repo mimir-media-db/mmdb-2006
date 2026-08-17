@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boss_2006",
+  "title": "Boss",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13003980",
+    "imdb": "tt0843327",
+    "tmdb": 80804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

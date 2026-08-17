@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_terminal_bliss_2006",
+  "title": "Terminal Bliss",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600316",
+    "imdb": "tt1577069"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

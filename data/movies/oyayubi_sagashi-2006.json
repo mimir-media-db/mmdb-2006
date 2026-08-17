@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oyayubi_sagashi_2006",
+  "title": "Oyayubi Sagashi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111345050",
+    "imdb": "tt0781449",
+    "tmdb": 116634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_holly_hobbie_and_friends_christmas_wishes_2006",
+  "title": "Holly Hobbie and Friends: Christmas Wishes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124800",
+    "imdb": "tt0906022",
+    "tmdb": 80452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-24"
+}

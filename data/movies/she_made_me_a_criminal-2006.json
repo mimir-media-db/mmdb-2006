@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_made_me_a_criminal_2006",
+  "title": "She Made Me a Criminal",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12205588",
+    "imdb": "tt1020956",
+    "tmdb": 48658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-26",
+  "runtime_minutes": 105
+}

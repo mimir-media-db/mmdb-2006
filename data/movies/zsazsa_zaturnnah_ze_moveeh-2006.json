@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zsazsa_zaturnnah_ze_moveeh_2006",
+  "title": "ZsaZsa Zaturnnah Ze Moveeh",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11307655",
+    "imdb": "tt0877732",
+    "tmdb": 107167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 114
+}

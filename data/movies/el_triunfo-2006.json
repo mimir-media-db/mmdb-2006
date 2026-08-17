@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_triunfo_2006",
+  "title": "El triunfo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91463504",
+    "imdb": "tt0460037",
+    "tmdb": 257479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-14",
+  "runtime_minutes": 122
+}

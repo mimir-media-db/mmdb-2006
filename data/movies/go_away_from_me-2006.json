@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_go_away_from_me_2006",
+  "title": "Go Away from Me",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5574714",
+    "imdb": "tt0765266",
+    "tmdb": 144948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-29",
+  "runtime_minutes": 90
+}

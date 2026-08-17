@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garasi_2006",
+  "title": "Garasi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12483523",
+    "imdb": "tt0780023",
+    "tmdb": 518257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-19"
+}

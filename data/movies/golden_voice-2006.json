@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_voice_2006",
+  "title": "The Golden Voice",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350751",
+    "imdb": "tt1100590"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

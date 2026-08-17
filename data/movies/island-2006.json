@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_island_2006",
+  "title": "The Island",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1113702",
+    "imdb": "tt0851577",
+    "tmdb": 22358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-27",
+  "runtime_minutes": 112
+}

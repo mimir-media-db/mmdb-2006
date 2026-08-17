@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_into_shit_2006",
+  "title": "Born Into Shit",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104894842",
+    "imdb": "tt0472727",
+    "tmdb": 149196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

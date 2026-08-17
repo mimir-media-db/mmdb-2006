@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sakais_happiness_2006",
+  "title": "The Sakais' Happiness",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11644073",
+    "imdb": "tt0906656",
+    "tmdb": 308878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moscow_mission_2006",
+  "title": "Moscow Mission",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4329844",
+    "imdb": "tt0814236",
+    "tmdb": 62721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-02",
+  "runtime_minutes": 110
+}

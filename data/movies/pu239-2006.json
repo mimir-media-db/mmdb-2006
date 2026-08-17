@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pu239_2006",
+  "title": "Pu-239",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7257203",
+    "imdb": "tt0472156",
+    "tmdb": 26431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forbidden_forest_2006",
+  "title": "The Forbidden Forest",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13027755",
+    "imdb": "tt0780116",
+    "tmdb": 173454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 99
+}

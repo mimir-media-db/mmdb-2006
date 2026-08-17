@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_road_bends_tales_of_a_gypsy_caravan_2006",
+  "title": "When the Road Bends: Tales of a Gypsy Caravan",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89108203",
+    "imdb": "tt0412796",
+    "tmdb": 32624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 210
+}

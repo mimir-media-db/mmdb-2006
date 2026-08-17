@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dikkenek_2006",
+  "title": "Dikkenek",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q800111",
+    "imdb": "tt0456123",
+    "tmdb": 8736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-21",
+  "runtime_minutes": 84
+}

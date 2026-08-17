@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pirates_2006",
+  "title": "Pirates",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1538902",
+    "imdb": "tt0477457",
+    "tmdb": 13860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-03",
+  "runtime_minutes": 129
+}

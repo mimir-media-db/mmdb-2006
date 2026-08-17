@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demonsamongus_2006",
+  "title": "Demonsamongus",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600264",
+    "imdb": "tt0869039",
+    "tmdb": 48447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}

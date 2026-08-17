@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blutrausch_gefangen_im_haus_des_grauens_2006",
+  "title": "Blutrausch - Gefangen im Haus des Grauens",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96779701",
+    "imdb": "tt12629140",
+    "tmdb": 308137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 80
+}

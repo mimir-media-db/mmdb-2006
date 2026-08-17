@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_bloodnight_2006",
+  "title": "Silent Bloodnight",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7514534",
+    "imdb": "tt0826628",
+    "tmdb": 225065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

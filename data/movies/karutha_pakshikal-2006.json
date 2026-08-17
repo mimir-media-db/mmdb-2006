@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karutha_pakshikal_2006",
+  "title": "Karutha Pakshikal",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q373842",
+    "imdb": "tt0867337",
+    "tmdb": 151486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-17"
+}

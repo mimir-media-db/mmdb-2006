@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cruel_attendance_2006",
+  "title": "A Cruel Attendance",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16168690",
+    "imdb": "tt0956159",
+    "tmdb": 26134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-02",
+  "runtime_minutes": 108
+}

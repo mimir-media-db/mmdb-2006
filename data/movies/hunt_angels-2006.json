@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hunt_angels_2006",
+  "title": "Hunt Angels",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124935",
+    "imdb": "tt0775486",
+    "tmdb": 197374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

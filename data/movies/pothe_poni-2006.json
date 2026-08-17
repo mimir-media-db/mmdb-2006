@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_pothe_poni_2006",
+  "title": "Pothe Poni",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138894775"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

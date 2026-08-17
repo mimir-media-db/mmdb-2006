@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_soferet_2006",
+  "title": "Soferet",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7553578",
+    "imdb": "tt1527739"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

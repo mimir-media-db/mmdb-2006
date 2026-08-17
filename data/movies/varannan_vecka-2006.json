@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_varannan_vecka_2006",
+  "title": "Varannan vecka",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7915454",
+    "imdb": "tt0483195",
+    "tmdb": 25584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

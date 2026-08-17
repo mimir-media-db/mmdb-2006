@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yes_your_honour_2006",
+  "title": "Yes Your Honour",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8052779",
+    "imdb": "tt0972921",
+    "tmdb": 276108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

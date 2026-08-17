@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_national_lampoons_pucked_2006",
+  "title": "National Lampoon's Pucked",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6973977",
+    "imdb": "tt0407038",
+    "tmdb": 36964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-10",
+  "runtime_minutes": 83
+}

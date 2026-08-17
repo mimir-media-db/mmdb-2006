@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_running_riot_2006",
+  "title": "Running Riot",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7379984",
+    "imdb": "tt1024776",
+    "tmdb": 93616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

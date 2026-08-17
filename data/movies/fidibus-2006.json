@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fidibus_2006",
+  "title": "Fidibus",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5446806",
+    "imdb": "tt0481995",
+    "tmdb": 15928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-13",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_things_behind_the_sun_2006",
+  "title": "Things Behind the Sun",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12406431",
+    "imdb": "tt0833545",
+    "tmdb": 477828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 111
+}

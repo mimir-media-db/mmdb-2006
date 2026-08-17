@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walker_payne_2006",
+  "title": "Walker Payne",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7962302",
+    "imdb": "tt0457523",
+    "tmdb": 22391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 117
+}

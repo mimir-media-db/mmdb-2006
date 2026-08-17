@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_wacky_2006",
+  "title": "Mr. Wacky",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16168579",
+    "imdb": "tt0821517",
+    "tmdb": 63245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-25"
+}

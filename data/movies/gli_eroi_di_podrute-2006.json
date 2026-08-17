@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gli_eroi_di_podrute_2006",
+  "title": "Gli eroi di Podrute",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109407388",
+    "imdb": "tt8815646",
+    "tmdb": 1204786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 80
+}

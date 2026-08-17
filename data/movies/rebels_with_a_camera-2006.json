@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rebels_with_a_camera_2006",
+  "title": "Rebels with a Camera",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q955482",
+    "imdb": "tt0805325",
+    "tmdb": 610415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-18"
+}

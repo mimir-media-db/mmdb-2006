@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pakt_des_schweigens_2006",
+  "title": "Pakt des Schweigens",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718338",
+    "imdb": "tt0368118"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

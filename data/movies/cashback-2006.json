@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cashback_2006",
+  "title": "Cashback",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q919135",
+    "imdb": "tt0460740",
+    "tmdb": 12225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-10",
+  "runtime_minutes": 102
+}

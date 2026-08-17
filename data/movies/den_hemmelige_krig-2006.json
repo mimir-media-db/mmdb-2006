@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_den_hemmelige_krig_2006",
+  "title": "Den hemmelige krig",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12308173",
+    "imdb": "tt1038968",
+    "tmdb": 336218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 58
+}

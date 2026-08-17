@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fly_high_2006",
+  "title": "Fly High",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18605204",
+    "imdb": "tt0875008",
+    "tmdb": 53238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-17"
+}

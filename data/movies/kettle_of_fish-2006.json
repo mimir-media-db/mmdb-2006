@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kettle_of_fish_2006",
+  "title": "Kettle of Fish",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15044914",
+    "imdb": "tt0473500",
+    "tmdb": 44974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-27",
+  "runtime_minutes": 97
+}

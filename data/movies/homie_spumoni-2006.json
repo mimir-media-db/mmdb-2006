@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_homie_spumoni_2006",
+  "title": "Homie Spumoni",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20575551",
+    "imdb": "tt0464051",
+    "tmdb": 45973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

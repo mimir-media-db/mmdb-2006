@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krotka_histeria_czasu_2006",
+  "title": "Krótka histeria czasu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11750226",
+    "imdb": "tt0814176",
+    "tmdb": 418748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-26",
+  "runtime_minutes": 91
+}

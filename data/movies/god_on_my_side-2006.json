@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_god_on_my_side_2006",
+  "title": "God on My Side",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124567",
+    "imdb": "tt0891308",
+    "tmdb": 264732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

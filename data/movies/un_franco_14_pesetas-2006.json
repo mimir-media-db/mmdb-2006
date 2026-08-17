@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_franco_14_pesetas_2006",
+  "title": "Un franco, 14 pesetas",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11704875",
+    "imdb": "tt0479230",
+    "tmdb": 34594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-05",
+  "runtime_minutes": 105
+}

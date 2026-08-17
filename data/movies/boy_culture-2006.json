@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_culture_2006",
+  "title": "Boy Culture",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2553458",
+    "imdb": "tt0433350",
+    "tmdb": 15728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-01",
+  "runtime_minutes": 88
+}

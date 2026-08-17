@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_bares_2006",
+  "title": "De bares",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12386978",
+    "imdb": "tt0476195",
+    "tmdb": 330977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 91
+}

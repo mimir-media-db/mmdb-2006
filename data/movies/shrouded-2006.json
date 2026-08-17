@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shrouded_2006",
+  "title": "Shrouded",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12505890",
+    "imdb": "tt1185438",
+    "tmdb": 450803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

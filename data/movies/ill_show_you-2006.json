@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ill_show_you_2006",
+  "title": "I'll Show You!",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15636112",
+    "imdb": "tt0471211",
+    "tmdb": 257545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-10",
+  "runtime_minutes": 113
+}

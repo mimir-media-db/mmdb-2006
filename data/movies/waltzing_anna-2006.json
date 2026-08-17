@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waltzing_anna_2006",
+  "title": "Waltzing Anna",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122204697",
+    "imdb": "tt0431461",
+    "tmdb": 55740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-11"
+}

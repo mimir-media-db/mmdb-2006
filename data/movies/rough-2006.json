@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rough_2006",
+  "title": "Rough",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3941850",
+    "imdb": "tt0819800",
+    "tmdb": 21549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-26"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sonhos_de_peixe_2006",
+  "title": "Sonhos de Peixe",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3283824",
+    "imdb": "tt0423232",
+    "tmdb": 122447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-21",
+  "runtime_minutes": 115
+}

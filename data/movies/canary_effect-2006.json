@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_canary_effect_2006",
+  "title": "The Canary Effect",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7721159",
+    "imdb": "tt0798826",
+    "tmdb": 320410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

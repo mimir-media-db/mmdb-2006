@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reality_love_and_rockn_roll_2006",
+  "title": "Reality, Love, and Rock'N Roll",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12508277",
+    "imdb": "tt0959505",
+    "tmdb": 405521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-02",
+  "runtime_minutes": 114
+}

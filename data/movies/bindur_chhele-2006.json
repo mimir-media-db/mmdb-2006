@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bindur_chhele_2006",
+  "title": "Bindur Chhele",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118114943",
+    "imdb": "tt8752572",
+    "tmdb": 1082522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-24"
+}

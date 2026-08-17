@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_detective_mr_gong_2006",
+  "title": "Detective Mr. Gong",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16159667",
+    "imdb": "tt0821475",
+    "tmdb": 58546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-11"
+}

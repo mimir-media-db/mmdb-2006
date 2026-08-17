@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_earth_from_above_2006",
+  "title": "Earth from Above",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q575134",
+    "imdb": "tt0423363",
+    "tmdb": 478470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-14",
+  "runtime_minutes": 57
+}

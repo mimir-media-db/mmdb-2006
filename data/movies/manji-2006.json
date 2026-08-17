@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manji_2006",
+  "title": "Manji",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15271008",
+    "imdb": "tt0781422",
+    "tmdb": 300604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rag_tag_2006",
+  "title": "Rag Tag",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7282781",
+    "imdb": "tt0821557",
+    "tmdb": 114142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 98
+}

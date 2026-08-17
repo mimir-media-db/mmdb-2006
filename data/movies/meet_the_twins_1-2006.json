@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_the_twins_1_2006",
+  "title": "Meet the Twins 1",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140363717",
+    "imdb": "tt0846036"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

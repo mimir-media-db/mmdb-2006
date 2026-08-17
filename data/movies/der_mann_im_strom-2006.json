@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_mann_im_strom_2006",
+  "title": "Der Mann im Strom",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130614782",
+    "imdb": "tt0768129",
+    "tmdb": 295986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_men_at_arms_2006",
+  "title": "Men at Arms",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3738515",
+    "imdb": "tt0445554",
+    "tmdb": 69219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-03",
+  "runtime_minutes": 109
+}

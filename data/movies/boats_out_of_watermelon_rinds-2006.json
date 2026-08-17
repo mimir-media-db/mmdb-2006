@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boats_out_of_watermelon_rinds_2006",
+  "title": "Boats Out of Watermelon Rinds",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7237728",
+    "imdb": "tt0325675",
+    "tmdb": 103785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-29",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_classmates_2006",
+  "title": "Classmates",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5128454",
+    "imdb": "tt0867145",
+    "tmdb": 234838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-25"
+}

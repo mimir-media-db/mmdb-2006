@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_balram_vs_tharadas_2006",
+  "title": "Balram vs. Tharadas",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13564536",
+    "imdb": "tt0485861",
+    "tmdb": 278135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

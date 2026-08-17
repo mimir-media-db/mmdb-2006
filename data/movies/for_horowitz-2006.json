@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_horowitz_2006",
+  "title": "For Horowitz",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16178189",
+    "imdb": "tt0821463",
+    "tmdb": 168208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-25",
+  "runtime_minutes": 108
+}

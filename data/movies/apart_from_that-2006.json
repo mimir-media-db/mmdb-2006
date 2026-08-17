@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apart_from_that_2006",
+  "title": "Apart from That",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125182321",
+    "imdb": "tt0772154",
+    "tmdb": 142795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-12",
+  "runtime_minutes": 120
+}

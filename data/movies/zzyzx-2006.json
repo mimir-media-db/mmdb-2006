@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zzyzx_2006",
+  "title": "Zzyzx",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12136297",
+    "imdb": "tt0420346",
+    "tmdb": 76709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_deadly_demons_2006",
+  "title": "Seven Deadly Demons",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511282",
+    "imdb": "tt0808261",
+    "tmdb": 303005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 82
+}

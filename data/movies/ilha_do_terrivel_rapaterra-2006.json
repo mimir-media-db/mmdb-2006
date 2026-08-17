@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ilha_do_terrivel_rapaterra_2006",
+  "title": "A Ilha do Terrível Rapaterra",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23709818",
+    "imdb": "tt0895774",
+    "tmdb": 90636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

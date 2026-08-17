@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_kids_2006",
+  "title": "Just Kids",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13020444",
+    "imdb": "tt0975688",
+    "tmdb": 249241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 100
+}

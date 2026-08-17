@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meat_weed_madness_2006",
+  "title": "Meat Weed Madness",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16951136",
+    "imdb": "tt0803035",
+    "tmdb": 25185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

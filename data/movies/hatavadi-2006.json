@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hatavadi_2006",
+  "title": "Hatavadi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18348681",
+    "imdb": "tt14338500",
+    "tmdb": 1508930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

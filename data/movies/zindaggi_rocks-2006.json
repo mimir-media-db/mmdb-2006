@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zindaggi_rocks_2006",
+  "title": "Zindaggi Rocks",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8072330",
+    "imdb": "tt0823261",
+    "tmdb": 83898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

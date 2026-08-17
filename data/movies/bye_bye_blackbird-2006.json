@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bye_bye_blackbird_2006",
+  "title": "Bye Bye Blackbird",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1018486",
+    "imdb": "tt0395488",
+    "tmdb": 60111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-30",
+  "runtime_minutes": 99
+}

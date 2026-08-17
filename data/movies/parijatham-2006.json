@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parijatham_2006",
+  "title": "Parijatham",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12985995",
+    "imdb": "tt1365496",
+    "tmdb": 339978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

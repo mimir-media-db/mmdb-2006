@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_potseluy_babochki_2006",
+  "title": "Potseluy babochki",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4375173",
+    "imdb": "tt0477327",
+    "tmdb": 65679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-08",
+  "runtime_minutes": 105
+}

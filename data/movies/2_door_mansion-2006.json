@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2_door_mansion_2006",
+  "title": "2 Door Mansion",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599790",
+    "imdb": "tt0367760",
+    "tmdb": 410297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_bad_swim_2006",
+  "title": "The Big Bad Swim",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7717489",
+    "imdb": "tt0460721",
+    "tmdb": 23817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

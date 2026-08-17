@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pretty_maid_cafe_2006",
+  "title": "Pretty Maid Café",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720632",
+    "imdb": "tt5993100",
+    "tmdb": 123892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arthur_and_the_minimoys_2006",
+  "title": "Arthur and the Minimoys",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q550232",
+    "imdb": "tt0344854",
+    "tmdb": 9992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-29",
+  "runtime_minutes": 100
+}

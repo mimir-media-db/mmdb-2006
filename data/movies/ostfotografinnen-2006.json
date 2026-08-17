@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ostfotografinnen_2006",
+  "title": "Ostfotografinnen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99172969",
+    "imdb": "tt1095102",
+    "tmdb": 974474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

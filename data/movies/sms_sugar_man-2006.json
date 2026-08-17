@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sms_sugar_man_2006",
+  "title": "SMS Sugar Man",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10366557",
+    "imdb": "tt1663670",
+    "tmdb": 238729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 81
+}

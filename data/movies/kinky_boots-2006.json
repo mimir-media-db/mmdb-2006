@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kinky_boots_2006",
+  "title": "Kinky Boots",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2667715",
+    "imdb": "tt0434124",
+    "tmdb": 16367
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-14",
+  "runtime_minutes": 107
+}

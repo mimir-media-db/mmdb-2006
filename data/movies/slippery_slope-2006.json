@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slippery_slope_2006",
+  "title": "Slippery Slope",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7540913",
+    "imdb": "tt0443644",
+    "tmdb": 31999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

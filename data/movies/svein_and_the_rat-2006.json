@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_svein_and_the_rat_2006",
+  "title": "Svein and the Rat",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7651880",
+    "imdb": "tt0881956",
+    "tmdb": 112223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-03",
+  "runtime_minutes": 72
+}

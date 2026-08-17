@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baba_kalyani_2006",
+  "title": "Baba Kalyani",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4837324",
+    "imdb": "tt0896909",
+    "tmdb": 228749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-15"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_for_sale_by_owner_2006",
+  "title": "For Sale by Owner",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20091273",
+    "imdb": "tt0762096",
+    "tmdb": 45655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

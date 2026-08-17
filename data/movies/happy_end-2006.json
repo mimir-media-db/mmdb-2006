@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_end_2006",
+  "title": "Happy End",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12729867",
+    "imdb": "tt2007956",
+    "tmdb": 638326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

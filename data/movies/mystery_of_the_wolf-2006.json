@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mystery_of_the_wolf_2006",
+  "title": "Mystery of the Wolf",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6948913",
+    "imdb": "tt0801011",
+    "tmdb": 54708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-15",
+  "runtime_minutes": 96
+}

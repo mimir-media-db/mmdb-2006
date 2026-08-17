@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_prey_2006",
+  "title": "Cold Prey",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q947347",
+    "imdb": "tt0808276",
+    "tmdb": 21786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-13",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_return_of_pink_five_2006",
+  "title": "Return of Pink Five",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7317182",
+    "imdb": "tt0800178",
+    "tmdb": 1258053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

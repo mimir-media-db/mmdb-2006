@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_2006",
+  "title": "Beautiful",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9168230",
+    "imdb": "tt2117824"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-03"
+}

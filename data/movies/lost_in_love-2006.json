@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_love_2006",
+  "title": "Lost in Love",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12599662",
+    "imdb": "tt0492755",
+    "tmdb": 309054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-26",
+  "runtime_minutes": 115
+}

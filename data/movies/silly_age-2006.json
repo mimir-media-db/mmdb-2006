@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silly_age_2006",
+  "title": "The Silly Age",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7764259",
+    "imdb": "tt0470290",
+    "tmdb": 25960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

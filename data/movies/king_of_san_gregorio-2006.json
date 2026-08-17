@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_san_gregorio_2006",
+  "title": "The King of San Gregorio",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5823141",
+    "imdb": "tt0480457",
+    "tmdb": 269525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-26",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comrade_pedersen_2006",
+  "title": "Comrade Pedersen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1758358",
+    "imdb": "tt0417046",
+    "tmdb": 33114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-24",
+  "runtime_minutes": 123
+}

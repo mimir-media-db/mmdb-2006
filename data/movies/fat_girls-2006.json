@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fat_girls_2006",
+  "title": "Fat Girls",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83808986",
+    "imdb": "tt0439179",
+    "tmdb": 44305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

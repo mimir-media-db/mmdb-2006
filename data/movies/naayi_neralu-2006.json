@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naayi_neralu_2006",
+  "title": "Naayi Neralu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6956682",
+    "imdb": "tt0944961",
+    "tmdb": 265662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

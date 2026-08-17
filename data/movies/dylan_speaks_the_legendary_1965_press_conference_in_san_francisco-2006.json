@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dylan_speaks_the_legendary_1965_press_conference_in_san_francisco_2006",
+  "title": "Dylan Speaks. The Legendary 1965 Press Conference in San Francisco",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q54807487",
+    "imdb": "tt7408252",
+    "tmdb": 484597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 53
+}

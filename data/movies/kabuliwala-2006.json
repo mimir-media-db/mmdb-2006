@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kabuliwala_2006",
+  "title": "Kabuliwala",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31734750",
+    "imdb": "tt5499818",
+    "tmdb": 643687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

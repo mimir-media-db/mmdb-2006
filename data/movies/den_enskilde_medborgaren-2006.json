@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_den_enskilde_medborgaren_2006",
+  "title": "Den enskilde medborgaren",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10468605",
+    "imdb": "tt0756210",
+    "tmdb": 48996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 104
+}

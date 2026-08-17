@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_buy_the_ticket_take_the_ride_hunter_s_thompson_on_film_2006",
+  "title": "Buy the Ticket, Take the Ride: Hunter S. Thompson on Film",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17512998",
+    "imdb": "tt0775438",
+    "tmdb": 25740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

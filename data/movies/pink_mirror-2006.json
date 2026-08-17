@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pink_mirror_2006",
+  "title": "The Pink Mirror",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7757190",
+    "imdb": "tt0386499",
+    "tmdb": 431804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-14"
+}

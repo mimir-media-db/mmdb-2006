@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invincible_2006",
+  "title": "Invincible",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1070160",
+    "imdb": "tt0445990",
+    "tmdb": 11652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-25",
+  "runtime_minutes": 100
+}

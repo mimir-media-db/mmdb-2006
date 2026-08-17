@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olhar_estrangeiro_2006",
+  "title": "Olhar Estrangeiro",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10340574",
+    "imdb": "tt0792983",
+    "tmdb": 51185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-27",
+  "runtime_minutes": 70
+}

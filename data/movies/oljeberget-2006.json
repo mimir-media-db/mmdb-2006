@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oljeberget_2006",
+  "title": "Oljeberget",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18602767",
+    "imdb": "tt0758769",
+    "tmdb": 365522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-18",
+  "runtime_minutes": 111
+}

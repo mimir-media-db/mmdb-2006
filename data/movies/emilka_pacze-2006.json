@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emilka_pacze_2006",
+  "title": "Emilka płacze",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9253662",
+    "imdb": "tt1020532",
+    "tmdb": 261999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-11"
+}

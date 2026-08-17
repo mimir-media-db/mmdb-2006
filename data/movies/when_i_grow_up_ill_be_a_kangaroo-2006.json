@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_i_grow_up_ill_be_a_kangaroo_2006",
+  "title": "When I Grow Up, I'll Be a Kangaroo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12745666",
+    "imdb": "tt0383846",
+    "tmdb": 55135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-24",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peanuts_2006",
+  "title": "Peanuts",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7157948",
+    "imdb": "tt0472482",
+    "tmdb": 430337
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-28",
+  "runtime_minutes": 115
+}

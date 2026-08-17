@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_train_life_2006",
+  "title": "Train Life",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7832862",
+    "imdb": "tt0814359"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

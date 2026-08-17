@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wide_awake_2006",
+  "title": "Wide Awake",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30802447",
+    "imdb": "tt0492502",
+    "tmdb": 52086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-20"
+}

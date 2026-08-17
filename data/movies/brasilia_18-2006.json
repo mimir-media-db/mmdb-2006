@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brasilia_18_2006",
+  "title": "Brasília 18%",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15901080",
+    "imdb": "tt0485366",
+    "tmdb": 249538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 102
+}

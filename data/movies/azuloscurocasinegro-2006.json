@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_azuloscurocasinegro_2006",
+  "title": "Azuloscurocasinegro",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q310427",
+    "imdb": "tt0452971",
+    "tmdb": 3865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-31",
+  "runtime_minutes": 100
+}

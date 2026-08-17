@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_citadel_2006",
+  "title": "Citadel",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63107586",
+    "imdb": "tt0831846",
+    "tmdb": 355414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 93
+}

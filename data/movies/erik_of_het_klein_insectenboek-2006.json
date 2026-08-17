@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_erik_of_het_klein_insectenboek_2006",
+  "title": "Erik of het klein insectenboek",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4844995",
+    "imdb": "tt0391965",
+    "tmdb": 26804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-12",
+  "runtime_minutes": 97
+}

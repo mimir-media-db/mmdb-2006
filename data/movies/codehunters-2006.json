@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_codehunters_2006",
+  "title": "Codehunters",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21161299",
+    "imdb": "tt1596726",
+    "tmdb": 104631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 9
+}

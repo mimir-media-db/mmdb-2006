@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blame_it_on_fidel_2006",
+  "title": "Blame It on Fidel",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q730765",
+    "imdb": "tt0792966",
+    "tmdb": 17460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-10",
+  "runtime_minutes": 99
+}

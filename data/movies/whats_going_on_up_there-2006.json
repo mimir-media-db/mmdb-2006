@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_going_on_up_there_2006",
+  "title": "What's Going On up There?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7990762",
+    "imdb": "tt1042921"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

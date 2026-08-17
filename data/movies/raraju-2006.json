@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raraju_2006",
+  "title": "Raraju",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13008157",
+    "imdb": "tt0904130",
+    "tmdb": 281616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

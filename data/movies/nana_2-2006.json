@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nana_2_2006",
+  "title": "Nana 2",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1151515",
+    "imdb": "tt0882791",
+    "tmdb": 35752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-09",
+  "runtime_minutes": 113
+}

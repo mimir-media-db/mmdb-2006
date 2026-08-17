@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_tree_upside_down_2006",
+  "title": "Christmas Tree Upside Down",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12289121",
+    "imdb": "tt0860474",
+    "tmdb": 258340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-15",
+  "runtime_minutes": 124
+}

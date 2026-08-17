@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suntaragaali_2006",
+  "title": "Suntaragaali",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16951793",
+    "imdb": "tt14338584",
+    "tmdb": 1500219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

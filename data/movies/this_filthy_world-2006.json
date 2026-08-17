@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_filthy_world_2006",
+  "title": "This Filthy World",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7785707",
+    "imdb": "tt0844761",
+    "tmdb": 47658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-14"
+}

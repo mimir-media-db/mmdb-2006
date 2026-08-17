@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atl_2006",
+  "title": "ATL",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2819546",
+    "imdb": "tt0466856",
+    "tmdb": 13960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-31",
+  "runtime_minutes": 105
+}

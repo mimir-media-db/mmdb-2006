@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_far_til_fire_i_stor_stil_2006",
+  "title": "Far til Fire - I Stor Stil",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12311074",
+    "imdb": "tt0902283",
+    "tmdb": 53904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-25",
+  "runtime_minutes": 90
+}

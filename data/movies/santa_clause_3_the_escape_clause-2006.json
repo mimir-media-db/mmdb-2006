@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_clause_3_the_escape_clause_2006",
+  "title": "The Santa Clause 3: The Escape Clause",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1325828",
+    "imdb": "tt0452681",
+    "tmdb": 13767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-02",
+  "runtime_minutes": 98
+}

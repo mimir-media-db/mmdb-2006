@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extras_2006",
+  "title": "The Extras",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9344647",
+    "imdb": "tt0896977",
+    "tmdb": 386277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-14",
+  "runtime_minutes": 118
+}

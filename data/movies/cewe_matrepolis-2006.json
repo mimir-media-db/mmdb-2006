@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cewe_matrepolis_2006",
+  "title": "Cewe Matrepolis",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19724715",
+    "tmdb": 787545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

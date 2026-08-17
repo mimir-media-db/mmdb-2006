@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yanda_kartavya_aahe_2006",
+  "title": "Yanda Kartavya Aahe",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8048315",
+    "imdb": "tt0845554",
+    "tmdb": 543963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

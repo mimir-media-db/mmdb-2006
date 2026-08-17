@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ozzie_2006",
+  "title": "Ozzie",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16580505",
+    "imdb": "tt0280000",
+    "tmdb": 159201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

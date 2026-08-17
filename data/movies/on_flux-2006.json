@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_flux_2006",
+  "title": "Æon Flux",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2919862",
+    "imdb": "tt0402022",
+    "tmdb": 8202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-16",
+  "runtime_minutes": 89
+}

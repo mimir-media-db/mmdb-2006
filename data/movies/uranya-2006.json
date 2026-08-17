@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uranya_2006",
+  "title": "Uranya",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97188714",
+    "imdb": "tt0863041",
+    "tmdb": 47017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 100
+}

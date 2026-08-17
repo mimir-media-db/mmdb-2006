@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_scary_girl_2006",
+  "title": "My Scary Girl",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6946339",
+    "imdb": "tt0788052",
+    "tmdb": 25938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-06",
+  "runtime_minutes": 110
+}

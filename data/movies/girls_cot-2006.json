@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_cot_2006",
+  "title": "Girls Cot",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113358134",
+    "imdb": "tt1074529",
+    "tmdb": 1125171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

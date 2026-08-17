@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tunche_2006",
+  "title": "The Tunche",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123278452",
+    "imdb": "tt1085762",
+    "tmdb": 606423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

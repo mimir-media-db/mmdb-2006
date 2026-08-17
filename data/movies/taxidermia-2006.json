@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_taxidermia_2006",
+  "title": "Taxidermia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1087225",
+    "imdb": "tt0410730",
+    "tmdb": 15742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-03",
+  "runtime_minutes": 91
+}

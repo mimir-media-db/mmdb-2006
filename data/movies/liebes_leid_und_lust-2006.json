@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_liebes_leid_und_lust_2006",
+  "title": "Liebes Leid und Lust",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125182639",
+    "imdb": "tt0788116",
+    "tmdb": 379256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-24"
+}

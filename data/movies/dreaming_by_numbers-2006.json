@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreaming_by_numbers_2006",
+  "title": "Dreaming by Numbers",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80348124",
+    "imdb": "tt0892752",
+    "tmdb": 292853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

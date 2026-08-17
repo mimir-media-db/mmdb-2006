@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_volver_2006",
+  "title": "Volver",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q209667",
+    "imdb": "tt0441909",
+    "tmdb": 219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-10",
+  "runtime_minutes": 121
+}

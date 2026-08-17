@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shibuya_kaidan_the_riaru_toshi_densetsu_2006",
+  "title": "Shibuya Kaidan: The Riaru Toshi Densetsu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11561727",
+    "imdb": "tt0780994",
+    "tmdb": 1017667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-21"
+}

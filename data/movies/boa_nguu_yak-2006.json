@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boa_nguu_yak_2006",
+  "title": "Boa... Nguu yak!",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13026774",
+    "imdb": "tt0811599",
+    "tmdb": 172037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-27"
+}

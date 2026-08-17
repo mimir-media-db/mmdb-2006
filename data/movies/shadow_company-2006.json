@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_company_2006",
+  "title": "Shadow Company",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7460484",
+    "imdb": "tt0762133",
+    "tmdb": 18151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

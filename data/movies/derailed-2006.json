@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_derailed_2006",
+  "title": "Derailed",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q743258",
+    "imdb": "tt0398017",
+    "tmdb": 8999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-23",
+  "runtime_minutes": 107
+}

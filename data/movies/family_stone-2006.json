@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_stone_2006",
+  "title": "The Family Stone",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1064838",
+    "imdb": "tt0356680",
+    "tmdb": 9043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-08",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_ape_2006",
+  "title": "The Naked Ape",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113234061",
+    "imdb": "tt0381053",
+    "tmdb": 84659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

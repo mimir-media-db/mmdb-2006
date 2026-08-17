@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_what_it_takes_2006",
+  "title": "What It Takes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7991275",
+    "imdb": "tt0905644"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

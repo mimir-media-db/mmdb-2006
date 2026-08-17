@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quien_mato_a_la_llamita_blanca_2006",
+  "title": "¿Quién mató a la llamita blanca?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8076445",
+    "imdb": "tt0945505",
+    "tmdb": 107589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 112
+}

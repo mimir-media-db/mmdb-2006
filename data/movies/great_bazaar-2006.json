@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_bazaar_2006",
+  "title": "The Great Bazaar",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7737660",
+    "imdb": "tt1390945",
+    "tmdb": 270758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 56
+}

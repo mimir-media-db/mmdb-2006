@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_notes_on_marie_menken_2006",
+  "title": "Notes on Marie Menken",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55181535",
+    "imdb": "tt0927629",
+    "tmdb": 213825
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-27"
+}

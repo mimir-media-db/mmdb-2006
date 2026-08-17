@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_water_2006",
+  "title": "Death Water",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11549523",
+    "imdb": "tt0777946",
+    "tmdb": 249187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cuba_el_valor_de_una_utopia_2006",
+  "title": "Cuba, el valor de una utopía",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113565054",
+    "imdb": "tt1098200",
+    "tmdb": 686780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-27",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_camino_de_san_diego_2006",
+  "title": "El Camino de San Diego",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q526262",
+    "imdb": "tt0865438",
+    "tmdb": 64209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-14",
+  "runtime_minutes": 98
+}

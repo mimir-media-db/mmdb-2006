@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_north_country_2006",
+  "title": "North Country",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q725423",
+    "imdb": "tt0395972",
+    "tmdb": 9701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-09",
+  "runtime_minutes": 126
+}

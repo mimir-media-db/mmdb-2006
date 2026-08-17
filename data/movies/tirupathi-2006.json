@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_tirupathi_2006",
+  "title": "Tirupathi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91402658"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-30"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greatest_game_ever_played_2006",
+  "title": "The Greatest Game Ever Played",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1171320",
+    "imdb": "tt0388980",
+    "tmdb": 15487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-08",
+  "runtime_minutes": 120
+}

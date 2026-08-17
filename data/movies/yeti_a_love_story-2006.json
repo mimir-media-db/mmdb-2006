@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yeti_a_love_story_2006",
+  "title": "Yeti: A Love Story",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040653",
+    "imdb": "tt0765488",
+    "tmdb": 181587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-14",
+  "runtime_minutes": 70
+}

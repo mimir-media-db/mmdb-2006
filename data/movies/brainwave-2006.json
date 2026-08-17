@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brainwave_2006",
+  "title": "Brainwave",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19349472",
+    "imdb": "tt1489146",
+    "tmdb": 267225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-21"
+}

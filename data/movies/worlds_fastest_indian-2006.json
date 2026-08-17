@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_worlds_fastest_indian_2006",
+  "title": "The World's Fastest Indian",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128924",
+    "imdb": "tt0412080",
+    "tmdb": 9912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-26",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_onni_von_sopanen_2006",
+  "title": "Onni von Sopanen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17382910",
+    "imdb": "tt0819792",
+    "tmdb": 373482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

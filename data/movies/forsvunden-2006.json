@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forsvunden_2006",
+  "title": "Forsvunden",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728706",
+    "imdb": "tt0864966",
+    "tmdb": 485688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 27
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barbiers_une_histoire_dhommes_2006",
+  "title": "Barbiers, une histoire d'hommes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60946044",
+    "imdb": "tt1646197",
+    "tmdb": 436680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

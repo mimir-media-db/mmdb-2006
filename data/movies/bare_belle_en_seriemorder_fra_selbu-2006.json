@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bare_belle_en_seriemorder_fra_selbu_2006",
+  "title": "Bare Belle - En seriemorder fra Selbu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16171496",
+    "imdb": "tt1537197",
+    "tmdb": 166088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 53
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bitchs_diary_2006",
+  "title": "The Bitch's Diary",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2900006",
+    "imdb": "tt0845965",
+    "tmdb": 140720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-19",
+  "runtime_minutes": 100
+}

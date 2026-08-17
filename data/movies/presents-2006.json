@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_presents_2006",
+  "title": "Presents",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16305856",
+    "imdb": "tt0923854",
+    "tmdb": 45343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mayak_2006",
+  "title": "Mayak",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4286351",
+    "imdb": "tt1020889",
+    "tmdb": 118565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-01",
+  "runtime_minutes": 78
+}

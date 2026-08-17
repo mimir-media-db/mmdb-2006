@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_katkoot_2006",
+  "title": "Katkoot",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12234549",
+    "imdb": "tt1014079",
+    "tmdb": 376487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-02",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_old_miss_diary_2006",
+  "title": "Old Miss Diary",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12608276",
+    "imdb": "tt0978356",
+    "tmdb": 373557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-20"
+}

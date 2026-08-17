@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ayna_2006",
+  "title": "Ayna",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131108318",
+    "imdb": "tt5531702",
+    "tmdb": 820473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-26",
+  "runtime_minutes": 140
+}

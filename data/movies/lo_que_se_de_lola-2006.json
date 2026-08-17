@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_que_se_de_lola_2006",
+  "title": "Lo que sé de Lola",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91124759",
+    "imdb": "tt0477331",
+    "tmdb": 188858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-29",
+  "runtime_minutes": 112
+}

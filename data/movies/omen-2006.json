@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_omen_2006",
+  "title": "The Omen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q518863",
+    "imdb": "tt0466909",
+    "tmdb": 806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-06",
+  "runtime_minutes": 110
+}

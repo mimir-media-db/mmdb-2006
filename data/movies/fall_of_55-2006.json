@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fall_of_55_2006",
+  "title": "The Fall of '55",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7733192",
+    "imdb": "tt0823174",
+    "tmdb": 263507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

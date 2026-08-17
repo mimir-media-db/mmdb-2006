@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guatemalan_handshake_2006",
+  "title": "The Guatemalan Handshake",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7738443",
+    "imdb": "tt0422366",
+    "tmdb": 47510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 98
+}

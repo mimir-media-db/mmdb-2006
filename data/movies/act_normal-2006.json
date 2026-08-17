@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_act_normal_2006",
+  "title": "Act Normal",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052369",
+    "imdb": "tt0799914",
+    "tmdb": 1093827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-01",
+  "runtime_minutes": 82
+}

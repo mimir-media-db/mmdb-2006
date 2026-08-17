@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tough_enough_2006",
+  "title": "Tough Enough",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q467876",
+    "imdb": "tt0475317",
+    "tmdb": 434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-12",
+  "runtime_minutes": 99
+}

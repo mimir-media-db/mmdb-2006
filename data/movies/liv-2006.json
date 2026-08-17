@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liv_2006",
+  "title": "Liv",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33547937",
+    "imdb": "tt0813536",
+    "tmdb": 372462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 58
+}

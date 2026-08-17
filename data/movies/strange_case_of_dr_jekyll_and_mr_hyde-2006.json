@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strange_case_of_dr_jekyll_and_mr_hyde_2006",
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7766893",
+    "imdb": "tt0472186",
+    "tmdb": 28518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 89
+}

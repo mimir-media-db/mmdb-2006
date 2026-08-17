@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_stand_2006",
+  "title": "The Last Stand",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12129050",
+    "imdb": "tt0486611",
+    "tmdb": 30674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surf_school_2006",
+  "title": "Surf School",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19720104",
+    "imdb": "tt0456014",
+    "tmdb": 32753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

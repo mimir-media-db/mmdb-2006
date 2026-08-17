@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_world_of_silence_2006",
+  "title": "The World of Silence",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6145510",
+    "imdb": "tt1210814",
+    "tmdb": 134768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-14"
+}

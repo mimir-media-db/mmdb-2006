@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lake_house_2006",
+  "title": "The Lake House",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q487138",
+    "imdb": "tt0410297",
+    "tmdb": 2044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-16",
+  "runtime_minutes": 95
+}

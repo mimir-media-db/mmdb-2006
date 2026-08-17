@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_encontro_com_milton_santos_2006",
+  "title": "Encontro com Milton Santos",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10272747",
+    "imdb": "tt0835426",
+    "tmdb": 387586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 89
+}

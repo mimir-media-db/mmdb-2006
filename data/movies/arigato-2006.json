@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arigato_2006",
+  "title": "Arigatō",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11258624",
+    "imdb": "tt0886534",
+    "tmdb": 308910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-25"
+}

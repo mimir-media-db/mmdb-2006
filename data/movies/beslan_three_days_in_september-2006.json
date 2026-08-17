@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beslan_three_days_in_september_2006",
+  "title": "Beslan: Three Days in September",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114275097",
+    "imdb": "tt0800238",
+    "tmdb": 360380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casanova_2006",
+  "title": "Casanova",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q942958",
+    "imdb": "tt0402894",
+    "tmdb": 9681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-09",
+  "runtime_minutes": 108
+}

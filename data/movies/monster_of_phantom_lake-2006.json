@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_of_phantom_lake_2006",
+  "title": "The Monster of Phantom Lake",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7752091",
+    "imdb": "tt0801344",
+    "tmdb": 87716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

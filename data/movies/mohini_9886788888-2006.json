@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mohini_9886788888_2006",
+  "title": "Mohini 9886788888",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16953057",
+    "imdb": "tt4193956",
+    "tmdb": 1503626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

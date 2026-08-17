@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breakthrough_2006",
+  "title": "Breakthrough",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4380934",
+    "imdb": "tt6109182",
+    "tmdb": 222180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-04",
+  "runtime_minutes": 84
+}

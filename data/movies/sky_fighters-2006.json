@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_fighters_2006",
+  "title": "Sky Fighters",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1082924",
+    "imdb": "tt0421974",
+    "tmdb": 10798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-23",
+  "runtime_minutes": 102
+}

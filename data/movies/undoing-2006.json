@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_undoing_2006",
+  "title": "Undoing",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7884023",
+    "imdb": "tt0452701",
+    "tmdb": 58727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

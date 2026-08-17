@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_14_bis_2006",
+  "title": "14 Bis",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9546556",
+    "imdb": "tt0902244",
+    "tmdb": 451181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 23
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_live_at_montreux_1986_2006",
+  "title": "Live at Montreux 1986",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19294930",
+    "tmdb": 51117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 114
+}

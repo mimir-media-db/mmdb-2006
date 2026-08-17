@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_choose_your_own_adventure_the_abominable_snowman_2006",
+  "title": "Choose Your Own Adventure: The Abominable Snowman",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5104772",
+    "imdb": "tt0460746",
+    "tmdb": 67519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-25"
+}

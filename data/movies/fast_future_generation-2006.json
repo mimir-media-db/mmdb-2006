@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fast_future_generation_2006",
+  "title": "Fast Future Generation",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q610939",
+    "imdb": "tt1127864",
+    "tmdb": 965752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sticky_carpet_2006",
+  "title": "Sticky Carpet",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7616311",
+    "imdb": "tt2250218",
+    "tmdb": 258704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

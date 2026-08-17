@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_the_victim_2006",
+  "title": "Playing the Victim",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1654430",
+    "imdb": "tt0820096",
+    "tmdb": 64484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-08",
+  "runtime_minutes": 95
+}

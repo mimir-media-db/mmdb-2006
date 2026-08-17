@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guadalupe_2006",
+  "title": "Guadalupe",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15303652",
+    "imdb": "tt0887259",
+    "tmdb": 348118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_letter_so_renka_2006",
+  "title": "Love Letter So Renka",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11347357",
+    "imdb": "tt0906611",
+    "tmdb": 456450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

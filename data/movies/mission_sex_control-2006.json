@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_sex_control_2006",
+  "title": "Mission Sex Control",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99510535",
+    "imdb": "tt0891511",
+    "tmdb": 52431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_rich_or_die_tryin_2006",
+  "title": "Get Rich or Die Tryin'",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q641723",
+    "imdb": "tt0430308",
+    "tmdb": 10060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-12",
+  "runtime_minutes": 116
+}

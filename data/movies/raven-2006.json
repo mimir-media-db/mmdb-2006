@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raven_2006",
+  "title": "The Raven",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7759499",
+    "imdb": "tt0861730",
+    "tmdb": 73554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

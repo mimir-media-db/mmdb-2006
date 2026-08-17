@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_and_the_snow_2006",
+  "title": "The Tiger and the Snow",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19358",
+    "imdb": "tt0419198",
+    "tmdb": 10846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-30",
+  "runtime_minutes": 114
+}

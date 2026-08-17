@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mother_is_a_belly_dancer_2006",
+  "title": "My Mother Is a Belly Dancer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11060184",
+    "imdb": "tt0819794",
+    "tmdb": 432532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

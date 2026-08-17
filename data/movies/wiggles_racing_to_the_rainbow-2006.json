@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wiggles_racing_to_the_rainbow_2006",
+  "title": "The Wiggles: Racing to the Rainbow",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130302986",
+    "imdb": "tt7818694",
+    "tmdb": 25455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

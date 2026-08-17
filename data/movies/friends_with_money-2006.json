@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friends_with_money_2006",
+  "title": "Friends with Money",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q194142",
+    "imdb": "tt0436331",
+    "tmdb": 8998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-19",
+  "runtime_minutes": 88
+}

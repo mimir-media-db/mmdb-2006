@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_schnitte_in_raum_und_zeit_2006",
+  "title": "Schnitte in Raum und Zeit",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105268467",
+    "imdb": "tt0823614",
+    "tmdb": 520705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

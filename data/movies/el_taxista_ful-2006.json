@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_taxista_ful_2006",
+  "title": "El taxista ful",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56403024",
+    "imdb": "tt0479175",
+    "tmdb": 334706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-16",
+  "runtime_minutes": 90
+}

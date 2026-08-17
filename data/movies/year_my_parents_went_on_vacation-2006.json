@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_year_my_parents_went_on_vacation_2006",
+  "title": "The Year My Parents Went on Vacation",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1169080",
+    "imdb": "tt0857355",
+    "tmdb": 14421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-26",
+  "runtime_minutes": 104
+}

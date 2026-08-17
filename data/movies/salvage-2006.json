@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salvage_2006",
+  "title": "Salvage",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12127285",
+    "imdb": "tt0492754",
+    "tmdb": 38065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-19",
+  "runtime_minutes": 77
+}

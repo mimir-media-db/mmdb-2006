@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_umi_de_no_hanashi_2006",
+  "title": "Umi de no hanashi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11558593",
+    "imdb": "tt1454633",
+    "tmdb": 461919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

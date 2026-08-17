@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_driving_lessons_2006",
+  "title": "Driving Lessons",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1259440",
+    "imdb": "tt0446687",
+    "tmdb": 11404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-08",
+  "runtime_minutes": 98
+}

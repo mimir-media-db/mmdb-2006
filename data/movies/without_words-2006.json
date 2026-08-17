@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_without_words_2006",
+  "title": "Without Words",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8028252",
+    "imdb": "tt0777829",
+    "tmdb": 121911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

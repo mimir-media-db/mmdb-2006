@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_states_evidence_2006",
+  "title": "State's Evidence",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7602981",
+    "imdb": "tt0378804",
+    "tmdb": 19854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

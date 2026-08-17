@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_treasure_of_the_knights_templar_2006",
+  "title": "The Lost Treasure of the Knights Templar",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q195959",
+    "imdb": "tt0488059",
+    "tmdb": 16043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-03",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cind_se_stinge_lumina_2006",
+  "title": "Cind se stinge lumina",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29581018",
+    "imdb": "tt1118565",
+    "tmdb": 344501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piano_tuner_of_earthquakes_2006",
+  "title": "The Piano Tuner of Earthquakes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q477447",
+    "imdb": "tt0342882",
+    "tmdb": 44502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-17",
+  "runtime_minutes": 99
+}

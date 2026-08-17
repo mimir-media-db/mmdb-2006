@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gib_mich_die_kirsche_die_1_deutsche_fuballrolle_2006",
+  "title": "Gib mich die Kirsche! - Die 1. deutsche Fußballrolle",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17265600",
+    "imdb": "tt0809118",
+    "tmdb": 356657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-01",
+  "runtime_minutes": 82
+}

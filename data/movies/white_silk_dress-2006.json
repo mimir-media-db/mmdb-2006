@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_white_silk_dress_2006",
+  "title": "The White Silk Dress",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7774579",
+    "imdb": "tt1083983",
+    "tmdb": 68401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 142
+}

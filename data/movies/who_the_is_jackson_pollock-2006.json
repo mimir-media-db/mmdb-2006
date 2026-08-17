@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_who_the_is_jackson_pollock_2006",
+  "title": "Who the #$&% Is Jackson Pollock?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7997470",
+    "imdb": "tt0487092",
+    "tmdb": 45664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}
