@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_qiaos_grand_courtyard",
+  "title": "Qiao's Grand Courtyard",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7267659",
+    "imdb": "tt4183400",
+    "tmdb": 33342
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 45
+}

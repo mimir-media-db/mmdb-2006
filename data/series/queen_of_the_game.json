@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_of_the_game",
+  "title": "Queen of the Game",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6690953",
+    "imdb": "tt0983961",
+    "tmdb": 37396
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}
