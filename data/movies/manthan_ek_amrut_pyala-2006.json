@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manthan_ek_amrut_pyala_2006",
+  "title": "Manthan: Ek Amrut Pyala",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649591",
+    "imdb": "tt5202754",
+    "tmdb": 288266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

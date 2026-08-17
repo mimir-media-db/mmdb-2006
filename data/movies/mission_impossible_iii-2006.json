@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_impossible_iii_2006",
+  "title": "Mission: Impossible III",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q288173",
+    "imdb": "tt0317919",
+    "tmdb": 956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-24",
+  "runtime_minutes": 126
+}

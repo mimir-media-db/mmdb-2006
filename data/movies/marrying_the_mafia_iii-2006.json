@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marrying_the_mafia_iii_2006",
+  "title": "Marrying the Mafia III",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10854991",
+    "imdb": "tt0891485",
+    "tmdb": 49204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

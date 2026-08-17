@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_majajan_2006",
+  "title": "Majajan",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6737405",
+    "imdb": "tt0937409",
+    "tmdb": 592637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-06",
+  "runtime_minutes": 140
+}

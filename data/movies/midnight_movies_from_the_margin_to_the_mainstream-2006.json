@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_movies_from_the_margin_to_the_mainstream_2006",
+  "title": "Midnight Movies: From the Margin to the Mainstream",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6842739",
+    "imdb": "tt0457414",
+    "tmdb": 36883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-04"
+}

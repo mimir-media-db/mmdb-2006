@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minis_first_time_2006",
+  "title": "Mini's First Time",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1412920",
+    "imdb": "tt0425253",
+    "tmdb": 15314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-14",
+  "runtime_minutes": 91
+}

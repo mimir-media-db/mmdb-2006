@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mere_formality_2006",
+  "title": "A Mere Formality",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2140348",
+    "imdb": "tt0478239",
+    "tmdb": 166958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-13",
+  "runtime_minutes": 96
+}

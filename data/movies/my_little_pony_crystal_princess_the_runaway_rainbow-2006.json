@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_pony_crystal_princess_the_runaway_rainbow_2006",
+  "title": "My Little Pony Crystal Princess: The Runaway Rainbow",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3868861",
+    "imdb": "tt0893497",
+    "tmdb": 256439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-13",
+  "runtime_minutes": 44
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meng_xiang_zhao_jin_xian_shi_2006",
+  "title": "Meng xiang zhao jin xian shi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11115639",
+    "imdb": "tt0843282",
+    "tmdb": 308935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 101
+}

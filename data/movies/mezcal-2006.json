@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mezcal_2006",
+  "title": "Mezcal",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16482267",
+    "imdb": "tt0419963",
+    "tmdb": 276653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-06",
+  "runtime_minutes": 90
+}

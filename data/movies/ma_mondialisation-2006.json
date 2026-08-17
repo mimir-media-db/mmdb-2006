@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_mondialisation_2006",
+  "title": "Ma mondialisation",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96196489",
+    "imdb": "tt0881279",
+    "tmdb": 575001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

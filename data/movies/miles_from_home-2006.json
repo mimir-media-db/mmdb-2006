@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miles_from_home_2006",
+  "title": "Miles from Home",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110350907",
+    "imdb": "tt0756690",
+    "tmdb": 296817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-11"
+}

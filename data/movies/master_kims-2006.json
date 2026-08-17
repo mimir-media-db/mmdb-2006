@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_master_kims_2006",
+  "title": "Master KIMs",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15930087",
+    "imdb": "tt0984057",
+    "tmdb": 92513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

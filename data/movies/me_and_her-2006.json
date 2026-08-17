@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_me_and_her_2006",
+  "title": "Me and Her",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12126095",
+    "imdb": "tt0945364",
+    "tmdb": 1503975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

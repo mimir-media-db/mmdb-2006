@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_murderers_2006",
+  "title": "Murderers",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16912453",
+    "imdb": "tt0487456",
+    "tmdb": 51244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-21",
+  "runtime_minutes": 98
+}

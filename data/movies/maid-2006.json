@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maid_2006",
+  "title": "The Maid",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13099407",
+    "imdb": "tt0474791",
+    "tmdb": 52494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manual_para_atropelar_cachorro_2006",
+  "title": "Manual para Atropelar Cachorro",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10323909",
+    "imdb": "tt0856801",
+    "tmdb": 442835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 18
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_dogs_too_2006",
+  "title": "Miracle Dogs Too",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121082983",
+    "imdb": "tt0494260",
+    "tmdb": 73548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

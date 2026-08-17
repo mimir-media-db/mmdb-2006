@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memoirs_of_a_geisha_2006",
+  "title": "Memoirs of a Geisha",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45839",
+    "imdb": "tt0397535",
+    "tmdb": 1904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-19",
+  "runtime_minutes": 145
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mountain_patrol_kekexili_2006",
+  "title": "Mountain Patrol: Kekexili",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q716883",
+    "imdb": "tt0386651",
+    "tmdb": 16074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-25",
+  "runtime_minutes": 85
+}

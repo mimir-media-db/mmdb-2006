@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matti_hell_is_for_heroes_2006",
+  "title": "Matti: Hell is for Heroes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1756532",
+    "imdb": "tt0390245",
+    "tmdb": 29040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-13",
+  "runtime_minutes": 141
+}

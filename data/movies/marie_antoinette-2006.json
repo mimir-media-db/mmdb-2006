@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marie_antoinette_2006",
+  "title": "Marie Antoinette",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q829695",
+    "imdb": "tt0422720",
+    "tmdb": 1887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-24",
+  "runtime_minutes": 123
+}
