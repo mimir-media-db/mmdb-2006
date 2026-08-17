@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_with_a_pearl_earring_2006",
+  "title": "Girl with a Pearl Earring",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q392441",
+    "imdb": "tt0335119",
+    "tmdb": 3635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-19",
+  "runtime_minutes": 95
+}

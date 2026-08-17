@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guerras_pornograficas_3_2006",
+  "title": "Guerras pornográficas 3",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134884454",
+    "imdb": "tt0933144",
+    "tmdb": 39656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-01",
+  "runtime_minutes": 106
+}

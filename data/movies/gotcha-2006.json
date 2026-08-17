@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gotcha_2006",
+  "title": "Gotcha",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12484428",
+    "imdb": "tt1102219",
+    "tmdb": 787556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-20",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grudge_2_2006",
+  "title": "The Grudge 2",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1193488",
+    "imdb": "tt0433386",
+    "tmdb": 1975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-09",
+  "runtime_minutes": 95
+}

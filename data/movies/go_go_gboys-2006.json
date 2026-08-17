@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_go_go_gboys_2006",
+  "title": "Go! Go! G-Boys",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11303780",
+    "imdb": "tt1144487",
+    "tmdb": 276058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-09",
+  "runtime_minutes": 120
+}

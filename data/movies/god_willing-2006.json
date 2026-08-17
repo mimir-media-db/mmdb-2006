@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_god_willing_2006",
+  "title": "God Willing",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72002",
+    "imdb": "tt0495116",
+    "tmdb": 29997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-31",
+  "runtime_minutes": 87
+}

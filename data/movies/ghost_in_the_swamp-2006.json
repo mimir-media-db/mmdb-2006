@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_in_the_swamp_2006",
+  "title": "The Ghost in the Swamp",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1568485",
+    "imdb": "tt0776770",
+    "tmdb": 377382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-14",
+  "runtime_minutes": 90
+}

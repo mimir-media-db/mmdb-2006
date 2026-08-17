@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gretchen_2006",
+  "title": "Gretchen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124669",
+    "imdb": "tt0473363",
+    "tmdb": 47836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

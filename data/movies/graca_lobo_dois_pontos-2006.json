@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_graca_lobo_dois_pontos_2006",
+  "title": "Graça Lobo Dois Pontos",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23709813",
+    "imdb": "tt1937172"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 60
+}

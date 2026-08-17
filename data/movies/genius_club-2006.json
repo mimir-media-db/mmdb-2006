@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_genius_club_2006",
+  "title": "The Genius Club",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7736103",
+    "imdb": "tt0499484",
+    "tmdb": 35724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 119
+}

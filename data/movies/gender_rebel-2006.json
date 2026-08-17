@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gender_rebel_2006",
+  "title": "Gender Rebel",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978421",
+    "imdb": "tt0780522",
+    "tmdb": 688850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

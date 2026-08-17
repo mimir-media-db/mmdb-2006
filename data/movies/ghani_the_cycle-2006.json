@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghani_the_cycle_2006",
+  "title": "Ghani: The Cycle",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21161307",
+    "imdb": "tt5502760",
+    "tmdb": 719315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

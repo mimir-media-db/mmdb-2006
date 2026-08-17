@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ganda_hendathi_2006",
+  "title": "Ganda Hendathi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248476",
+    "imdb": "tt2417628",
+    "tmdb": 1226908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gasolin_2006",
+  "title": "Gasolin'",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5526506",
+    "imdb": "tt0799770",
+    "tmdb": 57193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-09",
+  "runtime_minutes": 87
+}
