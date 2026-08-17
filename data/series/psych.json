@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_psych",
+  "title": "Psych",
+  "start_year": 2006,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q48758",
+    "imdb": "tt0491738",
+    "tmdb": 1447
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 121
+}

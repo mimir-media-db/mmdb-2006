@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_preso_en_el_extranjero",
+  "title": "Preso en el Extranjero",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2594082",
+    "imdb": "tt0765433"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 81
+}

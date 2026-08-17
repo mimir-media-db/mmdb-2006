@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_platinum_weddings",
+  "title": "Platinum Weddings",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7202383",
+    "imdb": "tt0799891",
+    "tmdb": 10590
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_podge_and_rodge_show",
+  "title": "The Podge and Rodge Show",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7757562",
+    "imdb": "tt0805442",
+    "tmdb": 1688
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 164
+}

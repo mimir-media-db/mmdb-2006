@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pekin_express",
+  "title": "Pékin Express",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18046240",
+    "imdb": "tt21439294",
+    "tmdb": 80605
+  },
+  "last_updated": "2026-08-17"
+}

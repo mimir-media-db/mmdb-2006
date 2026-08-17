@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_peter_capusotto_y_sus_videos",
+  "title": "Peter Capusotto y sus videos",
+  "start_year": 2006,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q6073364",
+    "imdb": "tt1877138",
+    "tmdb": 67174
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 14
+}

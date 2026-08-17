@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_prejudices",
+  "title": "Préjudices",
+  "start_year": 2006,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3408976",
+    "imdb": "tt0778567"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 115
+}

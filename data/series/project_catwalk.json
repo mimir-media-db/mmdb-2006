@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_project_catwalk",
+  "title": "Project Catwalk",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7249028",
+    "imdb": "tt0467157",
+    "tmdb": 5725
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

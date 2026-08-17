@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_planet_earth_the_future",
+  "title": "Planet Earth: The Future",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7201076",
+    "imdb": "tt1108512",
+    "tmdb": 20618
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

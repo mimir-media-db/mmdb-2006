@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pure_laine",
+  "title": "Pure Laine",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3410937",
+    "imdb": "tt0863049",
+    "tmdb": 125322
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

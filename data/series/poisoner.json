@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_poisoner",
+  "title": "The Poisoner",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2397902",
+    "imdb": "tt0851421",
+    "tmdb": 326661
+  },
+  "last_updated": "2026-08-17"
+}

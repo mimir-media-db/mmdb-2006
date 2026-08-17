@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_palermo_hollywood_hotel",
+  "title": "Palermo Hollywood Hotel",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1975421",
+    "imdb": "tt4855896"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 19
+}

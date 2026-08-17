@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pauw_witteman",
+  "title": "Pauw & Witteman",
+  "start_year": 2006,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q10952293",
+    "imdb": "tt1114745",
+    "tmdb": 32913
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 15
+}

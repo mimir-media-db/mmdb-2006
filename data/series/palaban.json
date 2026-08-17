@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_palaban",
+  "title": "Palaban",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7126143",
+    "tmdb": 5277
+  },
+  "last_updated": "2026-08-17"
+}
