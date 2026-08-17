@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_12_and_holding_2006",
+  "title": "12 and Holding",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1139491",
+    "imdb": "tt0417385",
+    "tmdb": 18164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-19",
+  "runtime_minutes": 94
+}

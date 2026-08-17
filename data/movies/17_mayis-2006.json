@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_17_mayis_2006",
+  "title": "17 Mayis",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12808085",
+    "imdb": "tt0913349",
+    "tmdb": 651679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-14",
+  "runtime_minutes": 120
+}

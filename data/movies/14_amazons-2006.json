@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_14_amazons_2006",
+  "title": "The 14 Amazons",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3230307",
+    "imdb": "tt0187499",
+    "tmdb": 21621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-07",
+  "runtime_minutes": 120
+}
