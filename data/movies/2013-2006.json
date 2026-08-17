@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2013_2006",
+  "title": "20,13",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16142962",
+    "imdb": "tt0829086",
+    "tmdb": 176729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 114
+}

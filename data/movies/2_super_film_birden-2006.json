@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2_super_film_birden_2006",
+  "title": "2 Süper Film Birden",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22341664",
+    "imdb": "tt0826507",
+    "tmdb": 291992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-29",
+  "runtime_minutes": 95
+}
