@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hannah_montana",
+  "title": "Hannah Montana",
+  "start_year": 2006,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q126631",
+    "imdb": "tt0493093",
+    "tmdb": 4610
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 98
+}

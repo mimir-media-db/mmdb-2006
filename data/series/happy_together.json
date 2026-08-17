@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_together",
+  "title": "Happy Together",
+  "start_year": 2006,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1951181",
+    "imdb": "tt1825482",
+    "tmdb": 45886
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 365
+}

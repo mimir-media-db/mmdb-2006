@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hermanos_y_yios",
+  "title": "Hermanos y yios",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q6443040",
+    "imdb": "tt0931887",
+    "tmdb": 78584
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

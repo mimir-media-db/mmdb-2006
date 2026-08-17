@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_horakovi",
+  "title": "Horákovi",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q12020345",
+    "imdb": "tt0924177",
+    "tmdb": 79803
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

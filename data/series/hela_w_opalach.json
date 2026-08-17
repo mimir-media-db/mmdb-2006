@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hela_w_opalach",
+  "title": "Hela w opalach",
+  "start_year": 2005,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q11708801",
+    "imdb": "tt0847653",
+    "tmdb": 48177
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 56
+}

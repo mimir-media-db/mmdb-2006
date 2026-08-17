@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_haflower",
+  "title": "Haflower",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11172528",
+    "tmdb": 111279
+  },
+  "last_updated": "2026-08-17"
+}
