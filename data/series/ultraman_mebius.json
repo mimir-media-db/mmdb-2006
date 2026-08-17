@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ultraman_mebius",
+  "title": "Ultraman Mebius",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3270546",
+    "imdb": "tt1205892",
+    "tmdb": 5646
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

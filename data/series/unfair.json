@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_unfair",
+  "title": "Unfair",
+  "start_year": 2006,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1040535",
+    "imdb": "tt1160697",
+    "tmdb": 8700
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

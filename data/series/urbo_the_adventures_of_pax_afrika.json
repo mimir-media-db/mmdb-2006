@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_urbo_the_adventures_of_pax_afrika",
+  "title": "URBO: The Adventures of Pax Afrika",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7865597",
+    "imdb": "tt0819084",
+    "tmdb": 4083
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 104
+}

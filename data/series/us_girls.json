@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_us_girls",
+  "title": "Us Girls",
+  "start_year": 2006,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3585931",
+    "tmdb": 15755
+  },
+  "last_updated": "2026-08-17"
+}

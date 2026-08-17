@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_underfunded",
+  "title": "Underfunded",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7883586",
+    "imdb": "tt0759743",
+    "tmdb": 19425
+  },
+  "last_updated": "2026-08-17"
+}

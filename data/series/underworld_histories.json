@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_underworld_histories",
+  "title": "Underworld Histories",
+  "start_year": 2005,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q125536304",
+    "imdb": "tt1279161"
+  },
+  "last_updated": "2026-08-17"
+}

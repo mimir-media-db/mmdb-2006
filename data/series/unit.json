@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unit",
+  "title": "The Unit",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q676544",
+    "imdb": "tt0460690",
+    "tmdb": 2321
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 69
+}
