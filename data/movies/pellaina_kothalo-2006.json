@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pellaina_kothalo_2006",
+  "title": "Pellaina Kothalo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7161525",
+    "imdb": "tt1580000",
+    "tmdb": 81238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 151
+}

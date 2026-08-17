@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pasa_kiligal_2006",
+  "title": "Pasa Kiligal",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7141515",
+    "imdb": "tt1054636",
+    "tmdb": 279529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pachakuthira_2006",
+  "title": "Pachakuthira",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7121964",
+    "imdb": "tt0808904",
+    "tmdb": 318773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pleasant_moments_2006",
+  "title": "Pleasant Moments",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7203905",
+    "imdb": "tt0491650",
+    "tmdb": 291083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

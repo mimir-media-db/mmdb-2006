@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pola_negri_life_is_a_dream_in_cinema_2006",
+  "title": "Pola Negri: Life Is a Dream in Cinema",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7208837",
+    "imdb": "tt0816561",
+    "tmdb": 1553226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

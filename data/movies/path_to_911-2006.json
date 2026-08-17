@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_path_to_911_2006",
+  "title": "The Path to 9/11",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1140309",
+    "imdb": "tt0473404"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 240
+}

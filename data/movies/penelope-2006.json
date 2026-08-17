@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penelope_2006",
+  "title": "Penelope",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1074032",
+    "imdb": "tt0472160",
+    "tmdb": 7985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}

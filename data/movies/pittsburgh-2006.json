@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pittsburgh_2006",
+  "title": "Pittsburgh",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7199218",
+    "imdb": "tt0419236",
+    "tmdb": 62322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paul_dans_sa_vie_2006",
+  "title": "Paul dans sa vie",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3372458",
+    "imdb": "tt0792985",
+    "tmdb": 78282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}
