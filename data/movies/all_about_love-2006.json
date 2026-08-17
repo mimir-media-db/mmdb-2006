@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_about_love_2006",
+  "title": "All About Love",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4728508",
+    "imdb": "tt0757859",
+    "tmdb": 80830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anuranan_2006",
+  "title": "Anuranan",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4777902",
+    "imdb": "tt0814012",
+    "tmdb": 84098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

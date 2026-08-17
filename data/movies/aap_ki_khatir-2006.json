@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aap_ki_khatir_2006",
+  "title": "Aap Ki Khatir",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4661631",
+    "imdb": "tt0810058",
+    "tmdb": 155949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abandoned_2006",
+  "title": "The Abandoned",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1323419",
+    "imdb": "tt0475937",
+    "tmdb": 10790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}

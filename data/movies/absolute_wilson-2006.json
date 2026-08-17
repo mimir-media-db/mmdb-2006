@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_absolute_wilson_2006",
+  "title": "Absolute Wilson",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5655430",
+    "imdb": "tt0841992",
+    "tmdb": 170489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

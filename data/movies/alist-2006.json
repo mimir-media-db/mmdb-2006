@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alist_2006",
+  "title": "A-List",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4646919",
+    "imdb": "tt0377320",
+    "tmdb": 228581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

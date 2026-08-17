@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ass_wa_lazq_2006",
+  "title": "Ass Wa Lazq",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4808294",
+    "imdb": "tt1050719",
+    "tmdb": 136855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

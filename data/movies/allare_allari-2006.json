@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_allare_allari_2006",
+  "title": "Allare Allari",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4731154",
+    "imdb": "tt1601798",
+    "tmdb": 115053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

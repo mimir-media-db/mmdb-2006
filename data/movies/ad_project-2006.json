@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ad_project_2006",
+  "title": "AD Project",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3600605",
+    "imdb": "tt0826814",
+    "tmdb": 110849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

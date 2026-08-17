@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adolfo_celi_un_uomo_per_due_culture_2006",
+  "title": "Adolfo Celi, un uomo per due culture",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q635204",
+    "imdb": "tt1329100",
+    "tmdb": 274821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}

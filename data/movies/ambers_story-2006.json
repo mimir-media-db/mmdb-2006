@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ambers_story_2006",
+  "title": "Amber's Story",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3319883",
+    "imdb": "tt0840999",
+    "tmdb": 107986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

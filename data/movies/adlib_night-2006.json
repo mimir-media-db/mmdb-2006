@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adlib_night_2006",
+  "title": "Ad-lib Night",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2823853",
+    "imdb": "tt0904038",
+    "tmdb": 110730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

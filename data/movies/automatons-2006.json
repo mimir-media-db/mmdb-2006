@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_automatons_2006",
+  "title": "Automatons",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4826648",
+    "imdb": "tt0462250",
+    "tmdb": 73201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

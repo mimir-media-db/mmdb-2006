@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adaikalam_2006",
+  "title": "Adaikalam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4678406",
+    "imdb": "tt11338432",
+    "tmdb": 280977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

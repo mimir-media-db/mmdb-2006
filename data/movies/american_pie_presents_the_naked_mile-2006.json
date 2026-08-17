@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_pie_presents_the_naked_mile_2006",
+  "title": "American Pie Presents: The Naked Mile",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q466383",
+    "imdb": "tt0808146",
+    "tmdb": 8275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 98
+}
