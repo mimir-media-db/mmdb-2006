@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lovelife_of_a_fat_thief_2006",
+  "title": "The Lovelife of a Fat Thief",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10698924",
+    "imdb": "tt0809946",
+    "tmdb": 45223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 82
+}

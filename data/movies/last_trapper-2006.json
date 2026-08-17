@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_trapper_2006",
+  "title": "The Last Trapper",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q567298",
+    "imdb": "tt0395514",
+    "tmdb": 13678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-05",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_nombres_de_alicia_2006",
+  "title": "Los nombres de Alicia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89933381",
+    "imdb": "tt0455171",
+    "tmdb": 122157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-11",
+  "runtime_minutes": 103
+}

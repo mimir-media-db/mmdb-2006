@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_apocalypse_2006",
+  "title": "The Little Apocalypse",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16954839",
+    "imdb": "tt0845474",
+    "tmdb": 52137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-22"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fille_du_juge_2006",
+  "title": "La Fille du juge",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597590",
+    "imdb": "tt0486356",
+    "tmdb": 111903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-04"
+}

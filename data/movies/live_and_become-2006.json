@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_and_become_2006",
+  "title": "Live and Become",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130271",
+    "imdb": "tt0388505",
+    "tmdb": 1986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-06",
+  "runtime_minutes": 135
+}

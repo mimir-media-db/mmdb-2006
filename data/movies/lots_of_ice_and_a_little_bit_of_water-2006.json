@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lots_of_ice_and_a_little_bit_of_water_2006",
+  "title": "Lots of Ice and a Little Bit of Water",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10333032",
+    "imdb": "tt0489772",
+    "tmdb": 88053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 108
+}

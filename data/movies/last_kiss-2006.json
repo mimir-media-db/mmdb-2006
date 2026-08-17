@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_kiss_2006",
+  "title": "The Last Kiss",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1199381",
+    "imdb": "tt0434139",
+    "tmdb": 7511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-10",
+  "runtime_minutes": 115
+}

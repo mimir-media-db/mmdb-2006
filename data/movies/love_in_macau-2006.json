@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_macau_2006",
+  "title": "Love In Macau",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15938231",
+    "imdb": "tt2672746",
+    "tmdb": 286086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 88
+}

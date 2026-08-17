@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lemming_2006",
+  "title": "Lemming",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1445893",
+    "imdb": "tt0415932",
+    "tmdb": 1622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-13",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lapun_chapun_2006",
+  "title": "Lapun Chapun",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6488439",
+    "imdb": "tt2610296",
+    "tmdb": 606058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_generation_2006",
+  "title": "Lost in Generation",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718305",
+    "imdb": "tt0806114",
+    "tmdb": 608497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-01"
+}

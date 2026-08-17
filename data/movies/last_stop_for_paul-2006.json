@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_stop_for_paul_2006",
+  "title": "Last Stop for Paul",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6494674",
+    "imdb": "tt0930071",
+    "tmdb": 52048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-01"
+}

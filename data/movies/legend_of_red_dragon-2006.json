@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_red_dragon_2006",
+  "title": "The Legend of Red Dragon",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11636031",
+    "imdb": "tt0960087",
+    "tmdb": 52402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

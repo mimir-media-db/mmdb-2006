@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_hits_2006",
+  "title": "Life Hits",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12334097",
+    "imdb": "tt0466500",
+    "tmdb": 16010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-07",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_que_me_diga_la_vida_2006",
+  "title": "Lo Que Me Diga La Vida",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117315537"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 64
+}

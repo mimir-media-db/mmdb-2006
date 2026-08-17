@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lather_effect_2006",
+  "title": "The Lather Effect",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119700272",
+    "imdb": "tt0485927",
+    "tmdb": 60600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-26",
+  "runtime_minutes": 92
+}

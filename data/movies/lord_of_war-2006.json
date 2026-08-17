@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lord_of_war_2006",
+  "title": "Lord of War",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q308681",
+    "imdb": "tt0399295",
+    "tmdb": 1830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-04",
+  "runtime_minutes": 117
+}

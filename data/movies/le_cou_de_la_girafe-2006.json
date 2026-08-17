@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_cou_de_la_girafe_2006",
+  "title": "Le Cou de la girafe",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3221830",
+    "imdb": "tt0387952",
+    "tmdb": 66596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-17",
+  "runtime_minutes": 84
+}

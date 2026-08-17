@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_tokyo_2006",
+  "title": "Lost in Tokyo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11524720",
+    "imdb": "tt0960863",
+    "tmdb": 377904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lurking_in_suburbia_2006",
+  "title": "Lurking in Suburbia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125913",
+    "imdb": "tt0361858",
+    "tmdb": 216786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

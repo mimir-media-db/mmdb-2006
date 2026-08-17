@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_break_2006",
+  "title": "Let's Break",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67484408",
+    "imdb": "tt0442897",
+    "tmdb": 216105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_dama_boba_2006",
+  "title": "La Dama Boba",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966420",
+    "imdb": "tt0467867",
+    "tmdb": 189472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-24",
+  "runtime_minutes": 138
+}

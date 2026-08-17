@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_las_alas_de_la_vida_2006",
+  "title": "Las alas de la vida",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92315472",
+    "imdb": "tt0884003",
+    "tmdb": 32544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-21",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_sasquatch_2006",
+  "title": "The Legend of Sasquatch",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7746768",
+    "imdb": "tt0491027",
+    "tmdb": 59446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-12",
+  "runtime_minutes": 74
+}

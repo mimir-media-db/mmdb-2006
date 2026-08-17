@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_locator_2006",
+  "title": "The Locator",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30916812",
+    "imdb": "tt0978635",
+    "tmdb": 602090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-18"
+}

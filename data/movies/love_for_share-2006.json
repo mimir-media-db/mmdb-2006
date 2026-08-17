@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_for_share_2006",
+  "title": "Love for Share",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4184572",
+    "imdb": "tt0799938",
+    "tmdb": 260241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-23",
+  "runtime_minutes": 120
+}

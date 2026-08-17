@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_larry_the_cable_guy_health_inspector_2006",
+  "title": "Larry the Cable Guy: Health Inspector",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6491352",
+    "imdb": "tt0462395",
+    "tmdb": 15639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-24",
+  "runtime_minutes": 89
+}

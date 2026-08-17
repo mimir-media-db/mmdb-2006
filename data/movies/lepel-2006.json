@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lepel_2006",
+  "title": "Lepel",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q477888",
+    "imdb": "tt0400598",
+    "tmdb": 21751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-09",
+  "runtime_minutes": 96
+}

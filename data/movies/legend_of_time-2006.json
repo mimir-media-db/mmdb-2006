@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_time_2006",
+  "title": "The Legend of Time",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2655734",
+    "imdb": "tt0495138",
+    "tmdb": 101021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-01",
+  "runtime_minutes": 109
+}

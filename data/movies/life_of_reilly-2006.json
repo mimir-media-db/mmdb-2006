@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_of_reilly_2006",
+  "title": "The Life of Reilly",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7747206",
+    "imdb": "tt0498366",
+    "tmdb": 84827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

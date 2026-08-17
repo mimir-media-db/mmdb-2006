@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lai_xiao_zi_walking_on_the_wild_side_2006",
+  "title": "Lai xiao zi (Walking on the Wild Side)",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15949768",
+    "imdb": "tt0495135",
+    "tmdb": 309363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 89
+}

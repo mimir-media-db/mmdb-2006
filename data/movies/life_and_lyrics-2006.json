@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_and_lyrics_2006",
+  "title": "Life and Lyrics",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16960657",
+    "imdb": "tt0460848",
+    "tmdb": 75743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 99
+}

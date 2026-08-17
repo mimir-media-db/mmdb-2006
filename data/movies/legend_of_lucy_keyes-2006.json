@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_lucy_keyes_2006",
+  "title": "The Legend of Lucy Keyes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q152185",
+    "imdb": "tt0428765",
+    "tmdb": 33502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-03",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lhomme_qui_revait_dun_enfant_2006",
+  "title": "L'Homme qui rêvait d'un enfant",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30740341",
+    "imdb": "tt0450784",
+    "tmdb": 414070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

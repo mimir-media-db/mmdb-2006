@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_opere_e_i_giorni_2006",
+  "title": "Le opere e i giorni",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44867228",
+    "imdb": "tt1092081",
+    "tmdb": 503079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

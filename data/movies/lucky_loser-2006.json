@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lucky_loser_2006",
+  "title": "Lucky Loser",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6641530",
+    "imdb": "tt0963925",
+    "tmdb": 249239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-19"
+}
