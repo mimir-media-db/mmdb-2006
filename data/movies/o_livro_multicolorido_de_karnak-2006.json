@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_livro_multicolorido_de_karnak_2006",
+  "title": "O Livro Multicolorido de Karnak",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10339329",
+    "imdb": "tt0940825",
+    "tmdb": 360509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

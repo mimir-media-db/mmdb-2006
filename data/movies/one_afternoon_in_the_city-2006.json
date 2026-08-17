@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_one_afternoon_in_the_city_2006",
+  "title": "One Afternoon In The City",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600843",
+    "imdb": "tt0808407"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_offscreen_2006",
+  "title": "Offscreen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1670867",
+    "imdb": "tt0418982",
+    "tmdb": 16009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-18",
+  "runtime_minutes": 93
+}

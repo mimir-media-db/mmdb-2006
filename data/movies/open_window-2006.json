@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_open_window_2006",
+  "title": "Open Window",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115686458",
+    "imdb": "tt0345228",
+    "tmdb": 21630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-01"
+}

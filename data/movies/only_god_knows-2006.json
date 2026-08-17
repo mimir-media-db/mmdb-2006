@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_god_knows_2006",
+  "title": "Only God Knows",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16960487",
+    "imdb": "tt0402505",
+    "tmdb": 62045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-20",
+  "runtime_minutes": 115
+}

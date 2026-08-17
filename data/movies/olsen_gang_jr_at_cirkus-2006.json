@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olsen_gang_jr_at_cirkus_2006",
+  "title": "Olsen Gang jr. at Cirkus",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2021251",
+    "imdb": "tt0482121",
+    "tmdb": 119670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-10",
+  "runtime_minutes": 92
+}
