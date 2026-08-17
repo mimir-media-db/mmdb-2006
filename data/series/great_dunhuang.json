@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_great_dunhuang",
+  "title": "The Great Dunhuang",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7737739",
+    "tmdb": 103237
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 46
+}

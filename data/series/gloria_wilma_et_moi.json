@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gloria_wilma_et_moi",
+  "title": "Gloria, Wilma et moi",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2400844",
+    "imdb": "tt0891781",
+    "tmdb": 243347
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

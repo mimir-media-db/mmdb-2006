@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gladiadores_de_pompeya",
+  "title": "Gladiadores de Pompeya",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1974792",
+    "imdb": "tt0490321",
+    "tmdb": 92790
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

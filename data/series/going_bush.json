@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_going_bush",
+  "title": "Going Bush",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q123527913",
+    "imdb": "tt0757828",
+    "tmdb": 25843
+  },
+  "last_updated": "2026-08-17"
+}

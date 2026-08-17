@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_girls_aloud_off_the_record",
+  "title": "Girls Aloud: Off the Record",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5564614",
+    "imdb": "tt0799873",
+    "tmdb": 13047
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

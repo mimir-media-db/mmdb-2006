@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_going_ape",
+  "title": "Going Ape",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5577744",
+    "imdb": "tt2220732",
+    "tmdb": 15744
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}
