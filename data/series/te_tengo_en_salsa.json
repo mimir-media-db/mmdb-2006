@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_te_tengo_en_salsa",
+  "title": "Te tengo en salsa",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q6139499",
+    "imdb": "tt0823367",
+    "tmdb": 313404
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 100
+}

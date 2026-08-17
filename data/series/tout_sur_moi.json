@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tout_sur_moi",
+  "title": "Tout sur moi",
+  "start_year": 2006,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3535795",
+    "imdb": "tt0872180",
+    "tmdb": 110584
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 68
+}

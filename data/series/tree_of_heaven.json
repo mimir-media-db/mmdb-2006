@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tree_of_heaven",
+  "title": "Tree of Heaven",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q493934",
+    "imdb": "tt2479216",
+    "tmdb": 35772
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

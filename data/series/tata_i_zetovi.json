@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tata_i_zetovi",
+  "title": "Tata i zetovi",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7687840",
+    "imdb": "tt0959548",
+    "tmdb": 31866
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

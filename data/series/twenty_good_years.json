@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_twenty_good_years",
+  "title": "Twenty Good Years",
+  "start_year": 2006,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3542531",
+    "imdb": "tt0780442",
+    "tmdb": 1710
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

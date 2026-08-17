@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tierra_de_pasiones",
+  "title": "Tierra de Pasiones",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q948203",
+    "imdb": "tt0459693",
+    "tmdb": 4974
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 172
+}

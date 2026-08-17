@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_trawlermen",
+  "title": "Trawlermen",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q7836437",
+    "imdb": "tt0837486",
+    "tmdb": 33882
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 20
+}

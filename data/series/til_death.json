@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_til_death",
+  "title": "'Til Death",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1299293",
+    "imdb": "tt0759475",
+    "tmdb": 1568
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 81
+}

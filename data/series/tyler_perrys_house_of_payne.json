@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tyler_perrys_house_of_payne",
+  "title": "Tyler Perry's House of Payne",
+  "start_year": 2006,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q10563926",
+    "imdb": "tt0773264",
+    "tmdb": 3690
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 254
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_thank_you_life",
+  "title": "Thank You Life",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q12613394",
+    "tmdb": 36257
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

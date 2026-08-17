@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_trick_my_truck",
+  "title": "Trick My Truck",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q16169832",
+    "imdb": "tt0476945",
+    "tmdb": 4353
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 55
+}
