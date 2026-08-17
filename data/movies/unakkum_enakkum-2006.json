@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unakkum_enakkum_2006",
+  "title": "Unakkum Enakkum",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3411563",
+    "imdb": "tt0485486",
+    "tmdb": 63815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}
