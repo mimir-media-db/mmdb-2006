@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_3_minutes_2006",
+  "title": "Mr. 3 Minutes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6928368",
+    "imdb": "tt0885518",
+    "tmdb": 162904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

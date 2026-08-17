@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maquilapolis_2006",
+  "title": "Maquilapolis",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6754318",
+    "imdb": "tt0757264",
+    "tmdb": 44778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 60
+}

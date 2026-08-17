@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_nanny_2006",
+  "title": "Mother Nanny",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1652755",
+    "imdb": "tt0877645",
+    "tmdb": 273643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

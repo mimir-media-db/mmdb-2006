@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_music_of_regret_2006",
+  "title": "The Music of Regret",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3521944",
+    "imdb": "tt0879836",
+    "tmdb": 444652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

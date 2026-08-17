@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mulberry_street_2006",
+  "title": "Mulberry Street",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4277569",
+    "imdb": "tt0473514",
+    "tmdb": 17245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

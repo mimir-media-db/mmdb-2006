@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_super_exgirlfriend_2006",
+  "title": "My Super Ex-Girlfriend",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1216648",
+    "imdb": "tt0465624",
+    "tmdb": 4474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

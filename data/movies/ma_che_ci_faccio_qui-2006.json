@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_che_ci_faccio_qui_2006",
+  "title": "Ma che ci faccio qui!",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3841837",
+    "imdb": "tt0863131",
+    "tmdb": 48657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 93
+}

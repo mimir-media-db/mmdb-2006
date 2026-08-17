@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ming_ming_2006",
+  "title": "Ming Ming",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6864654",
+    "imdb": "tt0885505",
+    "tmdb": 45304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brother_2006",
+  "title": "My Brother",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945111",
+    "imdb": "tt0451135",
+    "tmdb": 61167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meishi_street_2006",
+  "title": "Meishi Street",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3290106",
+    "imdb": "tt1847646",
+    "tmdb": 94717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

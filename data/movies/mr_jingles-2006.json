@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_jingles_2006",
+  "title": "Mr. Jingles",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6928787",
+    "imdb": "tt0810743",
+    "tmdb": 65255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 80
+}

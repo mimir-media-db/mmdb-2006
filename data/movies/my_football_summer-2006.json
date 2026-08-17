@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_football_summer_2006",
+  "title": "My Football Summer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945486",
+    "imdb": "tt1006945",
+    "tmdb": 83993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}

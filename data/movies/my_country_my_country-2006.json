@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_country_my_country_2006",
+  "title": "My Country, My Country",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6945187",
+    "imdb": "tt4425258",
+    "tmdb": 50100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

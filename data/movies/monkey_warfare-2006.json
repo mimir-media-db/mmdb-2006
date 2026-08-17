@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monkey_warfare_2006",
+  "title": "Monkey Warfare",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6900820",
+    "imdb": "tt0832906",
+    "tmdb": 144881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

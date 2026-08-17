@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marilena_from_p7_2006",
+  "title": "Marilena from P7",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6763466",
+    "imdb": "tt0805188",
+    "tmdb": 34064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 48
+}

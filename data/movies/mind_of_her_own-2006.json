@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mind_of_her_own_2006",
+  "title": "A Mind of Her Own",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658278",
+    "imdb": "tt0461813",
+    "tmdb": 204483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

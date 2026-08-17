@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brother_is_getting_married_2006",
+  "title": "My Brother Is Getting Married",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3319905",
+    "imdb": "tt0472542",
+    "tmdb": 54884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}
