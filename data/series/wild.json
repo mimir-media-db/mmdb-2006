@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wild",
+  "title": "Wild",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8000464",
+    "imdb": "tt1095162"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 84
+}

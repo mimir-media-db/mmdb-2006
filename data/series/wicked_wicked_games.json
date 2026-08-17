@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wicked_wicked_games",
+  "title": "Wicked Wicked Games",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7998304",
+    "imdb": "tt0859215",
+    "tmdb": 1258
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 66
+}

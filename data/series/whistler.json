@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_whistler",
+  "title": "Whistler",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1212868",
+    "imdb": "tt0491522",
+    "tmdb": 2837
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

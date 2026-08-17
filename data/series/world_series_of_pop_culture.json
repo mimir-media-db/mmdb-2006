@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_world_series_of_pop_culture",
+  "title": "The World Series of Pop Culture",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7776039",
+    "imdb": "tt0799905",
+    "tmdb": 2573
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

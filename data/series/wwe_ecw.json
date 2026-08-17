@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wwe_ecw",
+  "title": "WWE ECW",
+  "start_year": 2006,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q776675",
+    "imdb": "tt0810614",
+    "tmdb": 3894
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 193
+}
