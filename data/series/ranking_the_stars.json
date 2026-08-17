@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ranking_the_stars",
+  "title": "Ranking the Stars",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3002844",
+    "imdb": "tt1112798",
+    "tmdb": 25955
+  },
+  "last_updated": "2026-08-17"
+}

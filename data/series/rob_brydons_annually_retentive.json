@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rob_brydons_annually_retentive",
+  "title": "Rob Brydon's Annually Retentive",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7340000",
+    "imdb": "tt0828620",
+    "tmdb": 2487
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

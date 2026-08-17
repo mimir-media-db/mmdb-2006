@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_robins",
+  "title": "Robins",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7352945",
+    "imdb": "tt0876012",
+    "tmdb": 2217
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 36
+}

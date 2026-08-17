@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_raccontami",
+  "title": "Raccontami",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3928500",
+    "imdb": "tt0934764",
+    "tmdb": 41574
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

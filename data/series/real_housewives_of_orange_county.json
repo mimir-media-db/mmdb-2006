@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real_housewives_of_orange_county",
+  "title": "The Real Housewives of Orange County",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7759597",
+    "imdb": "tt0497079",
+    "tmdb": 10222
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 254
+}

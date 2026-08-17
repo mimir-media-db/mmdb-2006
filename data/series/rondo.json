@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rondo",
+  "title": "Rondo",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q10296211",
+    "imdb": "tt0773745",
+    "tmdb": 86876
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ran_remote_area_nurse",
+  "title": "RAN Remote Area Nurse",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7275778",
+    "imdb": "tt0463270",
+    "tmdb": 11955
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_return_of_the_condor_heroes",
+  "title": "The Return of the Condor Heroes",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q717678",
+    "imdb": "tt1096982",
+    "tmdb": 3824
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 41
+}
