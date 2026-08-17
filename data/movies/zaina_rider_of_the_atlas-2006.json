@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zaina_rider_of_the_atlas_2006",
+  "title": "Zaina, Rider of the Atlas",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q144380",
+    "imdb": "tt0436982",
+    "tmdb": 78351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 101
+}

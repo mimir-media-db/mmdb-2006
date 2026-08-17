@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zodiac_the_race_begins_2006",
+  "title": "Zodiac: The Race Begins",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3474950",
+    "imdb": "tt0780660",
+    "tmdb": 86700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}
