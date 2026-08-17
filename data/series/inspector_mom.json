@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_inspector_mom",
+  "title": "Inspector Mom",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3844150",
+    "imdb": "tt0784939"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

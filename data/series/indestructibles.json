@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_indestructibles",
+  "title": "The Indestructibles",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7741841",
+    "imdb": "tt0884585",
+    "tmdb": 32042
+  },
+  "last_updated": "2026-08-17"
+}

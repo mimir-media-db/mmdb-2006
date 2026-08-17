@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_infrarouge",
+  "title": "Infrarouge",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16643527",
+    "imdb": "tt4959470",
+    "tmdb": 79268
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_invincible_parachute_agent",
+  "title": "Invincible Parachute Agent",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q6756578",
+    "tmdb": 68042
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

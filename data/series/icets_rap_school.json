@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_icets_rap_school",
+  "title": "Ice-T's Rap School",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5985129",
+    "imdb": "tt0847145",
+    "tmdb": 5409
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}
