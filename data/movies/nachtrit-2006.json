@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nachtrit_2006",
+  "title": "Nachtrit",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2920256",
+    "imdb": "tt0433686",
+    "tmdb": 48402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

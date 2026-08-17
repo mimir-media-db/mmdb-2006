@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_non_voltarmi_le_spalle_2006",
+  "title": "Non voltarmi le spalle",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3878194",
+    "imdb": "tt2024468",
+    "tmdb": 1123607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 72
+}

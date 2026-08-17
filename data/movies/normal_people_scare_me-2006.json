@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_normal_people_scare_me_2006",
+  "title": "Normal People Scare Me",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7051779",
+    "imdb": "tt0903000",
+    "tmdb": 853124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

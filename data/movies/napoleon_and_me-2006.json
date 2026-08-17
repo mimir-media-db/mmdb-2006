@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_napoleon_and_me_2006",
+  "title": "Napoleon and Me",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3869755",
+    "imdb": "tt0462002",
+    "tmdb": 24180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notte_prima_degli_esami_2006",
+  "title": "Notte prima degli esami",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1881132",
+    "imdb": "tt0772187",
+    "tmdb": 33365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}
