@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outlaw_trail_the_treasure_of_butch_cassidy_2006",
+  "title": "Outlaw Trail: The Treasure of Butch Cassidy",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7112133",
+    "imdb": "tt0485956",
+    "tmdb": 121298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

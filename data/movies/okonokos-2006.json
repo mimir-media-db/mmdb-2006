@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_okonokos_2006",
+  "title": "Okonokos",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7082508",
+    "imdb": "tt0893354",
+    "tmdb": 71696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_offside_2006",
+  "title": "Offside",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1753074",
+    "imdb": "tt0499537",
+    "tmdb": 13209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 88
+}
