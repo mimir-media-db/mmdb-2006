@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jatuh_cinta_lagi_2006",
+  "title": "Jatuh Cinta Lagi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12487563",
+    "imdb": "tt0886693",
+    "tmdb": 787518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}

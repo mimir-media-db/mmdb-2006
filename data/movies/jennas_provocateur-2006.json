@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jennas_provocateur_2006",
+  "title": "Jenna's Provocateur",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139605000",
+    "imdb": "tt0878683",
+    "tmdb": 82488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 100
+}

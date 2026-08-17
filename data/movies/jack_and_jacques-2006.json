@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_and_jacques_2006",
+  "title": "Jack and Jacques",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60945673",
+    "imdb": "tt0856086"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 14
+}

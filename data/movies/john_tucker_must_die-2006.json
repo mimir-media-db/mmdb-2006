@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_john_tucker_must_die_2006",
+  "title": "John Tucker Must Die",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q771023",
+    "imdb": "tt0455967",
+    "tmdb": 9293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-27",
+  "runtime_minutes": 86
+}
