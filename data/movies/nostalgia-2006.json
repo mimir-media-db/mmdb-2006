@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nostalgia_2006",
+  "title": "Nostalgia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125182801",
+    "imdb": "tt13702414",
+    "tmdb": 525685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-05",
+  "runtime_minutes": 70
+}

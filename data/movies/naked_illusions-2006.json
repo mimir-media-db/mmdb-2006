@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_illusions_2006",
+  "title": "Naked Illusions",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128262868",
+    "imdb": "tt0920771",
+    "tmdb": 899883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-15"
+}

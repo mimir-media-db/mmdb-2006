@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_continent_2006",
+  "title": "Naked Continent",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6960454",
+    "tmdb": 672813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-01"
+}

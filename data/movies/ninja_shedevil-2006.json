@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ninja_shedevil_2006",
+  "title": "Ninja She-Devil",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21057768",
+    "imdb": "tt1764423",
+    "tmdb": 113996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 74
+}

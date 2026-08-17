@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neo_pornographia_4_2006",
+  "title": "Neo Pornographia 4",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140370101",
+    "imdb": "tt0862767",
+    "tmdb": 642327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-01",
+  "runtime_minutes": 90
+}

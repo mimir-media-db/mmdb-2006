@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nacho_libre_2006",
+  "title": "Nacho Libre",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q909767",
+    "imdb": "tt0457510",
+    "tmdb": 9353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-16",
+  "runtime_minutes": 92
+}

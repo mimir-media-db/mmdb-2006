@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nafaka_2006",
+  "title": "Nafaka",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13089729",
+    "imdb": "tt0466562",
+    "tmdb": 52511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

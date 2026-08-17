@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nestor_et_les_oublies_2006",
+  "title": "Nestor et les oubliés",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59619131",
+    "imdb": "tt0853253",
+    "tmdb": 778253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 75
+}

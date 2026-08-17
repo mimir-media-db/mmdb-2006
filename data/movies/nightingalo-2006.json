@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nightingalo_2006",
+  "title": "Nightingalo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11323580",
+    "imdb": "tt0777964",
+    "tmdb": 1189361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

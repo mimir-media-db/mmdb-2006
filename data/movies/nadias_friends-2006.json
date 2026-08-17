@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nadias_friends_2006",
+  "title": "Nadia's Friends",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17011892",
+    "imdb": "tt1556681",
+    "tmdb": 621472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

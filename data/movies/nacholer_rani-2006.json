@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nacholer_rani_2006",
+  "title": "Nacholer Rani",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23709793",
+    "imdb": "tt6707806"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-30"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neo_pornographia_3_2006",
+  "title": "Neo Pornographia 3",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140370100",
+    "imdb": "tt0801004",
+    "tmdb": 642323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_notebook_2006",
+  "title": "Notebook",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7062555",
+    "imdb": "tt0924260",
+    "tmdb": 341104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-15"
+}

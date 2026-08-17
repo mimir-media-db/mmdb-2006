@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nondito_noroke_2006",
+  "title": "Nondito Noroke",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13058331",
+    "imdb": "tt5247578",
+    "tmdb": 1209617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}
