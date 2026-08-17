@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vattaram_2006",
+  "title": "Vattaram",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7917196",
+    "imdb": "tt8743136",
+    "tmdb": 69506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-21"
+}

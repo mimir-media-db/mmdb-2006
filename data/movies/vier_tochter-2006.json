@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vier_tochter_2006",
+  "title": "Vier Töchter",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41147724",
+    "imdb": "tt0469987",
+    "tmdb": 142311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-26"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veerabhadra_2006",
+  "title": "Veerabhadra",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7918140",
+    "imdb": "tt0929630",
+    "tmdb": 267354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

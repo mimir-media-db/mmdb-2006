@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vadakkumnadhan_2006",
+  "title": "Vadakkumnadhan",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65320559",
+    "imdb": "tt0425610",
+    "tmdb": 193944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-19"
+}

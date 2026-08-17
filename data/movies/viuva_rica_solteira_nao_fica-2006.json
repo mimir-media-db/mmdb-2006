@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viuva_rica_solteira_nao_fica_2006",
+  "title": "Viúva Rica Solteira Não Fica",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10392230",
+    "imdb": "tt0166871",
+    "tmdb": 218584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 135
+}
