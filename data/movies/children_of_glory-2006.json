@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_children_of_glory_2006",
+  "title": "Children of Glory",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q429965",
+    "imdb": "tt0486219",
+    "tmdb": 13616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-23",
+  "runtime_minutes": 123
+}

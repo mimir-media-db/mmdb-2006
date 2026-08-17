@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_carnal_utopia_2006",
+  "title": "Carnal Utopia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10373342",
+    "imdb": "tt0473679",
+    "tmdb": 177531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-15",
+  "runtime_minutes": 93
+}

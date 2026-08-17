@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cool_air_2006",
+  "title": "Cool Air",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16722195",
+    "imdb": "tt0780495",
+    "tmdb": 140172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 78
+}

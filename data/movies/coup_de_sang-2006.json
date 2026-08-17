@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coup_de_sang_2006",
+  "title": "Coup De Sang",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64897176",
+    "imdb": "tt0922396",
+    "tmdb": 534492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-20",
+  "runtime_minutes": 84
+}

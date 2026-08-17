@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheat_report_2006",
+  "title": "The Cheat Report",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55352247",
+    "imdb": "tt0806041",
+    "tmdb": 22517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

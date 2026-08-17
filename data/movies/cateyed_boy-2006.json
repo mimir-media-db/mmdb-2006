@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cateyed_boy_2006",
+  "title": "Cat-Eyed Boy",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11572038",
+    "imdb": "tt0867267",
+    "tmdb": 364057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-10"
+}

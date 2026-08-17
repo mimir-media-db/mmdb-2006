@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cole_nobody_knows_2006",
+  "title": "The Cole Nobody Knows",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7726645",
+    "imdb": "tt0405839"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

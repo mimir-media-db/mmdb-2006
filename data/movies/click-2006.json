@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_click_2006",
+  "title": "Click",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q496654",
+    "imdb": "tt0389860",
+    "tmdb": 9339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-22",
+  "runtime_minutes": 107
+}

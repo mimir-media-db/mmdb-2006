@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colma_the_musical_2006",
+  "title": "Colma: The Musical",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5147716",
+    "imdb": "tt0784977",
+    "tmdb": 108717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-21",
+  "runtime_minutes": 100
+}

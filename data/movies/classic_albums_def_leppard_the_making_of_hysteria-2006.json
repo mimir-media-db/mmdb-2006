@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_classic_albums_def_leppard_the_making_of_hysteria_2006",
+  "title": "Classic Albums: Def Leppard - The Making of Hysteria",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16827053",
+    "imdb": "tt0409826",
+    "tmdb": 57835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-08"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ceci_est_mon_royaume_2006",
+  "title": "Ceci est mon royaume",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88872134"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 52
+}

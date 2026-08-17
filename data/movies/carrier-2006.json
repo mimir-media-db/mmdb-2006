@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carrier_2006",
+  "title": "Carrier",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127694745",
+    "imdb": "tt0487882",
+    "tmdb": 509411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

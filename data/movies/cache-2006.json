@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cache_2006",
+  "title": "Caché",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q383173",
+    "imdb": "tt0387898",
+    "tmdb": 445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-26",
+  "runtime_minutes": 117
+}

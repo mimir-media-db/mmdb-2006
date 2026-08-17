@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chinthamani_kolacase_2006",
+  "title": "Chinthamani Kolacase",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247623",
+    "imdb": "tt0882759",
+    "tmdb": 230183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

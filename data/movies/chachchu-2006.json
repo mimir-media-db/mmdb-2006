@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chachchu_2006",
+  "title": "Chachchu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130474889",
+    "imdb": "tt7145328",
+    "tmdb": 1010069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-25"
+}
