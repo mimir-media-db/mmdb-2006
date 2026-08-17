@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_van_wilder_the_rise_of_taj_2006",
+  "title": "Van Wilder: The Rise of Taj",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2342819",
+    "imdb": "tt0480271",
+    "tmdb": 10032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 97
+}
