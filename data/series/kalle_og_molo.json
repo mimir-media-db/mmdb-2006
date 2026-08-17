@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kalle_og_molo",
+  "title": "Kalle og Molo",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q11979956",
+    "imdb": "tt5266350",
+    "tmdb": 316358
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}
