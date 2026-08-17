@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shorty_mcshorts_shorts",
+  "title": "Shorty McShorts' Shorts",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q7502304",
+    "imdb": "tt0859503",
+    "tmdb": 4609
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sons_of_the_carnival",
+  "title": "Sons of the Carnival",
+  "start_year": 2006,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q9003764",
+    "imdb": "tt0805401",
+    "tmdb": 57310
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_special_of_my_life",
+  "title": "Special of My Life",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12971277",
+    "tmdb": 23977
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

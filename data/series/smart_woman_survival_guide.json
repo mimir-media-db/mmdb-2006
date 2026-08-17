@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_smart_woman_survival_guide",
+  "title": "The Smart Woman Survival Guide",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7764887",
+    "imdb": "tt0835242",
+    "tmdb": 6692
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 39
+}

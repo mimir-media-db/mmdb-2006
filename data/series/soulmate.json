@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_soulmate",
+  "title": "Soulmate",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16220448",
+    "imdb": "tt1502272",
+    "tmdb": 42591
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

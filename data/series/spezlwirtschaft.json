@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_spezlwirtschaft",
+  "title": "Spezlwirtschaft",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2309567",
+    "imdb": "tt1201021",
+    "tmdb": 63629
+  },
+  "last_updated": "2026-08-17"
+}

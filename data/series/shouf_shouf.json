@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shouf_shouf",
+  "title": "Shouf Shouf!",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q2251307",
+    "imdb": "tt0471060",
+    "tmdb": 24842
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

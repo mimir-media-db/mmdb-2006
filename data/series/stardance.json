@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stardance",
+  "title": "StarDance",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15953135",
+    "imdb": "tt1782958",
+    "tmdb": 94673
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 88
+}

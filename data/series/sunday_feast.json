@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_sunday_feast",
+  "title": "Sunday Feast",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7639387"
+  },
+  "last_updated": "2026-08-17"
+}

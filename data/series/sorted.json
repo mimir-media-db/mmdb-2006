@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sorted",
+  "title": "Sorted",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q7563770",
+    "imdb": "tt0778573",
+    "tmdb": 675
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

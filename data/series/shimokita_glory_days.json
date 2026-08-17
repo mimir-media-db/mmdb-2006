@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_shimokita_glory_days",
+  "title": "Shimokita GLORY DAYS",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q9076822",
+    "imdb": "tt1183347",
+    "tmdb": 35974
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

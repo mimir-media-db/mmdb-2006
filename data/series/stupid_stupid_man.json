@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_stupid_stupid_man",
+  "title": "Stupid, Stupid Man",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q7628847",
+    "imdb": "tt0891171",
+    "tmdb": 5097
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

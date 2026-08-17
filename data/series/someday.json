@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_someday",
+  "title": "Someday",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q11255636",
+    "imdb": "tt2448148",
+    "tmdb": 43170
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

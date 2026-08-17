@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_soapstar_superstar",
+  "title": "Soapstar Superstar",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q2390537",
+    "imdb": "tt0492517",
+    "tmdb": 2596
+  },
+  "last_updated": "2026-08-17"
+}

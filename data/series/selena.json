@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_selena",
+  "title": "Selena",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4413542",
+    "imdb": "tt0862622",
+    "tmdb": 48514
+  },
+  "last_updated": "2026-08-17"
+}

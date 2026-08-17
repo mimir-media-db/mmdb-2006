@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_skimo",
+  "title": "Skimo",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3284369",
+    "imdb": "tt0902452",
+    "tmdb": 263
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 50
+}
