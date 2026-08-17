@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daft_punks_electroma_2006",
+  "title": "Daft Punk's Electroma",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1157149",
+    "imdb": "tt0800022",
+    "tmdb": 13529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deepfrozen_2006",
+  "title": "Deepfrozen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5250624",
+    "imdb": "tt0494219",
+    "tmdb": 805681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 92
+}

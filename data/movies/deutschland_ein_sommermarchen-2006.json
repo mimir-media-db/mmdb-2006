@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deutschland_ein_sommermarchen_2006",
+  "title": "Deutschland. Ein Sommermärchen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q872852",
+    "imdb": "tt0853060",
+    "tmdb": 286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 110
+}

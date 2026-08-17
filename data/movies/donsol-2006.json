@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_donsol_2006",
+  "title": "Donsol",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5296885",
+    "imdb": "tt0816483",
+    "tmdb": 336368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

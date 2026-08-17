@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deweneti_2006",
+  "title": "Deweneti",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3025562",
+    "imdb": "tt0819793",
+    "tmdb": 296123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

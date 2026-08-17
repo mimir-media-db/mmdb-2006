@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_on_fire_2006",
+  "title": "Day on Fire",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5242979",
+    "imdb": "tt0814072",
+    "tmdb": 132417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 91
+}

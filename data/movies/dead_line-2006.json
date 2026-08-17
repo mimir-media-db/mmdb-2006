@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_line_2006",
+  "title": "Dead Line",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5245253",
+    "imdb": "tt0442278",
+    "tmdb": 258097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

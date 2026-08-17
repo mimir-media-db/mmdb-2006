@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_du_hast_gesagt_dass_du_mich_liebst_2006",
+  "title": "Du hast gesagt, dass du mich liebst",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1262411",
+    "imdb": "tt0495686",
+    "tmdb": 100765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_du_jag_2006",
+  "title": "Du & jag",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5310030",
+    "imdb": "tt0499025",
+    "tmdb": 77337
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

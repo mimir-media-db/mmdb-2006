@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deichking_2006",
+  "title": "Deichking",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1183132",
+    "imdb": "tt1087887",
+    "tmdb": 162426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}
