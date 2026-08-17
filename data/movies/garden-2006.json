@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_garden_2006",
+  "title": "The Garden",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3987179",
+    "imdb": "tt0436343",
+    "tmdb": 53347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 92
+}

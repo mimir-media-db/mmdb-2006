@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_griffin_and_phoenix_2006",
+  "title": "Griffin and Phoenix",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5608778",
+    "imdb": "tt0460812",
+    "tmdb": 15534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gymnast_2006",
+  "title": "The Gymnast",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4138574",
+    "imdb": "tt0473074",
+    "tmdb": 31421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

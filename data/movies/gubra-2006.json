@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gubra_2006",
+  "title": "Gubra",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3118838",
+    "imdb": "tt0484355",
+    "tmdb": 245435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gitmo_the_new_rules_of_war_2006",
+  "title": "Gitmo: The New Rules of War",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2394751",
+    "imdb": "tt0481348",
+    "tmdb": 260156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 82
+}

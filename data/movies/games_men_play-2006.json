@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_games_men_play_2006",
+  "title": "Games Men Play",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5520088",
+    "imdb": "tt0896703"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

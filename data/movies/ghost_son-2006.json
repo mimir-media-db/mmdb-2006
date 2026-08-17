@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_son_2006",
+  "title": "Ghost Son",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3416416",
+    "imdb": "tt0460808",
+    "tmdb": 50392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 96
+}
