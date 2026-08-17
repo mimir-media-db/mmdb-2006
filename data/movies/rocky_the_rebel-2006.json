@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rocky_the_rebel_2006",
+  "title": "Rocky – The Rebel",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7356055",
+    "imdb": "tt0814295",
+    "tmdb": 506059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

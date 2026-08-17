@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_right_of_the_weakest_2006",
+  "title": "The Right of the Weakest",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2364901",
+    "imdb": "tt0454536",
+    "tmdb": 71732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 116
+}

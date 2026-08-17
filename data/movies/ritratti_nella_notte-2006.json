@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ritratti_nella_notte_2006",
+  "title": "Ritratti nella notte",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3937385",
+    "imdb": "tt2523094",
+    "tmdb": 424016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rojo_la_pelicula_2006",
+  "title": "Rojo, la película",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6111126",
+    "imdb": "tt0805600",
+    "tmdb": 342788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 102
+}

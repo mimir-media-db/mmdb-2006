@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_retribution_2006",
+  "title": "Retribution",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2205933",
+    "imdb": "tt0843302",
+    "tmdb": 46164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 104
+}

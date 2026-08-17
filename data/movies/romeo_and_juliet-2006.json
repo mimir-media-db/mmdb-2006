@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romeo_and_juliet_2006",
+  "title": "Romeo and Juliet",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3441351",
+    "imdb": "tt0816631",
+    "tmdb": 206863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

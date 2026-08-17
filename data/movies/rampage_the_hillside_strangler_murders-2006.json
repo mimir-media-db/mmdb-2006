@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rampage_the_hillside_strangler_murders_2006",
+  "title": "Rampage: The Hillside Strangler Murders",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3418567",
+    "imdb": "tt0373900",
+    "tmdb": 19849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}
