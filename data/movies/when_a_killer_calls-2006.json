@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_a_killer_calls_2006",
+  "title": "When a Killer Calls",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4019391",
+    "imdb": "tt0490798",
+    "tmdb": 79027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_marshall_2006",
+  "title": "We Are Marshall",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1192874",
+    "imdb": "tt0758794",
+    "tmdb": 11170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 124
+}

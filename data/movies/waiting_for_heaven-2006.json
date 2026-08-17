@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waiting_for_heaven_2006",
+  "title": "Waiting for Heaven",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6099129",
+    "imdb": "tt0782032",
+    "tmdb": 47978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wallander_luftslottet_2006",
+  "title": "Wallander – Luftslottet",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1768996",
+    "imdb": "tt0840030",
+    "tmdb": 289330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}
