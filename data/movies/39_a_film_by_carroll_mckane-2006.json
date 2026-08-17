@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_39_a_film_by_carroll_mckane_2006",
+  "title": "39: A Film by Carroll McKane",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4636102",
+    "imdb": "tt0488929",
+    "tmdb": 443114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

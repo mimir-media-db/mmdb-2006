@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_36_china_town_2006",
+  "title": "36 China Town",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q227520",
+    "imdb": "tt0477252",
+    "tmdb": 20145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 135
+}
