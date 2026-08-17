@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pachchak_kuthira_2006",
+  "title": "Pachchak Kuthira",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7121992",
+    "imdb": "tt6750544",
+    "tmdb": 80230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

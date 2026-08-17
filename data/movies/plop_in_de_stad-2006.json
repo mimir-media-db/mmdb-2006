@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plop_in_de_stad_2006",
+  "title": "Plop in de stad",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2177944",
+    "imdb": "tt0824383",
+    "tmdb": 37064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-13",
+  "runtime_minutes": 65
+}

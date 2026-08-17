@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_poisson_davril_2006",
+  "title": "Poisson d'Avril",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79999030"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

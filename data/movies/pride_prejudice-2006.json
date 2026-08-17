@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pride_prejudice_2006",
+  "title": "Pride & Prejudice",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q270385",
+    "imdb": "tt0414387",
+    "tmdb": 4348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-18",
+  "runtime_minutes": 127
+}

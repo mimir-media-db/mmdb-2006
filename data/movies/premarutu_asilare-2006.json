@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_premarutu_asilare_2006",
+  "title": "Premarutu Asilare",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15724700",
+    "imdb": "tt1440270"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

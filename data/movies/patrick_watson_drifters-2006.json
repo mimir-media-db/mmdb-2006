@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_patrick_watson_drifters_2006",
+  "title": "Patrick Watson: Drifters",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59618612"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 4
+}

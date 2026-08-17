@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_past_na_jeziska_2006",
+  "title": "Past na Ježíška",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140971101",
+    "imdb": "tt0927631",
+    "tmdb": 798943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 14
+}

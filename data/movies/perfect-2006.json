@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_2006",
+  "title": "Perfect",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600313",
+    "imdb": "tt1505377"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

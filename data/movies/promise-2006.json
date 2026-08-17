@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_promise_2006",
+  "title": "The Promise",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q611370",
+    "imdb": "tt0417976",
+    "tmdb": 2008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-27",
+  "runtime_minutes": 103
+}

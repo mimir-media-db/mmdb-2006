@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piter_fm_2006",
+  "title": "Piter FM",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4363837",
+    "imdb": "tt0813541",
+    "tmdb": 64736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-20",
+  "runtime_minutes": 84
+}

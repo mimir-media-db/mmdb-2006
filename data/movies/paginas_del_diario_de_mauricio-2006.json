@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paginas_del_diario_de_mauricio_2006",
+  "title": "Páginas del diario de Mauricio",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19999766",
+    "imdb": "tt0797050",
+    "tmdb": 430477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 135
+}

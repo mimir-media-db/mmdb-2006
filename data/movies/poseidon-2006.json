@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poseidon_2006",
+  "title": "Poseidon",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q906633",
+    "imdb": "tt0409182",
+    "tmdb": 503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-12",
+  "runtime_minutes": 99
+}

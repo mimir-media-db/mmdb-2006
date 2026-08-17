@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pacquiao_the_movie_2006",
+  "title": "Pacquiao: The Movie",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7123109",
+    "imdb": "tt0820987",
+    "tmdb": 43156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 109
+}

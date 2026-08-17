@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_palunku_2006",
+  "title": "Palunku",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7128845",
+    "imdb": "tt0867396",
+    "tmdb": 238473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-22"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_play_your_own_thing_a_story_of_jazz_in_europe_2006",
+  "title": "Play Your Own Thing: A Story of Jazz in Europe",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23727103",
+    "imdb": "tt0835495",
+    "tmdb": 502775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-02"
+}

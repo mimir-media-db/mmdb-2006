@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pusher_ii_2006",
+  "title": "Pusher II",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1126097",
+    "imdb": "tt0396184",
+    "tmdb": 11328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-18",
+  "runtime_minutes": 100
+}
