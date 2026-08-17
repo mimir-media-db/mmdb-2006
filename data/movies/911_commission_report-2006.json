@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_911_commission_report_2006",
+  "title": "The 9/11 Commission Report",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2390900",
+    "imdb": "tt0840272",
+    "tmdb": 136469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}
