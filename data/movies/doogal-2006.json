@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doogal_2006",
+  "title": "Doogal",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187329",
+    "imdb": "tt0763304",
+    "tmdb": 24432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-24",
+  "runtime_minutes": 85
+}

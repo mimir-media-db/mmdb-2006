@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_poe_2006",
+  "title": "The Death of Poe",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7729448",
+    "imdb": "tt0430001",
+    "tmdb": 47111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_hochstapler_2006",
+  "title": "Die Hochstapler",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62062585",
+    "imdb": "tt0968279",
+    "tmdb": 120127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-19",
+  "runtime_minutes": 84
+}

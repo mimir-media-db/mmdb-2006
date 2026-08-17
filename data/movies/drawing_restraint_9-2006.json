@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drawing_restraint_9_2006",
+  "title": "Drawing Restraint 9",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q284891",
+    "imdb": "tt0446685",
+    "tmdb": 34787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-06-08",
+  "runtime_minutes": 135
+}

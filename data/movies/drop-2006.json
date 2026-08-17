@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drop_2006",
+  "title": "The Drop",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57979581",
+    "imdb": "tt0340084",
+    "tmdb": 69113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

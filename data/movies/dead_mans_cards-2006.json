@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_mans_cards_2006",
+  "title": "Dead Man's Cards",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5245264",
+    "imdb": "tt0455933",
+    "tmdb": 13718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-15",
+  "runtime_minutes": 110
+}

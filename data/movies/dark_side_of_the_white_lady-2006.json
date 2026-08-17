@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_side_of_the_white_lady_2006",
+  "title": "The Dark Side of the White Lady",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123402681",
+    "imdb": "tt12077240"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-02",
+  "runtime_minutes": 52
+}

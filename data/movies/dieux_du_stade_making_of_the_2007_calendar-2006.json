@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dieux_du_stade_making_of_the_2007_calendar_2006",
+  "title": "Dieux du Stade: Making of the 2007 Calendar",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61951270",
+    "imdb": "tt0929254",
+    "tmdb": 464783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-27",
+  "runtime_minutes": 120
+}

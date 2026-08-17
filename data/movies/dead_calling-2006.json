@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_calling_2006",
+  "title": "A Dead Calling",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17593293",
+    "imdb": "tt0879801",
+    "tmdb": 58782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-12",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_da_vinci_code_2006",
+  "title": "The Da Vinci Code",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q160560",
+    "imdb": "tt0382625",
+    "tmdb": 591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-17",
+  "runtime_minutes": 149
+}

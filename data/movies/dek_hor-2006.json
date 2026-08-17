@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dek_hor_2006",
+  "title": "Dek hor",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q385399",
+    "imdb": "tt0495824",
+    "tmdb": 21766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-23",
+  "runtime_minutes": 105
+}

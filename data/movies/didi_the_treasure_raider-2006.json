@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_didi_the_treasure_raider_2006",
+  "title": "Didi, the Treasure Raider",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168797",
+    "imdb": "tt0497900",
+    "tmdb": 243463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 84
+}
