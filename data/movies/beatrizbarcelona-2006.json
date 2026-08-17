@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beatrizbarcelona_2006",
+  "title": "Beatriz/Barcelona",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5724074",
+    "imdb": "tt0809411",
+    "tmdb": 110229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bella_2006",
+  "title": "Bella",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q815759",
+    "imdb": "tt0482463",
+    "tmdb": 12586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barin_2006",
+  "title": "Barin",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4078225",
+    "imdb": "tt1446036",
+    "tmdb": 199129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 102
+}

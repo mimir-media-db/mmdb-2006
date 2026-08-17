@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boog_and_elliots_midnight_bun_run_2006",
+  "title": "Boog and Elliot's Midnight Bun Run",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2910415",
+    "imdb": "tt0937390",
+    "tmdb": 71430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 4
+}

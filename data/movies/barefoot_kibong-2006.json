@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barefoot_kibong_2006",
+  "title": "Barefoot Ki-bong",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4860354",
+    "imdb": "tt0845477",
+    "tmdb": 60024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

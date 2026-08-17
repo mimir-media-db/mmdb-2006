@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bug_and_a_bag_of_weed_2006",
+  "title": "A Bug and a Bag of Weed",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2819665",
+    "imdb": "tt0466365",
+    "tmdb": 31735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

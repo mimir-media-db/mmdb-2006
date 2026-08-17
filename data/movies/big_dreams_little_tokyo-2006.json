@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_dreams_little_tokyo_2006",
+  "title": "Big Dreams Little Tokyo",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4905600",
+    "imdb": "tt0486554",
+    "tmdb": 17326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

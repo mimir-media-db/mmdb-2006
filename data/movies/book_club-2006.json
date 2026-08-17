@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_club_2006",
+  "title": "The Book Club",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4224710",
+    "imdb": "tt1135963",
+    "tmdb": 125255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 78
+}

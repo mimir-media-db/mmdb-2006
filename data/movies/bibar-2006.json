@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bibar_2006",
+  "title": "Bibar",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4902950",
+    "imdb": "tt1397496",
+    "tmdb": 658483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_guns_2006",
+  "title": "Big Guns",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4905787",
+    "imdb": "tt0818476",
+    "tmdb": 749754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

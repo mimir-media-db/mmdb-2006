@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bilin_my_love_2006",
+  "title": "Bilin My Love",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6794829",
+    "imdb": "tt1334581",
+    "tmdb": 5087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

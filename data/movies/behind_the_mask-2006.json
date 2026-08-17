@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_mask_2006",
+  "title": "Behind the Mask",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2572033",
+    "imdb": "tt1031215",
+    "tmdb": 90793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 73
+}

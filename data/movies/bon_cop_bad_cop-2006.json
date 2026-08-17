@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bon_cop_bad_cop_2006",
+  "title": "Bon Cop, Bad Cop",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q892035",
+    "imdb": "tt0479647",
+    "tmdb": 15049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 116
+}

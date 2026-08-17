@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bring_it_on_all_or_nothing_2006",
+  "title": "Bring It On: All or Nothing",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q908982",
+    "imdb": "tt0490822",
+    "tmdb": 11211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 99
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boytown_2006",
+  "title": "BoyTown",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4952040",
+    "imdb": "tt0472615",
+    "tmdb": 19271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

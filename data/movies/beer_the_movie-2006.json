@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beer_the_movie_2006",
+  "title": "Beer: The Movie",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4879936",
+    "imdb": "tt0810769",
+    "tmdb": 724426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

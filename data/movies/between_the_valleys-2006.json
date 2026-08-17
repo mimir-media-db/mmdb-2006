@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_between_the_valleys_2006",
+  "title": "Between the Valleys",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2903876",
+    "imdb": "tt11257138",
+    "tmdb": 1045549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

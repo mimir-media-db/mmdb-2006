@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_love_2006",
+  "title": "Boys Love",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2761746",
+    "imdb": "tt1235414",
+    "tmdb": 73517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 88
+}
