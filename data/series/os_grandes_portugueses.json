@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_os_grandes_portugueses",
+  "title": "Os Grandes Portugueses",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q839154"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

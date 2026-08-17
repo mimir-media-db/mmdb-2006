@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_over_mijn_lijk",
+  "title": "Over mijn lijk",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2361311",
+    "imdb": "tt0828943",
+    "tmdb": 25377
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 14
+}

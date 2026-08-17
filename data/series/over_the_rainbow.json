@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_over_the_rainbow",
+  "title": "Over the Rainbow",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q493820",
+    "imdb": "tt0978127",
+    "tmdb": 14273
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

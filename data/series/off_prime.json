@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_off_prime",
+  "title": "Off Prime",
+  "start_year": 2005,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q3349502",
+    "imdb": "tt1002918",
+    "tmdb": 71972
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

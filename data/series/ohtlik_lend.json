@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ohtlik_lend",
+  "title": "Ohtlik lend",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q12371341",
+    "imdb": "tt0876246",
+    "tmdb": 279336
+  },
+  "last_updated": "2026-08-17"
+}

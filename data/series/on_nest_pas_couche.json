@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_on_nest_pas_couche",
+  "title": "On n'est pas couché",
+  "start_year": 2006,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q2023660",
+    "imdb": "tt0872057",
+    "tmdb": 46249
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 310
+}

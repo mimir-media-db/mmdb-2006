@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_on_the_road",
+  "title": "On the Road",
+  "start_year": 2006,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q12039550",
+    "imdb": "tt19120996",
+    "tmdb": 37496
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 587
+}
