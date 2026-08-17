@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knocking_2006",
+  "title": "Knocking",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q897294",
+    "imdb": "tt0479939",
+    "tmdb": 133091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 64
+}

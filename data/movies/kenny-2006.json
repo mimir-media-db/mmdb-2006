@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kenny_2006",
+  "title": "Kenny",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6390950",
+    "imdb": "tt0822389",
+    "tmdb": 13140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 99
+}

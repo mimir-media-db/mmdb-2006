@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kudiyon_ka_hai_zamana_2006",
+  "title": "Kudiyon Ka Hai Zamana",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6441713",
+    "imdb": "tt0857385",
+    "tmdb": 272222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

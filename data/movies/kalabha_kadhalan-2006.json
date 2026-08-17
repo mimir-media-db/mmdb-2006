@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalabha_kadhalan_2006",
+  "title": "Kalabha Kadhalan",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6350020",
+    "imdb": "tt2325785",
+    "tmdb": 224932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

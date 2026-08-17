@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kreutzer_sonata_what_is_love_2006",
+  "title": "The Kreutzer Sonata: What is Love?",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3926687",
+    "imdb": "tt0839960",
+    "tmdb": 65254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 97
+}

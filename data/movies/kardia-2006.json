@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kardia_2006",
+  "title": "Kardia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6369140",
+    "imdb": "tt0453376",
+    "tmdb": 57819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

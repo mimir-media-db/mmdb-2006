@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keloglan_karaprense_karsi_2006",
+  "title": "Keloglan Karaprens'e Karsi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6092795",
+    "imdb": "tt0470833",
+    "tmdb": 31387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 105
+}

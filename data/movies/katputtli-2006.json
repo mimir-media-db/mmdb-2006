@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_katputtli_2006",
+  "title": "Katputtli",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6377835",
+    "imdb": "tt3638428",
+    "tmdb": 463320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 119
+}

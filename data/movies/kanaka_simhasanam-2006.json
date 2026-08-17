@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kanaka_simhasanam_2006",
+  "title": "Kanaka Simhasanam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6360384",
+    "imdb": "tt0924232",
+    "tmdb": 472663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_klunkerz_a_film_about_mountain_bikes_2006",
+  "title": "Klunkerz: A Film About Mountain Bikes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6421506",
+    "imdb": "tt0907856",
+    "tmdb": 168853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 83
+}

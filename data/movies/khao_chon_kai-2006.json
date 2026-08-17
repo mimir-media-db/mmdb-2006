@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khao_chon_kai_2006",
+  "title": "Khao Chon Kai",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6400442",
+    "imdb": "tt0926209",
+    "tmdb": 758682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kabhi_alvida_naa_kehna_2006",
+  "title": "Kabhi Alvida Naa Kehna",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q865989",
+    "imdb": "tt0449999",
+    "tmdb": 14395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 193
+}

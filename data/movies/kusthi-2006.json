@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kusthi_2006",
+  "title": "Kusthi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6448172",
+    "imdb": "tt14650970",
+    "tmdb": 78412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

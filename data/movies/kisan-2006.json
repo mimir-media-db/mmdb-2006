@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kisan_2006",
+  "title": "Kisan",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6416391",
+    "imdb": "tt9855214",
+    "tmdb": 279530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

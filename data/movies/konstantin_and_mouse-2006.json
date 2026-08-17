@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_konstantin_and_mouse_2006",
+  "title": "Konstantin and Mouse",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4235720",
+    "imdb": "tt0932537"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 65
+}
