@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yam_roll",
+  "title": "Yam Roll",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q8047559",
+    "imdb": "tt0756605",
+    "tmdb": 27177
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 39
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yo_soy_bea",
+  "title": "Yo soy Bea",
+  "start_year": 2006,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q1703401",
+    "imdb": "tt0824262",
+    "tmdb": 7769
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 769
+}
