@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4_elements_2006",
+  "title": "4 Elements",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2123847",
+    "imdb": "tt0879220",
+    "tmdb": 86077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 89
+}
