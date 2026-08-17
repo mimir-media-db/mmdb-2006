@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_je_suis_une_celebrite_sortezmoi_de_la",
+  "title": "Je suis une célébrité, sortez-moi de là !",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q16151583",
+    "imdb": "tt0792566",
+    "tmdb": 34615
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

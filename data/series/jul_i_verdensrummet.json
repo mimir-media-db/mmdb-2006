@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jul_i_verdensrummet",
+  "title": "Jul i verdensrummet",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q12320412",
+    "imdb": "tt0926179",
+    "tmdb": 113904
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}
