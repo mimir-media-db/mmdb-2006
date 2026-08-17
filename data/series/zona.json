@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_zona",
+  "title": "Zona",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q16654417",
+    "imdb": "tt0806000",
+    "tmdb": 157521
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}
