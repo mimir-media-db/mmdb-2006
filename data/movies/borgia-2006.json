@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_borgia_2006",
+  "title": "The Borgia",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q947338",
+    "imdb": "tt0482473",
+    "tmdb": 15941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-06",
+  "runtime_minutes": 139
+}

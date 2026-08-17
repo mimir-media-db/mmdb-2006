@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bienvenido_paisano_2006",
+  "title": "Bienvenido Paisano",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61862370",
+    "imdb": "tt0473449",
+    "tmdb": 297948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

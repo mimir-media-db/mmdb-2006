@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_round_dance_2006",
+  "title": "Berlin Round Dance",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16054634",
+    "imdb": "tt1178641",
+    "tmdb": 458786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

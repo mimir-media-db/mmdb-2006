@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blast_2006",
+  "title": "Blast",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q882028",
+    "imdb": "tt0361399",
+    "tmdb": 24775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-05",
+  "runtime_minutes": 92
+}

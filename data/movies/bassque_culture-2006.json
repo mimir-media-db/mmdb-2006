@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bassque_culture_2006",
+  "title": "Bass-que culture",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91874262"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}

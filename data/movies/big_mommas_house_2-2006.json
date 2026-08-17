@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_mommas_house_2_2006",
+  "title": "Big Momma's House 2",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q859084",
+    "imdb": "tt0421729",
+    "tmdb": 11565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-27",
+  "runtime_minutes": 99
+}

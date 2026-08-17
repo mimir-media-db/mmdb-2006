@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bob_the_builder_built_to_be_wild_2006",
+  "title": "Bob the Builder: Built to Be Wild",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128601202",
+    "imdb": "tt3532208",
+    "tmdb": 255851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 57
+}

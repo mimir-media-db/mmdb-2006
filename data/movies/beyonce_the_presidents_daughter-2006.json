@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyonce_the_presidents_daughter_2006",
+  "title": "Beyonce: The President's Daughter",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130543800",
+    "imdb": "tt1112809",
+    "tmdb": 638430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

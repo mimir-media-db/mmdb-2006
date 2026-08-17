@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_balloon_club_revisited_2006",
+  "title": "Balloon Club Revisited",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11548094",
+    "imdb": "tt0889611",
+    "tmdb": 322853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-23"
+}

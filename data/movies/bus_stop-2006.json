@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bus_stop_2006",
+  "title": "Bus Stop",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85979580",
+    "tmdb": 466728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

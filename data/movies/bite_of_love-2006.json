@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bite_of_love_2006",
+  "title": "A Bite of Love",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16499935",
+    "imdb": "tt0495846",
+    "tmdb": 251102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_building_the_gherkin_2006",
+  "title": "Building The Gherkin",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15790197",
+    "imdb": "tt0831278",
+    "tmdb": 357857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 89
+}

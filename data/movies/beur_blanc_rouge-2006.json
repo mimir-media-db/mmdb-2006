@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beur_blanc_rouge_2006",
+  "title": "Beur Blanc Rouge",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2900309",
+    "imdb": "tt0435794",
+    "tmdb": 42913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-17"
+}

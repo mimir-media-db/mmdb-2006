@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_borat_2006",
+  "title": "Borat",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q186323",
+    "imdb": "tt0443453",
+    "tmdb": 496
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-04",
+  "runtime_minutes": 84
+}

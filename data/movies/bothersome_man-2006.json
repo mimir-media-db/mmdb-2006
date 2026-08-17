@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bothersome_man_2006",
+  "title": "The Bothersome Man",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q490588",
+    "imdb": "tt0808185",
+    "tmdb": 13318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-19",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bastards_2006",
+  "title": "Bastards",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1964131",
+    "imdb": "tt0460012",
+    "tmdb": 62678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-02-02",
+  "runtime_minutes": 97
+}

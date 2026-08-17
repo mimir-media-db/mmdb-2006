@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bacons_arena_2006",
+  "title": "Bacon's Arena",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113677910",
+    "imdb": "tt1179828",
+    "tmdb": 193694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}

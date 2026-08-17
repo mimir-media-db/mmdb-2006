@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_bridges_2006",
+  "title": "Broken Bridges",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q887621",
+    "imdb": "tt0477392",
+    "tmdb": 13842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-08",
+  "runtime_minutes": 105
+}

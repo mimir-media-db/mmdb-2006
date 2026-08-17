@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bye_bye_harry_2006",
+  "title": "Bye Bye Harry!",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718282",
+    "imdb": "tt0448076",
+    "tmdb": 90132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

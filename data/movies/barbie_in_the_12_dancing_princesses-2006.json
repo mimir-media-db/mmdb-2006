@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbie_in_the_12_dancing_princesses_2006",
+  "title": "Barbie in the 12 Dancing Princesses",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q807837",
+    "imdb": "tt0859594",
+    "tmdb": 13002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-19",
+  "runtime_minutes": 81
+}

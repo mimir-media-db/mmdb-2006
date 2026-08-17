@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bramble_during_the_summer_2006",
+  "title": "Bramble, During the Summer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4235740",
+    "imdb": "tt1814655",
+    "tmdb": 64200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-09",
+  "runtime_minutes": 96
+}

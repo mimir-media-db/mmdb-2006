@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brokeback_mountain_2006",
+  "title": "Brokeback Mountain",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q160618",
+    "imdb": "tt0388795",
+    "tmdb": 142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-06",
+  "runtime_minutes": 134
+}

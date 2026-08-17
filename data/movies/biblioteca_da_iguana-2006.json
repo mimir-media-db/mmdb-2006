@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_biblioteca_da_iguana_2006",
+  "title": "A biblioteca da iguana",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12382267",
+    "imdb": "tt0472511",
+    "tmdb": 510046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-21",
+  "runtime_minutes": 70
+}

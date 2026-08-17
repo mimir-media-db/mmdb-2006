@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_basic_instinct_2_2006",
+  "title": "Basic Instinct 2",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q810012",
+    "imdb": "tt0430912",
+    "tmdb": 3093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-30",
+  "runtime_minutes": 111
+}
