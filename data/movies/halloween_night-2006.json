@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_halloween_night_2006",
+  "title": "Halloween Night",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2478193",
+    "imdb": "tt0848587",
+    "tmdb": 36675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

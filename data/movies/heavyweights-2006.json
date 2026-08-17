@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heavyweights_2006",
+  "title": "Heavyweights",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1744313",
+    "imdb": "tt0780134",
+    "tmdb": 13914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_harabati_2006",
+  "title": "Hotel Harabati",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3020457",
+    "imdb": "tt0436216",
+    "tmdb": 80326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 95
+}

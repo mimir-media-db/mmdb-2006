@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hey_good_looking_2006",
+  "title": "Hey Good Looking!",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2986048",
+    "imdb": "tt0469055",
+    "tmdb": 18607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

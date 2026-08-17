@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hate_2_o_2006",
+  "title": "Hate 2 O",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3780363",
+    "imdb": "tt0765815",
+    "tmdb": 29579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 88
+}

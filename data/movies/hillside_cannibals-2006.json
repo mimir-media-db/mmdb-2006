@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hillside_cannibals_2006",
+  "title": "Hillside Cannibals",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2040506",
+    "imdb": "tt0494712",
+    "tmdb": 103433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 83
+}

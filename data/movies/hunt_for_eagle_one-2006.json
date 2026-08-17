@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunt_for_eagle_one_2006",
+  "title": "The Hunt for Eagle One",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2357390",
+    "imdb": "tt0486597",
+    "tmdb": 18819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 88
+}

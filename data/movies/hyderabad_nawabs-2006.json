@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hyderabad_nawabs_2006",
+  "title": "Hyderabad Nawabs",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5953922",
+    "imdb": "tt2449318",
+    "tmdb": 360168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

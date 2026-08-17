@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_humko_deewana_kar_gaye_2006",
+  "title": "Humko Deewana Kar Gaye",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1637089",
+    "imdb": "tt0444840",
+    "tmdb": 48569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 146
+}
