@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_xuxa_gemeas_2006",
+  "title": "Xuxa Gêmeas",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10394435",
+    "imdb": "tt0936504",
+    "tmdb": 268702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 81
+}
