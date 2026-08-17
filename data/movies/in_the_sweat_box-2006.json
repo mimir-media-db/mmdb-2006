@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_sweat_box_2006",
+  "title": "In the Sweat Box",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1659459",
+    "imdb": "tt0431135",
+    "tmdb": 85622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-30",
+  "runtime_minutes": 95
+}

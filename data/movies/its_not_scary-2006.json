@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_its_not_scary_2006",
+  "title": "It’s not scary",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120109939",
+    "imdb": "tt3552266",
+    "tmdb": 817342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 28
+}

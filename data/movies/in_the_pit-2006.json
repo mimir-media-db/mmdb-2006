@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_pit_2006",
+  "title": "In the Pit",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6012743",
+    "imdb": "tt0492464",
+    "tmdb": 57702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-09",
+  "runtime_minutes": 80
+}

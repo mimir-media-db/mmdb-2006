@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_instinkt_2006",
+  "title": "Instinkt",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33541620",
+    "imdb": "tt0824349"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 15
+}

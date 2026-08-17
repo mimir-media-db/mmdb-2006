@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_idiocracy_2006",
+  "title": "Idiocracy",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1347609",
+    "imdb": "tt0387808",
+    "tmdb": 7512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-01",
+  "runtime_minutes": 84
+}

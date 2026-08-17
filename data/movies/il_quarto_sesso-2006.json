@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_il_quarto_sesso_2006",
+  "title": "Il quarto sesso",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21186404",
+    "imdb": "tt0985661",
+    "tmdb": 267373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

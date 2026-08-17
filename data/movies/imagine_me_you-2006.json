@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imagine_me_you_2006",
+  "title": "Imagine Me & You",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q697155",
+    "imdb": "tt0421994",
+    "tmdb": 1544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-25",
+  "runtime_minutes": 90
+}

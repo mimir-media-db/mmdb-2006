@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_islander_2006",
+  "title": "Islander",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56345926",
+    "imdb": "tt0819723",
+    "tmdb": 113882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}

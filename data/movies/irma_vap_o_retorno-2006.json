@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_irma_vap_o_retorno_2006",
+  "title": "Irma Vap: O Retorno",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10303678",
+    "imdb": "tt0438916",
+    "tmdb": 68005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 70
+}

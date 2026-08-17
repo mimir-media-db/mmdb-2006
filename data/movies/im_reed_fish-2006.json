@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_reed_fish_2006",
+  "title": "I'm Reed Fish",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1917935",
+    "imdb": "tt0464061",
+    "tmdb": 41044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-25",
+  "runtime_minutes": 90
+}

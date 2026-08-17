@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inquiry_2006",
+  "title": "The Inquiry",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1167685",
+    "imdb": "tt0491720",
+    "tmdb": 24365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-13"
+}

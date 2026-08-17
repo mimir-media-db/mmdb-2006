@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_sproget_er_jeg_2006",
+  "title": "I sproget er jeg",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20493888",
+    "imdb": "tt2420906",
+    "tmdb": 1052585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 64
+}

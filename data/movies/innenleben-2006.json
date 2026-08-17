@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_innenleben_2006",
+  "title": "Innenleben",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32922503",
+    "imdb": "tt0857225"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 70
+}

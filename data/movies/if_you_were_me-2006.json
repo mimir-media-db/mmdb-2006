@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_if_you_were_me_2006",
+  "title": "If You Were Me",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28699153",
+    "imdb": "tt0757874",
+    "tmdb": 131818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-12"
+}
