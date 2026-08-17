@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_90_days_time_to_love",
+  "title": "90 Days, Time to Love",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q4645640",
+    "imdb": "tt0977891",
+    "tmdb": 13962
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}
