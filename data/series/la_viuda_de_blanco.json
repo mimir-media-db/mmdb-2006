@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_viuda_de_blanco",
+  "title": "La Viuda de Blanco",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1249058",
+    "imdb": "tt0790585",
+    "tmdb": 36850
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 158
+}

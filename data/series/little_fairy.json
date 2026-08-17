@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_little_fairy",
+  "title": "The Little Fairy",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q699070",
+    "imdb": "tt5870402",
+    "tmdb": 34627
+  },
+  "last_updated": "2026-08-17"
+}

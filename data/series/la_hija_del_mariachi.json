@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_hija_del_mariachi",
+  "title": "La Hija del Mariachi",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q11687901",
+    "imdb": "tt0496199",
+    "tmdb": 79699
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 129
+}

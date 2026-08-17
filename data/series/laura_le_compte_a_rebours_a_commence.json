@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_laura_le_compte_a_rebours_a_commence",
+  "title": "Laura, le compte à rebours a commencé",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3218655",
+    "imdb": "tt0806887",
+    "tmdb": 100377
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

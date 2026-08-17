@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lo_que_surja",
+  "title": "Lo que surja",
+  "start_year": 2005,
+  "end_year": 2009,
+  "external_ids": {
+    "wikidata": "Q3257583",
+    "imdb": "tt1376618",
+    "tmdb": 195423
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 19
+}

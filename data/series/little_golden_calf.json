@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_little_golden_calf",
+  "title": "The Little Golden Calf",
+  "start_year": 2005,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q4193552",
+    "imdb": "tt0417381",
+    "tmdb": 75260
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

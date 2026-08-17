@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lewis",
+  "title": "Lewis",
+  "start_year": 2006,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q2523064",
+    "imdb": "tt0874608",
+    "tmdb": 2343
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 33
+}

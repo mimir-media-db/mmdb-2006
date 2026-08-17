@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_last_armoured_train",
+  "title": "The Last Armoured Train",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4373771",
+    "imdb": "tt0479620",
+    "tmdb": 130382
+  },
+  "last_updated": "2026-08-17"
+}

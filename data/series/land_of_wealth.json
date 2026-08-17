@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_land_of_wealth",
+  "title": "Land of Wealth",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q3472787",
+    "imdb": "tt0956085",
+    "tmdb": 109788
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

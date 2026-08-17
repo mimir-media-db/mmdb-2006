@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_love_truly",
+  "title": "Love Truly",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q625618",
+    "imdb": "tt0940631",
+    "tmdb": 12534
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 34
+}
