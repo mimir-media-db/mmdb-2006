@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tender_is_the_wolf_2006",
+  "title": "Tender is the wolf",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3518047",
+    "imdb": "tt1039980",
+    "tmdb": 61250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

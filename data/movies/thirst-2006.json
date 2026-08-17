@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thirst_2006",
+  "title": "The Thirst",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2294384",
+    "imdb": "tt0490527",
+    "tmdb": 55529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 88
+}

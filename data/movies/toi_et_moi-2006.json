@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toi_et_moi_2006",
+  "title": "Toi et moi",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3530418",
+    "imdb": "tt0460342",
+    "tmdb": 44886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

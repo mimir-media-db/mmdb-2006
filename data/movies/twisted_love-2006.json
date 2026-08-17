@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twisted_love_2006",
+  "title": "Twisted Love",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3542569",
+    "imdb": "tt0924509",
+    "tmdb": 260355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

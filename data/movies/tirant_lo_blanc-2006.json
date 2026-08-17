@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tirant_lo_blanc_2006",
+  "title": "Tirant lo Blanc",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2581918",
+    "imdb": "tt0448154",
+    "tmdb": 48737
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 122
+}
