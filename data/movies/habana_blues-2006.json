@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_habana_blues_2006",
+  "title": "Habana Blues",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1591464",
+    "imdb": "tt0441297",
+    "tmdb": 49256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-30",
+  "runtime_minutes": 110
+}

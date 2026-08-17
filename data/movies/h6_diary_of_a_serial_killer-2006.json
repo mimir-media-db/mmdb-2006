@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_h6_diary_of_a_serial_killer_2006",
+  "title": "H6: Diary of a Serial Killer",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1562686",
+    "imdb": "tt0455115",
+    "tmdb": 39928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-14",
+  "runtime_minutes": 92
+}

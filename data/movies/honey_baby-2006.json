@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honey_baby_2006",
+  "title": "Honey Baby",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4026963",
+    "imdb": "tt0322590",
+    "tmdb": 54766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-26",
+  "runtime_minutes": 103
+}

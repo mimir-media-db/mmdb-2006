@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hasila_sansara_bhangila_kie_2006",
+  "title": "Hasila Sansara Bhangila Kie",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49840296",
+    "imdb": "tt1458743"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

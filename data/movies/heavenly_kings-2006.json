@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heavenly_kings_2006",
+  "title": "The Heavenly Kings",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7739271",
+    "imdb": "tt0800362",
+    "tmdb": 231173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

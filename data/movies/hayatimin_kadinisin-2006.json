@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hayatimin_kadinisin_2006",
+  "title": "Hayatimin Kadinisin",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6070367",
+    "imdb": "tt0856789",
+    "tmdb": 350162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-24",
+  "runtime_minutes": 88
+}

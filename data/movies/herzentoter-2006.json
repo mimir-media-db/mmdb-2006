@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_herzentoter_2006",
+  "title": "Herzentöter",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50414019",
+    "imdb": "tt0965553",
+    "tmdb": 413074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

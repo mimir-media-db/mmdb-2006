@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hi_way_2006",
+  "title": "Hi way",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9291938",
+    "imdb": "tt0794290",
+    "tmdb": 60153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-03"
+}

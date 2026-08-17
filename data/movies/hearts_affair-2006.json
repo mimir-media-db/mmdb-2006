@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hearts_affair_2006",
+  "title": "Heart's Affair",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12759663",
+    "imdb": "tt0361786",
+    "tmdb": 112413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

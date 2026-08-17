@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hecuba_un_sueno_de_pasion_2006",
+  "title": "Hécuba, un sueño de pasión",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91357619",
+    "imdb": "tt0862714",
+    "tmdb": 335410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-09",
+  "runtime_minutes": 82
+}

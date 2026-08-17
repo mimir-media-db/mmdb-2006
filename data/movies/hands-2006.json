@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hands_2006",
+  "title": "The Hands",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5971170",
+    "imdb": "tt0489751",
+    "tmdb": 127326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-08-10",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_holly_hobbie_and_friends_surprise_party_2006",
+  "title": "Holly Hobbie and Friends: Surprise Party",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12124801",
+    "tmdb": 132609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-07"
+}

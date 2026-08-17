@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hearty_paws_2006",
+  "title": "Hearty Paws",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4189107",
+    "imdb": "tt1710565",
+    "tmdb": 154326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-10-25"
+}

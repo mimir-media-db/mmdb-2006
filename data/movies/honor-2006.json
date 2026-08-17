@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honor_2006",
+  "title": "Honor",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3140167",
+    "imdb": "tt0481544",
+    "tmdb": 48812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-29",
+  "runtime_minutes": 87
+}

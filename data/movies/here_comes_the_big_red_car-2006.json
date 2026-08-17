@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_here_comes_the_big_red_car_2006",
+  "title": "Here Comes the Big Red Car",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110449513",
+    "imdb": "tt1789961",
+    "tmdb": 18981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

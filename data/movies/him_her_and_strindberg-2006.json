@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_him_her_and_strindberg_2006",
+  "title": "Him, Her and Strindberg",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495679",
+    "imdb": "tt0805541",
+    "tmdb": 199922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-03",
+  "runtime_minutes": 79
+}

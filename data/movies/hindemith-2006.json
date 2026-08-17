@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hindemith_2006",
+  "title": "Hindemith",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12298069",
+    "imdb": "tt0853186",
+    "tmdb": 651643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

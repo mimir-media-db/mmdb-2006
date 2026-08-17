@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haru_no_ibasho_2006",
+  "title": "Haru no ibasho",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11513353",
+    "imdb": "tt1603845",
+    "tmdb": 586678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

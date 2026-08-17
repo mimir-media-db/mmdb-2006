@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_2006",
+  "title": "Heart",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5691833",
+    "imdb": "tt1059929",
+    "tmdb": 405504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-11",
+  "runtime_minutes": 125
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_is_burning_2006",
+  "title": "The House Is Burning",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7740516",
+    "imdb": "tt0469104",
+    "tmdb": 12240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 97
+}

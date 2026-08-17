@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hostel_dissected_2006",
+  "title": "Hostel Dissected",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15816017",
+    "imdb": "tt0497383",
+    "tmdb": 533670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 60
+}

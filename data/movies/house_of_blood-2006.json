@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_blood_2006",
+  "title": "House of Blood",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1059059",
+    "imdb": "tt0460742",
+    "tmdb": 40465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-04",
+  "runtime_minutes": 105
+}
