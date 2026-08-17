@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_x_factor",
+  "title": "X Factor",
+  "start_year": 2006,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2060916",
+    "imdb": "tt0892254",
+    "tmdb": 18311
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 35
+}
