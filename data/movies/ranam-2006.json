@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ranam_2006",
+  "title": "Ranam",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13007513",
+    "imdb": "tt0864977",
+    "tmdb": 80922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

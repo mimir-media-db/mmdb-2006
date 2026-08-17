@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rage_de_dents_2006",
+  "title": "Rage de dents",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21009320",
+    "imdb": "tt0840014",
+    "tmdb": 1069207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

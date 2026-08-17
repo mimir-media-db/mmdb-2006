@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_riot_or_revolution_eureka_stockade_1854_2006",
+  "title": "Riot or Revolution: Eureka Stockade 1854",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127788311",
+    "imdb": "tt0979937",
+    "tmdb": 132965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 52
+}

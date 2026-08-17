@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reunion_2006",
+  "title": "Reunion",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63344925",
+    "imdb": "tt0765471",
+    "tmdb": 281526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 110
+}

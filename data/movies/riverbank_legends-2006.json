@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_riverbank_legends_2006",
+  "title": "Riverbank Legends",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16188134",
+    "imdb": "tt0902964",
+    "tmdb": 40114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rape_of_europa_2006",
+  "title": "The Rape of Europa",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27957826",
+    "imdb": "tt0997088",
+    "tmdb": 22905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-12",
+  "runtime_minutes": 117
+}

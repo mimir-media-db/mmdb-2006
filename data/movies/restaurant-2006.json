@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_restaurant_2006",
+  "title": "Restaurant",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12763567",
+    "imdb": "tt0984107",
+    "tmdb": 1092277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

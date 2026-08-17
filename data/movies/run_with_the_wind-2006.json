@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_run_with_the_wind_2006",
+  "title": "Run with the Wind",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11069346",
+    "imdb": "tt1517476",
+    "tmdb": 184813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-21"
+}

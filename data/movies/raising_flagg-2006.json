@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raising_flagg_2006",
+  "title": "Raising Flagg",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7285147",
+    "imdb": "tt0302498",
+    "tmdb": 18534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rauchzeichen_2006",
+  "title": "Rauchzeichen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23662241",
+    "imdb": "tt0495749",
+    "tmdb": 295792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-15",
+  "runtime_minutes": 125
+}

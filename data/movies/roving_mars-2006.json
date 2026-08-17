@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roving_mars_2006",
+  "title": "Roving Mars",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4217155",
+    "imdb": "tt0436595",
+    "tmdb": 18085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-27",
+  "runtime_minutes": 40
+}

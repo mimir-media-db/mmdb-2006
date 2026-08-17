@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reign_of_the_fallen_2006",
+  "title": "Reign of the Fallen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7310110",
+    "imdb": "tt0937419",
+    "tmdb": 1743979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

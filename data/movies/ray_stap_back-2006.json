@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ray_stap_back_2006",
+  "title": "Ray sTAP BACK",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41615755",
+    "imdb": "tt1247803"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-08"
+}
