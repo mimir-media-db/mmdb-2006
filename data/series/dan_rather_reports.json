@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dan_rather_reports",
+  "title": "Dan Rather Reports",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5214251",
+    "imdb": "tt0837293",
+    "tmdb": 20039
+  },
+  "last_updated": "2026-08-17"
+}

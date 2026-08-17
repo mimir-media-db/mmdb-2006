@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_doce_fugitiva",
+  "title": "Doce Fugitiva",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q5287164",
+    "imdb": "tt0887810",
+    "tmdb": 7110
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 282
+}

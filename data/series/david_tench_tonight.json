@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_david_tench_tonight",
+  "title": "David Tench Tonight",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q5240307",
+    "imdb": "tt0859270",
+    "tmdb": 3573
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

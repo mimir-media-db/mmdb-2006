@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_deal",
+  "title": "The Deal",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3269716",
+    "imdb": "tt1010306"
+  },
+  "last_updated": "2026-08-17"
+}

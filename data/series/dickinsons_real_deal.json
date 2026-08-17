@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dickinsons_real_deal",
+  "title": "Dickinson's Real Deal",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5273714",
+    "imdb": "tt0891374",
+    "tmdb": 3648
+  },
+  "last_updated": "2026-08-17"
+}

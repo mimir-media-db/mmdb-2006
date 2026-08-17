@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_das_perfekte_dinner",
+  "title": "Das perfekte Dinner",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56261053",
+    "imdb": "tt1448074",
+    "tmdb": 127163
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2763
+}

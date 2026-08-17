@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_zhivago",
+  "title": "Doctor Zhivago",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4164290",
+    "imdb": "tt0417319",
+    "tmdb": 22636
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

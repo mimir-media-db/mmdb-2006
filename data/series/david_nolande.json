@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_david_nolande",
+  "title": "David Nolande",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3018537",
+    "imdb": "tt0892518",
+    "tmdb": 37426
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

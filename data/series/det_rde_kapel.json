@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_det_rde_kapel",
+  "title": "Det Røde Kapel",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5265489",
+    "imdb": "tt1104746",
+    "tmdb": 6354
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}
