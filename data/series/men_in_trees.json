@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_men_in_trees",
+  "title": "Men in Trees",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q1635530",
+    "imdb": "tt0805664",
+    "tmdb": 1757
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 36
+}

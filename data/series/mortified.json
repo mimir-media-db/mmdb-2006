@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mortified",
+  "title": "Mortified",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1315853",
+    "imdb": "tt0495020",
+    "tmdb": 5257
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

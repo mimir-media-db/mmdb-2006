@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_madan_senki_ryukendo",
+  "title": "Madan Senki Ryukendo",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q1377015",
+    "imdb": "tt1139655",
+    "tmdb": 2044
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

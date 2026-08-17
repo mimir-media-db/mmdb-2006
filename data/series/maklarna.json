@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maklarna",
+  "title": "Mäklarna",
+  "start_year": 2006,
+  "end_year": 2005,
+  "external_ids": {
+    "wikidata": "Q10593122",
+    "imdb": "tt0888279",
+    "tmdb": 5849
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

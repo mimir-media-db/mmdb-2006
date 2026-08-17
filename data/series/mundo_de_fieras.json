@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mundo_de_fieras",
+  "title": "Mundo de Fieras",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q1247653",
+    "imdb": "tt0823357",
+    "tmdb": 204496
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 120
+}

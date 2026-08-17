@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mafiosa",
+  "title": "Mafiosa",
+  "start_year": 2006,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3276475",
+    "imdb": "tt0807686",
+    "tmdb": 28472
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 40
+}

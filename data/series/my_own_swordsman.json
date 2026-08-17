@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_own_swordsman",
+  "title": "My Own Swordsman",
+  "start_year": 2006,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11124390",
+    "imdb": "tt1353771",
+    "tmdb": 64709
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

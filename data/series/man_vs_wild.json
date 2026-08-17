@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_man_vs_wild",
+  "title": "Man vs. Wild",
+  "start_year": 2006,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q216867",
+    "imdb": "tt0883772",
+    "tmdb": 4709
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 72
+}

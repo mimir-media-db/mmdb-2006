@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mothern",
+  "title": "Mothern",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q10332665",
+    "imdb": "tt1021038",
+    "tmdb": 204815
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

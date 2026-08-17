@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_marina",
+  "title": "Marina",
+  "start_year": 2006,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q225879",
+    "imdb": "tt0928097",
+    "tmdb": 2838
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 169
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_master_of_champions",
+  "title": "Master of Champions",
+  "start_year": 2006,
+  "end_year": 2006,
+  "external_ids": {
+    "wikidata": "Q6785169",
+    "imdb": "tt0806893",
+    "tmdb": 2111
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_maggi_me",
+  "title": "Maggi & Me",
+  "start_year": 2006,
+  "end_year": 2008,
+  "external_ids": {
+    "wikidata": "Q6730140",
+    "imdb": "tt13130138",
+    "tmdb": 439
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

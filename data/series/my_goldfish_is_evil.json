@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_goldfish_is_evil",
+  "title": "My Goldfish Is Evil",
+  "start_year": 2005,
+  "end_year": 2007,
+  "external_ids": {
+    "wikidata": "Q3794743",
+    "imdb": "tt1589824",
+    "tmdb": 7256
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

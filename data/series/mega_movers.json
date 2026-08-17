@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mega_movers",
+  "title": "Mega Movers",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3043058",
+    "imdb": "tt0818406",
+    "tmdb": 34842
+  },
+  "last_updated": "2026-08-17"
+}
