@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eureka",
+  "title": "Eureka",
+  "start_year": 2006,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q614574",
+    "imdb": "tt0796264",
+    "tmdb": 4620
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 77
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_eden",
+  "title": "Eden",
+  "start_year": 2005,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q102390079",
+    "imdb": "tt0934719",
+    "tmdb": 23712
+  },
+  "last_updated": "2026-08-17"
+}
