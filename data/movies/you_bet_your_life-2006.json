@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_bet_your_life_2006",
+  "title": "You Bet Your Life",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57179587",
+    "imdb": "tt0469695",
+    "tmdb": 57263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-20",
+  "runtime_minutes": 98
+}

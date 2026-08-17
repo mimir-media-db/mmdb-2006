@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_am_i_2006",
+  "title": "You Am I",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8056836",
+    "imdb": "tt0811164",
+    "tmdb": 12681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

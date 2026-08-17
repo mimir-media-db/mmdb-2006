@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yuga_2006",
+  "title": "Yuga",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8060322",
+    "imdb": "tt13684186",
+    "tmdb": 79350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

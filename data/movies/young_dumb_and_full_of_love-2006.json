@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_dumb_and_full_of_love_2006",
+  "title": "Young, dumb and full of love",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115960998",
+    "imdb": "tt0481787",
+    "tmdb": 160237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 88
+}
