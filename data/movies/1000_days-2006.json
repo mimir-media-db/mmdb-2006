@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1000_days_2006",
+  "title": "1000 Days",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q164864",
+    "imdb": "tt1043615",
+    "tmdb": 242528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 44
+}
