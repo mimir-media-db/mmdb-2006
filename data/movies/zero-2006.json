@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zero_2006",
+  "title": "Zero",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12678912",
+    "imdb": "tt0968712",
+    "tmdb": 60867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 82
+}

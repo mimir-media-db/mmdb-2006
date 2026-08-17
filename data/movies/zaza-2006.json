@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zaza_2006",
+  "title": "Zaza",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12222029",
+    "imdb": "tt6448434",
+    "tmdb": 514118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-07-26"
+}

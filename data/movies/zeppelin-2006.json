@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zeppelin_2006",
+  "title": "Zeppelin!",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21035744",
+    "imdb": "tt0486679",
+    "tmdb": 438618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 106
+}
