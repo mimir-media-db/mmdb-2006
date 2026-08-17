@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quest_2006",
+  "title": "Quest",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7271433",
+    "imdb": "tt0846071",
+    "tmdb": 842905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}
