@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jimmy_della_collina_2006",
+  "title": "Jimmy della collina",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3808445",
+    "imdb": "tt0861781",
+    "tmdb": 226627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

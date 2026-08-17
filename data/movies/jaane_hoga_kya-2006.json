@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jaane_hoga_kya_2006",
+  "title": "Jaane Hoga Kya",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6109691",
+    "imdb": "tt0827714",
+    "tmdb": 226092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

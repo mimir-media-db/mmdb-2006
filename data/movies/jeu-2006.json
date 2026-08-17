@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeu_2006",
+  "title": "Jeu",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6189256",
+    "imdb": "tt0896544",
+    "tmdb": 256644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 4
+}

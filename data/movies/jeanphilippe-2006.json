@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeanphilippe_2006",
+  "title": "Jean-Philippe",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3168739",
+    "imdb": "tt0477988",
+    "tmdb": 13713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_john_schneiders_collier_co_hot_pursuit_2006",
+  "title": "John Schneider's Collier & Co. – Hot Pursuit",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6256909",
+    "imdb": "tt0828376",
+    "tmdb": 67202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

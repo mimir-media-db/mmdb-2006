@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jonestown_the_life_and_death_of_peoples_temple_2006",
+  "title": "Jonestown: The Life and Death of Peoples Temple",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6275420",
+    "imdb": "tt0762111",
+    "tmdb": 36676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}

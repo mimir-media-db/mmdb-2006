@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jatra_hyalagaad_re_tyalagaad_2006",
+  "title": "Jatra: Hyalagaad Re Tyalagaad",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6164662",
+    "imdb": "tt1634331",
+    "tmdb": 312597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

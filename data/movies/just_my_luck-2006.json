@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_my_luck_2006",
+  "title": "Just My Luck",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q228964",
+    "imdb": "tt0397078",
+    "tmdb": 10025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}
