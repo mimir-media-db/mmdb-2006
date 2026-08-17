@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scoobydoo_pirates_ahoy_2006",
+  "title": "Scooby-Doo! Pirates Ahoy!",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1961052",
+    "imdb": "tt0867418",
+    "tmdb": 13355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 80
+}

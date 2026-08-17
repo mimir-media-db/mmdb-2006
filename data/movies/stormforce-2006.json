@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stormforce_2006",
+  "title": "Stormforce",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2229598",
+    "imdb": "tt0480854",
+    "tmdb": 17902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

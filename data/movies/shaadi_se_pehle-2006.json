@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shaadi_se_pehle_2006",
+  "title": "Shaadi Se Pehle",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3411174",
+    "imdb": "tt0489560",
+    "tmdb": 324608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

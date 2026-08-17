@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sharpes_challenge_2006",
+  "title": "Sharpe's Challenge",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4807879",
+    "imdb": "tt0480002",
+    "tmdb": 75634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

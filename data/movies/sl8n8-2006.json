@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sl8n8_2006",
+  "title": "Sl8n8",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2556728",
+    "imdb": "tt0493452",
+    "tmdb": 50450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

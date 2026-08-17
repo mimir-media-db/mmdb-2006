@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seraphim_falls_2006",
+  "title": "Seraphim Falls",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1354162",
+    "imdb": "tt0479537",
+    "tmdb": 13249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spell_your_name_2006",
+  "title": "Spell Your Name",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4312327",
+    "imdb": "tt0443684",
+    "tmdb": 412258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 89
+}

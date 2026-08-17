@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_dead_riot_2006",
+  "title": "Shadow: Dead Riot",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4126378",
+    "imdb": "tt0427848",
+    "tmdb": 49359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 81
+}

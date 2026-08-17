@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stanleys_girlfriend_2006",
+  "title": "Stanley's Girlfriend",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3496789",
+    "imdb": "tt0800217",
+    "tmdb": 405205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

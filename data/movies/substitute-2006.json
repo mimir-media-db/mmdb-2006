@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_substitute_2006",
+  "title": "Substitute",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3502670",
+    "imdb": "tt0922626",
+    "tmdb": 83905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

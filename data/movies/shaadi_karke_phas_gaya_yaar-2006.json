@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shaadi_karke_phas_gaya_yaar_2006",
+  "title": "Shaadi Karke Phas Gaya Yaar",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2276148",
+    "imdb": "tt0430589",
+    "tmdb": 161205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 145
+}

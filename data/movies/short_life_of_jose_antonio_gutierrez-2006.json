@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_short_life_of_jose_antonio_gutierrez_2006",
+  "title": "The Short Life of José Antonio Gutierrez",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1171412",
+    "imdb": "tt0492484",
+    "tmdb": 321465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salzburg_in_the_shadow_of_the_crags_2006",
+  "title": "Salzburg: In the Shadow of the Crags",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1448827",
+    "imdb": "tt1950335",
+    "tmdb": 64298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 50
+}

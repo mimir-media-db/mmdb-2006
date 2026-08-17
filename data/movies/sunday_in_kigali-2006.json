@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sunday_in_kigali_2006",
+  "title": "A Sunday in Kigali",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q300575",
+    "imdb": "tt0463385",
+    "tmdb": 49846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_see_no_evil_2006",
+  "title": "See No Evil",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1467545",
+    "imdb": "tt0437179",
+    "tmdb": 10007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

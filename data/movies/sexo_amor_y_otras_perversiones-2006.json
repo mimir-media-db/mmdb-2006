@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexo_amor_y_otras_perversiones_2006",
+  "title": "Sexo, amor y otras perversiones",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3284193",
+    "imdb": "tt0419396",
+    "tmdb": 261866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scream_of_the_ants_2006",
+  "title": "Scream of the Ants",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3221946",
+    "imdb": "tt0949524",
+    "tmdb": 56952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 86
+}
