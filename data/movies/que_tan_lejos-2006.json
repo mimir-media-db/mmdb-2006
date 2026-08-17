@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_que_tan_lejos_2006",
+  "title": "Qué tan lejos",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7273087",
+    "imdb": "tt0951297",
+    "tmdb": 118895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 93
+}
