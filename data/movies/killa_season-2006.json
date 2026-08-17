@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killa_season_2006",
+  "title": "Killa Season",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6407247",
+    "imdb": "tt0798786",
+    "tmdb": 13097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-04-25"
+}

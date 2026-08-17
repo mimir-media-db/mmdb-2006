@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khelaghor_2006",
+  "title": "Khelaghor",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13057674",
+    "imdb": "tt2065987",
+    "tmdb": 414094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-26"
+}

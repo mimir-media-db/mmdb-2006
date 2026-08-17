@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keys_to_the_house_2006",
+  "title": "The Keys to the House",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1052682",
+    "imdb": "tt0345032",
+    "tmdb": 42420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-09-07",
+  "runtime_minutes": 105
+}

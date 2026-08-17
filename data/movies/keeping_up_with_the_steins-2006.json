@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keeping_up_with_the_steins_2006",
+  "title": "Keeping Up with the Steins",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1144222",
+    "imdb": "tt0415949",
+    "tmdb": 21014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-12",
+  "runtime_minutes": 99
+}

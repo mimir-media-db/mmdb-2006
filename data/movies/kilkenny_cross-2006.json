@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kilkenny_cross_2006",
+  "title": "Kilkenny Cross",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2030776",
+    "imdb": "tt0461977",
+    "tmdb": 305799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-05-15"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kabal_i_hjerter_2006",
+  "title": "Kabal i hjerter",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139694129",
+    "imdb": "tt1097243",
+    "tmdb": 300560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 62
+}

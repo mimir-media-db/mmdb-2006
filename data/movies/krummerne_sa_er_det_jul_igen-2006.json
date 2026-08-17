@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krummerne_sa_er_det_jul_igen_2006",
+  "title": "Krummerne - Så er det jul igen",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12323041",
+    "imdb": "tt0810927",
+    "tmdb": 21280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-11-17",
+  "runtime_minutes": 86
+}

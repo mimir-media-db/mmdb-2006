@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kim_novak_never_swam_in_genesarets_lake_2006",
+  "title": "Kim Novak Never Swam in Genesaret's Lake",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1741560",
+    "imdb": "tt0419881",
+    "tmdb": 25544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-03-15",
+  "runtime_minutes": 95
+}

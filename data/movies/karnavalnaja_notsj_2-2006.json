@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karnavalnaja_notsj_2_2006",
+  "title": "Karnavalnaja notsj 2",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4215504",
+    "imdb": "tt2175739",
+    "tmdb": 63262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-12-31",
+  "runtime_minutes": 162
+}
