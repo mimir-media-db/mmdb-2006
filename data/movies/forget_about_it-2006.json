@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forget_about_it_2006",
+  "title": "Forget About It",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5469640",
+    "imdb": "tt0393297",
+    "tmdb": 41855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 88
+}

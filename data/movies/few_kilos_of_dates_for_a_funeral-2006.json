@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_few_kilos_of_dates_for_a_funeral_2006",
+  "title": "A Few Kilos of Dates for a Funeral",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5947856",
+    "imdb": "tt0922379",
+    "tmdb": 45895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fight_club_members_only_2006",
+  "title": "Fight Club – Members Only",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3744708",
+    "imdb": "tt0456413",
+    "tmdb": 347807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

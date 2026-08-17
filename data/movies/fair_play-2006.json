@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fair_play_2006",
+  "title": "Fair Play",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3064517",
+    "imdb": "tt0454602",
+    "tmdb": 42427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 103
+}

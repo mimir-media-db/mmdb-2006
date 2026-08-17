@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foul_gesture_2006",
+  "title": "Foul Gesture",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6666245",
+    "imdb": "tt1090316",
+    "tmdb": 182160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 90
+}

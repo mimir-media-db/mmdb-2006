@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fellowship_of_the_andes_2006",
+  "title": "Fellowship of the Andes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5442545",
+    "imdb": "tt0889185"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

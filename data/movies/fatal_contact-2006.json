@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fatal_contact_2006",
+  "title": "Fatal Contact",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5437285",
+    "imdb": "tt0813549",
+    "tmdb": 30942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_foot_fist_way_2006",
+  "title": "The Foot Fist Way",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520940",
+    "imdb": "tt0492619",
+    "tmdb": 13484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friend_of_mine_2006",
+  "title": "A Friend of Mine",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q560123",
+    "imdb": "tt0441762",
+    "tmdb": 1964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 87
+}

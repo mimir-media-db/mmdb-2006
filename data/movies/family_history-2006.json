@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_family_history_2006",
+  "title": "Family History",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3136842",
+    "imdb": "tt0487182",
+    "tmdb": 131365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

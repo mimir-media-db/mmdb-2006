@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_snow_2006",
+  "title": "First Snow",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q474414",
+    "imdb": "tt0432289",
+    "tmdb": 16083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 101
+}

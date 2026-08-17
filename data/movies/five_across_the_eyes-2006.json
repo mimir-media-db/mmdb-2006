@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_across_the_eyes_2006",
+  "title": "Five Across the Eyes",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q970363",
+    "imdb": "tt0888019",
+    "tmdb": 43639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01",
+  "runtime_minutes": 94
+}

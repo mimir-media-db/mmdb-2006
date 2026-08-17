@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flourish_2006",
+  "title": "Flourish",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4390667",
+    "imdb": "tt0479914",
+    "tmdb": 14516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}

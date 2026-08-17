@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_day_high_2006",
+  "title": "First Day High",
+  "year": 2006,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5452909",
+    "imdb": "tt0856200",
+    "tmdb": 107773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2006-01-01"
+}
